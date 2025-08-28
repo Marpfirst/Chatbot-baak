@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Chatbot BAAK – Demo UI</title>
+
+  <!-- Tailwind + Fonts -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+  <!-- Styles dari static -->
+  <link rel="stylesheet" href="/static/css/chat.css">
+  <link rel="stylesheet" href="/static/css/chat-meta.css">
+
+  <!-- Markdown renderer -->
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body class="bg-gray-100">
+  <div class="min-h-screen flex flex-col">
+    <!-- Top bar -->
+    <header class="bg-white border-b border-gray-200 shadow-soft">
+      <div class="max-w-4xl mx-auto px-4 py-3 flex items-center gap-3">
+        <div class="flex items-center gap-2">
+          <div class="h-9 w-9 grid place-content-center rounded-xl bg-indigo-600 text-white font-bold">BA</div>
+          <h1 class="text-lg font-semibold">Chatbot BAAK – Demo</h1>
+        </div>
+        <div class="flex-1"></div>
+        <div class="flex items-center gap-2">
+          <span id="session-pill" class="hidden text-xs px-2 py-1 rounded-full bg-gray-100 border border-gray-200 text-gray-700"></span>
+          <button id="btn-health" class="text-xs px-3 py-2 rounded-lg border border-gray-300 bg-white hover:bg-gray-50">Health</button>
+          <button id="btn-newchat" class="text-xs px-3 py-2 rounded-lg bg-indigo-600 text-white hover:bg-indigo-700">New chat</button>
+        </div>
+      </div>
+    </header>
+
+    <!-- Chat area -->
+    <main class="flex-1">
+      <div id="chat-log" class="max-w-4xl mx-auto px-4 py-5 space-y-4 overflow-y-auto">
+        <!-- Welcome bubble -->
+        <div class="flex items-start gap-3 fade-in">
+          <div class="h-8 w-8 grid place-content-center rounded-full bg-indigo-600 text-white text-sm">BA</div>
+          <div class="bubble bg-white p-3 md:p-4 shadow-soft max-w-[80%]">
+            <div class="text-[13px] text-gray-500 mb-1">BAAK Bot</div>
+            <div class="prose prose-sm text-gray-800">
+              <p>Halo! Coba pertanyaan seperti:</p>
+              <ul class="mt-1">
+                <li><button class="text-indigo-600 hover:underline inline" onclick="quickAsk('kalender akademik')">kalender akademik</button></li>
+                <li><button class="text-indigo-600 hover:underline inline" onclick="quickAsk('jadwal kuliah kelas 1KA01')">jadwal kuliah kelas 1KA01</button></li>
+                <li><button class="text-indigo-600 hover:underline inline" onclick="quickAsk('jadwal uas 2ka02')">jadwal uas 2ka02</button></li>
+                <li><button class="text-indigo-600 hover:underline inline" onclick="quickAsk('bagaimana cara mengurus cuti kuliah?')">bagaimana cara mengurus cuti kuliah?</button></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <!-- Composer -->
+    <footer class="sticky bottom-0 bg-white/80 backdrop-blur supports-[backdrop-filter]:bg-white/60 border-t border-gray-200">
+      <div class="max-w-4xl mx-auto px-4 py-3">
+        <form id="chat-form" class="flex items-end gap-2">
+          <textarea id="chat-input" rows="1" placeholder="Tulis pertanyaan… (Enter kirim, Shift+Enter baris baru)" class="flex-1 resize-none rounded-xl border border-gray-300 px-3 py-2 focus:outline-none focus:ring-2 focus:ring-indigo-500"></textarea>
+          <button id="btn-send" class="rounded-xl bg-indigo-600 text-white px-4 py-2 hover:bg-indigo-700 disabled:opacity-50 disabled:cursor-not-allowed">Kirim</button>
+        </form>
+        <div id="note" class="text-xs text-gray-500 mt-2">Endpoint: <code>/api/chat</code></div>
+      </div>
+    </footer>
+  </div>
+
+  <!-- Scripts dari static -->
+  <script src="/static/js/chat-time.js"></script>
+  <script src="/static/js/app.js" defer></script>
+</body>
+</html>

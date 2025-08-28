@@ -1,0 +1,6 @@
+.meta-row{
+  display:flex; align-items:center; gap:.5rem;
+  font-size:.75rem; opacity:.7; margin-top:.35rem;
+}
+.meta-row .badge{ padding:.15rem .5rem; border-radius:.5rem; background:#eef; }
+.meta-row .msg-time{ margin-left:auto; font-variant-numeric:tabular-nums; }
