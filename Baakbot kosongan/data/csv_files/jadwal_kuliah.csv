@@ -1,0 +1,1549 @@
+input_kelas,kelas,hari,mata_kuliah,waktu,ruang,dosen,berlaku_mulai
+1ka01,1KA01,Selasa,Teknologi Kecerdasan Artifisial,,UGTV,TEAM TEACHING,07 Jul 2025
+1ka01,1KA01,Rabu,Matematika Dasar 2A,1/2,D656,DODDY ARI SURYANTO,07 Jul 2025
+1ka01,1KA01,Rabu,Teori Organisasi Umum,3/4,D656,ANGGA PUTRI EKANOVA,07 Jul 2025
+1ka01,1KA01,Rabu,Algoritma & Pemrograman 2A *,5/6,D656,TRI SULISTYORINI,07 Jul 2025
+1ka01,1KA01,Rabu,Struktur & Organisasi Data *,8/9/10,D662,NUR PUTRI AGUSTIYANI,07 Jul 2025
+1ka01,1KA01,Kamis,Pendidikan Agama Islam,1/2,E328,NUR MUNIR,07 Jul 2025
+1ka01,1KA01,Kamis,Algoritma & Pemrograman 2C *,3/4,E328,ANNISA RAHMASYHARI,07 Jul 2025
+1ka01,1KA01,Kamis,Algoritma & Pemrograman 2B *,6/7,E348,WITARI ARYUNANI,07 Jul 2025
+1ka01,1KA01,Jum'at,Matematika Dasar 2B,1/2,G128,SUSI INDRATI,07 Jul 2025
+1ka01,1KA01,Jum'at,Pendidikan Kewarganegaraan,3/4,G128,NUR PUTRI ERDIANTI,07 Jul 2025
+1ka01,1KA01,Jum'at,Bahasa Indonesia,7/8,G128,JONO SAROYO,07 Jul 2025
+1ka01,1KA01,Sabtu,Praktikum Teknologi Kecerdasan Artifisial,1/2,,TIM DOSEN,07 Jul 2025
+1ka02,1KA02,Senin,Bahasa Indonesia,1/2,E315,ARI WIJAYA BASUKI RAHARJO,07 Jul 2025
+1ka02,1KA02,Senin,Struktur & Organisasi Data *,5/6/7,E245,SARI NOORLIMA YANTI,07 Jul 2025
+1ka02,1KA02,Senin,Pendidikan Agama Islam,8/9,E245,ABDUL ROHMAN,07 Jul 2025
+1ka02,1KA02,Selasa,Teknologi Kecerdasan Artifisial,,UGTV,TEAM TEACHING,07 Jul 2025
+1ka02,1KA02,Rabu,Matematika Dasar 2B,1/2,D663,JAMILAH,07 Jul 2025
+1ka02,1KA02,Rabu,Algoritma & Pemrograman 2A *,3/4,D663,TRI SULISTYORINI,07 Jul 2025
+1ka02,1KA02,Rabu,Algoritma & Pemrograman 2B *,5/6,D663,PURWANTI,07 Jul 2025
+1ka02,1KA02,Rabu,Matematika Dasar 2A,8/9,D663,MUHAMMAD MOLDYNNIZ MUTIARA,07 Jul 2025
+1ka02,1KA02,Jum'at,Algoritma & Pemrograman 2C *,1/2,G422,IDA ASTUTI,07 Jul 2025
+1ka02,1KA02,Jum'at,Teori Organisasi Umum,3/4,G422,DYAH ESTHI PERWITASARI,07 Jul 2025
+1ka02,1KA02,Jum'at,Pendidikan Kewarganegaraan,7/8,G422,MUHAMAD FARID MAHMUD,07 Jul 2025
+1ka02,1KA02,Sabtu,Praktikum Teknologi Kecerdasan Artifisial,1/2,,TIM DOSEN,07 Jul 2025
+1ka03,1KA03,Senin,Algoritma & Pemrograman 2C *,1/2,D653,IDA ASTUTI,07 Jul 2025
+1ka03,1KA03,Senin,Struktur & Organisasi Data *,3/4/5,D653,NUR PUTRI AGUSTIYANI,07 Jul 2025
+1ka03,1KA03,Senin,Bahasa Indonesia,6/7,D653,NURUL SAYEKTI,07 Jul 2025
+1ka03,1KA03,Selasa,Teknologi Kecerdasan Artifisial,,UGTV,TEAM TEACHING,07 Jul 2025
+1ka03,1KA03,Rabu,Matematika Dasar 2A,1/2,D655,NURICHWAN,07 Jul 2025
+1ka03,1KA03,Rabu,Pendidikan Agama Islam,3/4,D655,ABDUL ROHMAN,07 Jul 2025
+1ka03,1KA03,Rabu,Algoritma & Pemrograman 2A *,6/7,D657,RINA REFIANTI MUTIARA,07 Jul 2025
+1ka03,1KA03,Rabu,Matematika Dasar 2B,8/9,D657,HARYONO PUTRO,07 Jul 2025
+1ka03,1KA03,Jum'at,Teori Organisasi Umum,1/2,E523,ANGGA PUTRI EKANOVA,07 Jul 2025
+1ka03,1KA03,Jum'at,Algoritma & Pemrograman 2B *,3/4,E523,RIZKI ARIYANI,07 Jul 2025
+1ka03,1KA03,Jum'at,Pendidikan Kewarganegaraan,7/8,E227,UMI KULSUM,07 Jul 2025
+1ka03,1KA03,Sabtu,Praktikum Teknologi Kecerdasan Artifisial,3/4,,TIM DOSEN,07 Jul 2025
+1ka04,1KA04,Senin,Struktur & Organisasi Data *,1/2/3,E314,ASTIE DARMAYANTIE,07 Jul 2025
+1ka04,1KA04,Senin,Teori Organisasi Umum,4/5,E336,EDY NURSANTA,07 Jul 2025
+1ka04,1KA04,Senin,Bahasa Indonesia,7/8,E422,MARIA,07 Jul 2025
+1ka04,1KA04,Selasa,Teknologi Kecerdasan Artifisial,,UGTV,TEAM TEACHING,07 Jul 2025
+1ka04,1KA04,Rabu,Matematika Dasar 2A,1/2,E134,WIKE WEDYA LASTIN,07 Jul 2025
+1ka04,1KA04,Rabu,Matematika Dasar 2B,5/6,E232,DIDIEK PRAMONO,07 Jul 2025
+1ka04,1KA04,Rabu,Pendidikan Agama Islam,7/8,E232,ISMAIL AKBAR BRAHMA,07 Jul 2025
+1ka04,1KA04,Rabu,Algoritma & Pemrograman 2B *,9/10,E232,PIPIT DEWI ARNESIA,07 Jul 2025
+1ka04,1KA04,Jum'at,Praktikum Teknologi Kecerdasan Artifisial,1/2,,TIM DOSEN,07 Jul 2025
+1ka04,1KA04,Sabtu,Pendidikan Kewarganegaraan,3/4,E217,ANDI NUR ALAM,07 Jul 2025
+1ka04,1KA04,Sabtu,Algoritma & Pemrograman 2C *,5/6,E217,DONIE MARGAVIANTO NURROKHMAN,07 Jul 2025
+1ka04,1KA04,Sabtu,Algoritma & Pemrograman 2A *,7/8,E217,DELTA AGUS WARDIANTO,07 Jul 2025
+1ka05,1KA05,Senin,Pendidikan Agama Islam,1/2,E225,NUR MUNIR,07 Jul 2025
+1ka05,1KA05,Senin,Bahasa Indonesia,3/4,E315,ARI WIJAYA BASUKI RAHARJO,07 Jul 2025
+1ka05,1KA05,Senin,Struktur & Organisasi Data *,5/6/7,E315,ASTIE DARMAYANTIE,07 Jul 2025
+1ka05,1KA05,Selasa,Teknologi Kecerdasan Artifisial,,UGTV,TEAM TEACHING,07 Jul 2025
+1ka05,1KA05,Rabu,Matematika Dasar 2A,1/2,E423,DIDIEK PRAMONO,07 Jul 2025
+1ka05,1KA05,Rabu,Algoritma & Pemrograman 2A *,3/4,E423,ELVINA,07 Jul 2025
+1ka05,1KA05,Rabu,Matematika Dasar 2B,5/6,E423,RAVI AHMAD SALIM,07 Jul 2025
+1ka05,1KA05,Rabu,Algoritma & Pemrograman 2B *,8/9,E134,FITHRI NURHAYATI,07 Jul 2025
+1ka05,1KA05,Jum'at,Pendidikan Kewarganegaraan,3/4,G452,EDI FAKHRI,07 Jul 2025
+1ka05,1KA05,Jum'at,Teori Organisasi Umum,7/8,G452,ANGGA PUTRI EKANOVA,07 Jul 2025
+1ka05,1KA05,Jum'at,Algoritma & Pemrograman 2C *,9/10,G452,LELI SAFITRI,07 Jul 2025
+1ka05,1KA05,Sabtu,Praktikum Teknologi Kecerdasan Artifisial,3/4,,TIM DOSEN,07 Jul 2025
+1ka06,1KA06,Senin,Pendidikan Kewarganegaraan,3/4,E215,MUSANA,07 Jul 2025
+1ka06,1KA06,Senin,Pendidikan Agama Islam,5/6,E215,MUHAMAD DARWIN NASUTION,07 Jul 2025
+1ka06,1KA06,Senin,Struktur & Organisasi Data *,8/9/10,E221,FIVI SYUKRIAH,07 Jul 2025
+1ka06,1KA06,Selasa,Teknologi Kecerdasan Artifisial,,UGTV,TEAM TEACHING,07 Jul 2025
+1ka06,1KA06,Rabu,Algoritma & Pemrograman 2A *,1/2,D667,TRI SULISTYORINI,07 Jul 2025
+1ka06,1KA06,Rabu,Algoritma & Pemrograman 2B *,3/4,D667,PURWANTI,07 Jul 2025
+1ka06,1KA06,Rabu,Matematika Dasar 2A,6/7,D625,MUHAMMAD MOLDYNNIZ MUTIARA,07 Jul 2025
+1ka06,1KA06,Rabu,Matematika Dasar 2B,8/9,D625,DYNA PRASETYA,07 Jul 2025
+1ka06,1KA06,Jum'at,Praktikum Teknologi Kecerdasan Artifisial,1/2,,TIM DOSEN,07 Jul 2025
+1ka06,1KA06,Sabtu,Bahasa Indonesia,3/4,E213,SUNARTI DESRIENY TAMBUNAN,07 Jul 2025
+1ka06,1KA06,Sabtu,Algoritma & Pemrograman 2C *,7/8,E216,DONIE MARGAVIANTO NURROKHMAN,07 Jul 2025
+1ka06,1KA06,Sabtu,Teori Organisasi Umum,9/10,E216,HEIDY HAPSARI,07 Jul 2025
+1ka07,1KA07,Selasa,Teknologi Kecerdasan Artifisial,,UGTV,TEAM TEACHING,07 Jul 2025
+1ka07,1KA07,Rabu,Algoritma & Pemrograman 2A *,1/2,E335,ELVINA,07 Jul 2025
+1ka07,1KA07,Rabu,Matematika Dasar 2B,3/4,E133,MUHAMMAD MOLDYNNIZ MUTIARA,07 Jul 2025
+1ka07,1KA07,Rabu,Matematika Dasar 2A,7/8,E321,RAVI AHMAD SALIM,07 Jul 2025
+1ka07,1KA07,Rabu,Pendidikan Agama Islam,9/10,E321,ISMAIL AKBAR BRAHMA,07 Jul 2025
+1ka07,1KA07,Kamis,Algoritma & Pemrograman 2C *,1/2,E343,ANNISA RAHMASYHARI,07 Jul 2025
+1ka07,1KA07,Kamis,Algoritma & Pemrograman 2B *,4/5,E443,WITARI ARYUNANI,07 Jul 2025
+1ka07,1KA07,Kamis,Struktur & Organisasi Data *,6/7/8,E443,ROSDIANA,07 Jul 2025
+1ka07,1KA07,Jum'at,Bahasa Indonesia,1/2,E516,JONO SAROYO,07 Jul 2025
+1ka07,1KA07,Jum'at,Teori Organisasi Umum,3/4,E516,KARTIKA SARI,07 Jul 2025
+1ka07,1KA07,Jum'at,Pendidikan Kewarganegaraan,7/8,E515,RANDY,07 Jul 2025
+1ka07,1KA07,Sabtu,Praktikum Teknologi Kecerdasan Artifisial,8/9,,TIM DOSEN,07 Jul 2025
+1ka08,1KA08,Selasa,Teknologi Kecerdasan Artifisial,,UGTV,TEAM TEACHING,07 Jul 2025
+1ka08,1KA08,Rabu,Algoritma & Pemrograman 2B *,1/2,D613,PURWANTI,07 Jul 2025
+1ka08,1KA08,Rabu,Algoritma & Pemrograman 2A *,3/4,D613,RINA REFIANTI MUTIARA,07 Jul 2025
+1ka08,1KA08,Rabu,Algoritma & Pemrograman 2C *,5/6,D613,OCTARINA BUDI LESTARI,07 Jul 2025
+1ka08,1KA08,Rabu,Pendidikan Agama Islam,8/9,D633,ABDUL ROHMAN,07 Jul 2025
+1ka08,1KA08,Kamis,Bahasa Indonesia,1/2,G221,ARI WIJAYA BASUKI RAHARJO,07 Jul 2025
+1ka08,1KA08,Kamis,Struktur & Organisasi Data *,3/4/5,G221,ROSDIANA,07 Jul 2025
+1ka08,1KA08,Kamis,Matematika Dasar 2A,7/8,G423,MUHAMMAD MOLDYNNIZ MUTIARA,07 Jul 2025
+1ka08,1KA08,Jum'at,Matematika Dasar 2B,3/4,G113,SUSI INDRATI,07 Jul 2025
+1ka08,1KA08,Jum'at,Pendidikan Kewarganegaraan,7/8,G244,EDI FAKHRI,07 Jul 2025
+1ka08,1KA08,Jum'at,Teori Organisasi Umum,9/10,G244,SRI SETYA HANDAYANI,07 Jul 2025
+1ka08,1KA08,Sabtu,Praktikum Teknologi Kecerdasan Artifisial,8/9,,TIM DOSEN,07 Jul 2025
+1ka09,1KA09,Senin,Bahasa Indonesia,4/5,G444,NOVIA DIAH LESTARI,07 Jul 2025
+1ka09,1KA09,Senin,Algoritma & Pemrograman 2C *,6/7,G444,OCTARINA BUDI LESTARI,07 Jul 2025
+1ka09,1KA09,Senin,Struktur & Organisasi Data *,8/9/10,G444,IWAN,07 Jul 2025
+1ka09,1KA09,Selasa,Teknologi Kecerdasan Artifisial,,UGTV,TEAM TEACHING,07 Jul 2025
+1ka09,1KA09,Rabu,Pendidikan Agama Islam,1/2,D632,ABDUL ROHMAN,07 Jul 2025
+1ka09,1KA09,Rabu,Pendidikan Kewarganegaraan,3/4,D632,ATI HARMONI,07 Jul 2025
+1ka09,1KA09,Rabu,Algoritma & Pemrograman 2A *,5/6,D632,WAHYU SUPRIYATIN,07 Jul 2025
+1ka09,1KA09,Rabu,Teori Organisasi Umum,8/9,D632,TITI NUGRAHENI,07 Jul 2025
+1ka09,1KA09,Kamis,Algoritma & Pemrograman 2B *,1/2,G127,PURWANTI,07 Jul 2025
+1ka09,1KA09,Kamis,Matematika Dasar 2A,3/4,G127,MUHAMMAD MOLDYNNIZ MUTIARA,07 Jul 2025
+1ka09,1KA09,Kamis,Matematika Dasar 2B,5/6,G127,DYAN PRAWITA SARI,07 Jul 2025
+1ka09,1KA09,Jum'at,Praktikum Teknologi Kecerdasan Artifisial,1/2,,TIM DOSEN,07 Jul 2025
+1ka10,1KA10,Senin,Praktikum Teknologi Kecerdasan Artifisial,1/2,,TIM DOSEN,07 Jul 2025
+1ka10,1KA10,Selasa,Teknologi Kecerdasan Artifisial,,UGTV,TEAM TEACHING,07 Jul 2025
+1ka10,1KA10,Rabu,Algoritma & Pemrograman 2C *,3/4,D666,OCTARINA BUDI LESTARI,07 Jul 2025
+1ka10,1KA10,Rabu,Struktur & Organisasi Data *,5/6/7,D666,SARI NOORLIMA YANTI,07 Jul 2025
+1ka10,1KA10,Rabu,Matematika Dasar 2B,8/9,D666,DIDIEK PRAMONO,07 Jul 2025
+1ka10,1KA10,Kamis,Pendidikan Agama Islam,1/2,E524,NOVIANTO,07 Jul 2025
+1ka10,1KA10,Kamis,Algoritma & Pemrograman 2A *,3/4,E524,YUCE YULIANI,07 Jul 2025
+1ka10,1KA10,Kamis,Algoritma & Pemrograman 2B *,6/7,E424,ETY SUTANTY,07 Jul 2025
+1ka10,1KA10,Kamis,Matematika Dasar 2A,8/9,E424,CHRISTOFEL JAROT YUDAPUTRANTO,07 Jul 2025
+1ka10,1KA10,Jum'at,Teori Organisasi Umum,3/4,E317,TITI NUGRAHENI,07 Jul 2025
+1ka10,1KA10,Jum'at,Pendidikan Kewarganegaraan,7/8,E217,ERNI KARYATI,07 Jul 2025
+1ka10,1KA10,Jum'at,Bahasa Indonesia,9/10,E217,LINDA RATNAWIASIH,07 Jul 2025
+1ka11,1KA11,Senin,Teori Organisasi Umum,1/2,E312,TITI NUGRAHENI,07 Jul 2025
+1ka11,1KA11,Senin,Bahasa Indonesia,3/4,E312,RITA SUTJIATI DJOHAN,07 Jul 2025
+1ka11,1KA11,Senin,Pendidikan Kewarganegaraan,7/8,E522,MEI RAHARJA,07 Jul 2025
+1ka11,1KA11,Senin,Algoritma & Pemrograman 2C *,9/10,E522,OKTAVIANI,07 Jul 2025
+1ka11,1KA11,Selasa,Teknologi Kecerdasan Artifisial,,UGTV,TEAM TEACHING,07 Jul 2025
+1ka11,1KA11,Rabu,Struktur & Organisasi Data *,3/4/5,D652,ITAR MINTARSIH,07 Jul 2025
+1ka11,1KA11,Rabu,Matematika Dasar 2A,6/7,D652,VERONICA ERNITA KRISTIANTI,07 Jul 2025
+1ka11,1KA11,Kamis,Algoritma & Pemrograman 2B *,1/2,G129,ETY SUTANTY,07 Jul 2025
+1ka11,1KA11,Kamis,Pendidikan Agama Islam,3/4,G129,ABBAS MUHAMMAD BASALAMAH,07 Jul 2025
+1ka11,1KA11,Kamis,Algoritma & Pemrograman 2A *,6/7,G136,YUCE YULIANI,07 Jul 2025
+1ka11,1KA11,Kamis,Matematika Dasar 2B,8/9,G136,DIDIEK PRAMONO,07 Jul 2025
+1ka11,1KA11,Jum'at,Praktikum Teknologi Kecerdasan Artifisial,1/2,,TIM DOSEN,07 Jul 2025
+1ka12,1KA12,Senin,Pendidikan Kewarganegaraan,1/2,E318,MUSANA,07 Jul 2025
+1ka12,1KA12,Senin,Pendidikan Agama Islam,3/4,E318,MUHAMAD DARWIN NASUTION,07 Jul 2025
+1ka12,1KA12,Senin,Struktur & Organisasi Data *,5/6/7,E318,FIVI SYUKRIAH,07 Jul 2025
+1ka12,1KA12,Selasa,Teknologi Kecerdasan Artifisial,,UGTV,TEAM TEACHING,07 Jul 2025
+1ka12,1KA12,Kamis,Matematika Dasar 2B,1/2,D645,HARJANTO SUTEDJO,07 Jul 2025
+1ka12,1KA12,Kamis,Matematika Dasar 2A,3/4,D645,RAVI AHMAD SALIM,07 Jul 2025
+1ka12,1KA12,Kamis,Algoritma & Pemrograman 2B *,5/6,D645,IRA WINDARTI,07 Jul 2025
+1ka12,1KA12,Kamis,Algoritma & Pemrograman 2A *,8/9,D645,OLGA DIDERIKA IRENA D,07 Jul 2025
+1ka12,1KA12,Jum'at,Praktikum Teknologi Kecerdasan Artifisial,1/2,,TIM DOSEN,07 Jul 2025
+1ka12,1KA12,Sabtu,Algoritma & Pemrograman 2C *,1/2,E316,DONIE MARGAVIANTO NURROKHMAN,07 Jul 2025
+1ka12,1KA12,Sabtu,Bahasa Indonesia,3/4,E316,NOVIA DIAH LESTARI,07 Jul 2025
+1ka12,1KA12,Sabtu,Teori Organisasi Umum,6/7,E227,HEIDY HAPSARI,07 Jul 2025
+1ka13,1KA13,Senin,Struktur & Organisasi Data *,1/2/3,E335,ITAR MINTARSIH,07 Jul 2025
+1ka13,1KA13,Senin,Teori Organisasi Umum,4/5,E335,SRI SETYA HANDAYANI,07 Jul 2025
+1ka13,1KA13,Senin,Pendidikan Agama Islam,7/8,E335,MUHAMAD DARWIN NASUTION,07 Jul 2025
+1ka13,1KA13,Senin,Bahasa Indonesia,9/10,E335,MARIA,07 Jul 2025
+1ka13,1KA13,Selasa,Teknologi Kecerdasan Artifisial,,UGTV,TEAM TEACHING,07 Jul 2025
+1ka13,1KA13,Kamis,Algoritma & Pemrograman 2B *,1/2,D654,SUNARKO,07 Jul 2025
+1ka13,1KA13,Kamis,Matematika Dasar 2B,3/4,D654,HARJANTO SUTEDJO,07 Jul 2025
+1ka13,1KA13,Kamis,Matematika Dasar 2A,5/6,D654,RAVI AHMAD SALIM,07 Jul 2025
+1ka13,1KA13,Kamis,Algoritma & Pemrograman 2A *,8/9,D653,RINA REFIANTI MUTIARA,07 Jul 2025
+1ka13,1KA13,Jum'at,Praktikum Teknologi Kecerdasan Artifisial,3/4,,TIM DOSEN,07 Jul 2025
+1ka13,1KA13,Sabtu,Pendidikan Kewarganegaraan,1/2,E315,MEI RAHARJA,07 Jul 2025
+1ka13,1KA13,Sabtu,Algoritma & Pemrograman 2C *,3/4,E315,DONIE MARGAVIANTO NURROKHMAN,07 Jul 2025
+1ka14,1KA14,Senin,Pendidikan Kewarganegaraan,1/2,E317,NELTJE F KATUUK,07 Jul 2025
+1ka14,1KA14,Senin,Teori Organisasi Umum,3/4,E325,KARTIKA SARI,07 Jul 2025
+1ka14,1KA14,Senin,Bahasa Indonesia,5/6,E311,ARI WIJAYA BASUKI RAHARJO,07 Jul 2025
+1ka14,1KA14,Senin,Algoritma & Pemrograman 2C *,8/9,E214,ELVINA,07 Jul 2025
+1ka14,1KA14,Selasa,Teknologi Kecerdasan Artifisial,,UGTV,TEAM TEACHING,07 Jul 2025
+1ka14,1KA14,Rabu,Matematika Dasar 2A,3/4,D626,NURICHWAN,07 Jul 2025
+1ka14,1KA14,Rabu,Pendidikan Agama Islam,6/7,D644,ABDUL ROHMAN,07 Jul 2025
+1ka14,1KA14,Rabu,Struktur & Organisasi Data *,8/9/10,D644,SARI NOORLIMA YANTI,07 Jul 2025
+1ka14,1KA14,Kamis,Algoritma & Pemrograman 2B *,3/4,D646,SUNARKO,07 Jul 2025
+1ka14,1KA14,Kamis,Algoritma & Pemrograman 2A *,5/6,D646,RINA REFIANTI MUTIARA,07 Jul 2025
+1ka14,1KA14,Kamis,Matematika Dasar 2B,7/8,D646,HARJANTO SUTEDJO,07 Jul 2025
+1ka14,1KA14,Jum'at,Praktikum Teknologi Kecerdasan Artifisial,3/4,,TIM DOSEN,07 Jul 2025
+1ka15,1KA15,Senin,Praktikum Teknologi Kecerdasan Artifisial,3/4,,TIM DOSEN,07 Jul 2025
+1ka15,1KA15,Selasa,Teknologi Kecerdasan Artifisial,,UGTV,TEAM TEACHING,07 Jul 2025
+1ka15,1KA15,Kamis,Matematika Dasar 2A,1/2,D665,RAVI AHMAD SALIM,07 Jul 2025
+1ka15,1KA15,Kamis,Algoritma & Pemrograman 2A *,3/4,D665,RINA REFIANTI MUTIARA,07 Jul 2025
+1ka15,1KA15,Kamis,Matematika Dasar 2B,6/7,D665,ELSA OKTAVITRI,07 Jul 2025
+1ka15,1KA15,Kamis,Algoritma & Pemrograman 2B *,8/9,D665,IRA WINDARTI,07 Jul 2025
+1ka15,1KA15,Jum'at,Teori Organisasi Umum,3/4,D651,SRI SETYA HANDAYANI,07 Jul 2025
+1ka15,1KA15,Jum'at,Struktur & Organisasi Data *,7/8/9,D641,RATIH NURDIYANI SARI,07 Jul 2025
+1ka15,1KA15,Sabtu,Bahasa Indonesia,1/2,E242,SANGSANG SANGABAKTI,07 Jul 2025
+1ka15,1KA15,Sabtu,Pendidikan Kewarganegaraan,3/4,E242,NORMANSHAH BANOWO,07 Jul 2025
+1ka15,1KA15,Sabtu,Pendidikan Agama Islam,7/8,E213,BURHANUDDIN DJAMALUDDIN,07 Jul 2025
+1ka15,1KA15,Sabtu,Algoritma & Pemrograman 2C *,9/10,E213,DONIE MARGAVIANTO NURROKHMAN,07 Jul 2025
+1ka16,1KA16,Senin,Praktikum Teknologi Kecerdasan Artifisial,3/4,,TIM DOSEN,07 Jul 2025
+1ka16,1KA16,Selasa,Teknologi Kecerdasan Artifisial,,UGTV,TEAM TEACHING,07 Jul 2025
+1ka16,1KA16,Rabu,Algoritma & Pemrograman 2A *,1/2,E132,MASIMBANGAN SABARINA HARLINA/RIZKI A,07 Jul 2025
+1ka16,1KA16,Rabu,Matematika Dasar 2A,3/4,E132,WIKE WEDYA LASTIN,07 Jul 2025
+1ka16,1KA16,Rabu,Algoritma & Pemrograman 2C *,5/6,E132,DESY WULANDARI ASFARY PUTRI,07 Jul 2025
+1ka16,1KA16,Rabu,Struktur & Organisasi Data *,8/9/10,E244,RATIH NURDIYANI SARI,07 Jul 2025
+1ka16,1KA16,Kamis,Algoritma & Pemrograman 2B *,3/4,G442,ETY SUTANTY,07 Jul 2025
+1ka16,1KA16,Kamis,Matematika Dasar 2B,5/6,G442,DIDIEK PRAMONO,07 Jul 2025
+1ka16,1KA16,Kamis,Pendidikan Agama Islam,8/9,G347,NOVIANTO,07 Jul 2025
+1ka16,1KA16,Jum'at,Pendidikan Kewarganegaraan,1/2,E524,UMI KULSUM,07 Jul 2025
+1ka16,1KA16,Jum'at,Teori Organisasi Umum,3/4,E524,ANGGA PUTRI EKANOVA,07 Jul 2025
+1ka16,1KA16,Jum'at,Bahasa Indonesia,7/8,E243,LINDA RATNAWIASIH,07 Jul 2025
+1ka17,1KA17,Senin,Praktikum Teknologi Kecerdasan Artifisial,6/7,,TIM DOSEN,07 Jul 2025
+1ka17,1KA17,Selasa,Teknologi Kecerdasan Artifisial,,UGTV,TEAM TEACHING,07 Jul 2025
+1ka17,1KA17,Rabu,Struktur & Organisasi Data *,3/4/5,G343,DETTY PURNAMASARI,07 Jul 2025
+1ka17,1KA17,Rabu,Teori Organisasi Umum,6/7,G343,SRI SETYA HANDAYANI,07 Jul 2025
+1ka17,1KA17,Kamis,Algoritma & Pemrograman 2B *,1/2,G423,DIANA IKASARI,07 Jul 2025
+1ka17,1KA17,Kamis,Matematika Dasar 2B,3/4,G423,DYAN PRAWITA SARI,07 Jul 2025
+1ka17,1KA17,Kamis,Algoritma & Pemrograman 2A *,7/8,G215,FITRI SJAFRINA,07 Jul 2025
+1ka17,1KA17,Kamis,Matematika Dasar 2A,9/10,G215,DESY KRISTYAWATI,07 Jul 2025
+1ka17,1KA17,Jum'at,Algoritma & Pemrograman 2C *,1/2,G224,LELI SAFITRI,07 Jul 2025
+1ka17,1KA17,Jum'at,Pendidikan Kewarganegaraan,3/4,G224,MARTI RIASTUTI,07 Jul 2025
+1ka17,1KA17,Jum'at,Bahasa Indonesia,7/8,G122,TRI BUDIARTA,07 Jul 2025
+1ka17,1KA17,Jum'at,Pendidikan Agama Islam,9/10,G122,MU'MINATUS FITRIATI FIRDAUS,07 Jul 2025
+1ka18,1KA18,Senin,Praktikum Teknologi Kecerdasan Artifisial,6/7,,TIM DOSEN,07 Jul 2025
+1ka18,1KA18,Selasa,Teknologi Kecerdasan Artifisial,,UGTV,TEAM TEACHING,07 Jul 2025
+1ka18,1KA18,Rabu,Matematika Dasar 2B,3/4,D645,EGA JULIA FAJARSARI,07 Jul 2025
+1ka18,1KA18,Rabu,Algoritma & Pemrograman 2B *,7/8,D637,PURWANTI,07 Jul 2025
+1ka18,1KA18,Rabu,Algoritma & Pemrograman 2A *,9/10,D637,ERLINA,07 Jul 2025
+1ka18,1KA18,Kamis,Bahasa Indonesia,3/4,G116,ARI WIJAYA BASUKI RAHARJO,07 Jul 2025
+1ka18,1KA18,Kamis,Pendidikan Agama Islam,6/7,G137,NOVIANTO,07 Jul 2025
+1ka18,1KA18,Jum'at,Algoritma & Pemrograman 2C *,3/4,G344,IDA ASTUTI,07 Jul 2025
+1ka18,1KA18,Jum'at,Teori Organisasi Umum,7/8,G344,SRI SETYA HANDAYANI,07 Jul 2025
+1ka18,1KA18,Jum'at,Pendidikan Kewarganegaraan,9/10,G344,MUHAMAD FARID MAHMUD,07 Jul 2025
+1ka18,1KA18,Sabtu,Matematika Dasar 2A,1/2,G224,NURYANTO1,07 Jul 2025
+1ka18,1KA18,Sabtu,Struktur & Organisasi Data *,4/5/6,G224,ARUM TRI ISWARI PURWANTI,07 Jul 2025
+1ka19,1KA19,Senin,Pendidikan Agama Islam,1/2,G227,MULYADI,07 Jul 2025
+1ka19,1KA19,Senin,Pendidikan Kewarganegaraan,3/4,G227,ATI HARMONI,07 Jul 2025
+1ka19,1KA19,Senin,Struktur & Organisasi Data *,5/6/7,G227,IWAN,07 Jul 2025
+1ka19,1KA19,Senin,Algoritma & Pemrograman 2C *,9/10,G122,OCTARINA BUDI LESTARI,07 Jul 2025
+1ka19,1KA19,Selasa,Teknologi Kecerdasan Artifisial,,UGTV,TEAM TEACHING,07 Jul 2025
+1ka19,1KA19,Selasa,Praktikum Teknologi Kecerdasan Artifisial,6/7,,TIM DOSEN,07 Jul 2025
+1ka19,1KA19,Kamis,Matematika Dasar 2A,2/3,D613,WAHYU KUSUMA RAHARJA,07 Jul 2025
+1ka19,1KA19,Kamis,Algoritma & Pemrograman 2A *,5/6,D641,OLGA DIDERIKA IRENA D,07 Jul 2025
+1ka19,1KA19,Kamis,Algoritma & Pemrograman 2B *,7/8,D641,MUHAMMAD EDY SUPRIYADI,07 Jul 2025
+1ka19,1KA19,Kamis,Matematika Dasar 2B,9/10,D641,ELSA OKTAVITRI,07 Jul 2025
+1ka19,1KA19,Jum'at,Bahasa Indonesia,3/4,G129,JONO SAROYO,07 Jul 2025
+1ka19,1KA19,Jum'at,Teori Organisasi Umum,7/8,G129,DYAH ESTHI PERWITASARI,07 Jul 2025
+1ka20,1KA20,Senin,Struktur & Organisasi Data *,1/2/3,E245,SARI NOORLIMA YANTI,07 Jul 2025
+1ka20,1KA20,Senin,Algoritma & Pemrograman 2C *,5/6,E223,ELVINA,07 Jul 2025
+1ka20,1KA20,Senin,Pendidikan Kewarganegaraan,9/10,E222,MEI RAHARJA,07 Jul 2025
+1ka20,1KA20,Selasa,Teknologi Kecerdasan Artifisial,,UGTV,TEAM TEACHING,07 Jul 2025
+1ka20,1KA20,Rabu,Teori Organisasi Umum,1/2,D662,ANGGA PUTRI EKANOVA,07 Jul 2025
+1ka20,1KA20,Rabu,Matematika Dasar 2B,3/4,D662,ANY KURNIAWATY YAPIE,07 Jul 2025
+1ka20,1KA20,Rabu,Algoritma & Pemrograman 2A *,7/8,D624,ERLINA,07 Jul 2025
+1ka20,1KA20,Rabu,Algoritma & Pemrograman 2B *,9/10,D624,PURWANTI,07 Jul 2025
+1ka20,1KA20,Kamis,Pendidikan Agama Islam,3/4,G234,APIPUDIN,07 Jul 2025
+1ka20,1KA20,Kamis,Bahasa Indonesia,7/8,G226,ARI WIJAYA BASUKI RAHARJO,07 Jul 2025
+1ka20,1KA20,Kamis,Matematika Dasar 2A,9/10,G226,WIDIANTO MUTTAQIEN MUKODIM,07 Jul 2025
+1ka20,1KA20,Jum'at,Praktikum Teknologi Kecerdasan Artifisial,3/4,,TIM DOSEN,07 Jul 2025
+1ka21,1KA21,Senin,Pendidikan Agama Islam,1/2,B221,RETMIARTI,07 Jul 2025
+1ka21,1KA21,Senin,Pendidikan Kewarganegaraan,3/4,B221,FATCHULLAH ZARKASI,07 Jul 2025
+1ka21,1KA21,Senin,Struktur & Organisasi Data *,5/6/7,B221,ITA RUSMALA DEWI,07 Jul 2025
+1ka21,1KA21,Selasa,Teknologi Kecerdasan Artifisial,,UGTV,TEAM TEACHING,07 Jul 2025
+1ka21,1KA21,Rabu,Algoritma & Pemrograman 2C *,1/2,A101,BAMBANG YULIANTO,07 Jul 2025
+1ka21,1KA21,Rabu,Matematika Dasar 2A,3/4,A101,NUR SETIAWATI,07 Jul 2025
+1ka21,1KA21,Rabu,Matematika Dasar 2B,7/8,A202,MUHAMMAD IMRON HADISANTOSA,07 Jul 2025
+1ka21,1KA21,Rabu,Algoritma & Pemrograman 2A *,9/10,A202,IKE PUTRI KUSUMAWIJAYA,07 Jul 2025
+1ka21,1KA21,Kamis,Bahasa Indonesia,1/2,B222,MELANIAWATI,07 Jul 2025
+1ka21,1KA21,Kamis,Teori Organisasi Umum,3/4,B222,IBNU CAHYO RAMADHAN,07 Jul 2025
+1ka21,1KA21,Kamis,Algoritma & Pemrograman 2B *,6/7,B222,LULU CHAERANI MUNGGARAN,07 Jul 2025
+1ka21,1KA21,Jum'at,Praktikum Teknologi Kecerdasan Artifisial,3/4,,TIM DOSEN,07 Jul 2025
+1ka22,1KA22,Senin,Algoritma & Pemrograman 2C *,1/2,B211,BAMBANG YULIANTO,07 Jul 2025
+1ka22,1KA22,Senin,Pendidikan Agama Islam,3/4,B211,RETMIARTI,07 Jul 2025
+1ka22,1KA22,Senin,Pendidikan Kewarganegaraan,5/6,B211,FATCHULLAH ZARKASI,07 Jul 2025
+1ka22,1KA22,Senin,Struktur & Organisasi Data *,8/9/10,B211,ITA RUSMALA DEWI,07 Jul 2025
+1ka22,1KA22,Selasa,Teknologi Kecerdasan Artifisial,,UGTV,TEAM TEACHING,07 Jul 2025
+1ka22,1KA22,Rabu,Matematika Dasar 2A,1/2,A601,NUR SETIAWATI,07 Jul 2025
+1ka22,1KA22,Rabu,Matematika Dasar 2B,5/6,A202,MUHAMMAD IMRON HADISANTOSA,07 Jul 2025
+1ka22,1KA22,Kamis,Algoritma & Pemrograman 2A *,1/2,B221,IKE PUTRI KUSUMAWIJAYA,07 Jul 2025
+1ka22,1KA22,Kamis,Bahasa Indonesia,3/4,B221,MELANIAWATI,07 Jul 2025
+1ka22,1KA22,Kamis,Teori Organisasi Umum,6/7,B221,IBNU CAHYO RAMADHAN,07 Jul 2025
+1ka22,1KA22,Kamis,Algoritma & Pemrograman 2B *,8/9,B221,LULU CHAERANI MUNGGARAN,07 Jul 2025
+1ka22,1KA22,Jum'at,Praktikum Teknologi Kecerdasan Artifisial,3/4,,TIM DOSEN,07 Jul 2025
+1ka23,1KA23,Selasa,Teknologi Kecerdasan Artifisial,,UGTV,TEAM TEACHING,07 Jul 2025
+1ka23,1KA23,Rabu,Matematika Dasar 2AB,12/13/14,D632,EDI SUKIRMAN,07 Jul 2025
+1ka23,1KA23,Kamis,Struktur & Organisasi Data *,12/13/14,D631,IWAN SETIADI,07 Jul 2025
+1ka23,1KA23,Jum'at,Teori Organisasi Umum,11/12,D631,IBNU CAHYO RAMADHAN,07 Jul 2025
+1ka23,1KA23,Jum'at,Bahasa Indonesia,13/14,D631,SANGSANG SANGABAKTI,07 Jul 2025
+1ka23,1KA23,Sabtu,Pendidikan Kewarganegaraan,1/2,E521,ANDI NUR ALAM,07 Jul 2025
+1ka23,1KA23,Sabtu,Praktikum Teknologi Kecerdasan Artifisial,11/12,,TIM DOSEN,07 Jul 2025
+1ka23,1KA23,Sabtu,Algoritma & Pemrograman 2 ABC,3/4/5,E521,YUDI IRAWAN CHANDRA,07 Jul 2025
+1ka23,1KA23,Sabtu,Pendidikan Agama Islam,7/8,E521,NOVIANTO,07 Jul 2025
+1ka24,1KA24,Senin,Pendidikan Kewarganegaraan,1/2,J1417,JUNAEDI ABDILLAH,07 Jul 2025
+1ka24,1KA24,Senin,Matematika Dasar 2A,5/6,J133A,ALONA SITUMEANG,07 Jul 2025
+1ka24,1KA24,Senin,Bahasa Indonesia,7/8,J133A,INDAH MUSTIKA SHANTI,07 Jul 2025
+1ka24,1KA24,Senin,Matematika Dasar 2B,9/10,J133A,HAFIDZAH,07 Jul 2025
+1ka24,1KA24,Selasa,Teknologi Kecerdasan Artifisial,,UGTV,TEAM TEACHING,07 Jul 2025
+1ka24,1KA24,Rabu,Algoritma & Pemrograman 2A *,1/2,J157,ARIMBI KURNIASARI,07 Jul 2025
+1ka24,1KA24,Rabu,Algoritma & Pemrograman 2C *,3/4,J157,RINI ARIANTY,07 Jul 2025
+1ka24,1KA24,Rabu,Teori Organisasi Umum,5/6,J157,EVA KHADIJAH,07 Jul 2025
+1ka24,1KA24,Rabu,Struktur & Organisasi Data *,8/9/10,J127,BUDI UTAMI FAHNUN,07 Jul 2025
+1ka24,1KA24,Kamis,Pendidikan Agama Islam,3/4,J138,MUHAMMAD ABDULLAH S,07 Jul 2025
+1ka24,1KA24,Kamis,Algoritma & Pemrograman 2B *,5/6,J138,KARTIKA NOR RAMADHA,07 Jul 2025
+1ka24,1KA24,Sabtu,Praktikum Teknologi Kecerdasan Artifisial,1/2,,TIM DOSEN,07 Jul 2025
+1ka25,1KA25,Senin,Pendidikan Agama Islam,3/4,J1510,MUHAMMAD ABDULLAH S,07 Jul 2025
+1ka25,1KA25,Senin,Matematika Dasar 2A,7/8,J1211,ALONA SITUMEANG,07 Jul 2025
+1ka25,1KA25,Senin,Bahasa Indonesia,9/10,J1211,KURNIAWAN EKA,07 Jul 2025
+1ka25,1KA25,Selasa,Teknologi Kecerdasan Artifisial,,UGTV,TEAM TEACHING,07 Jul 2025
+1ka25,1KA25,Rabu,Struktur & Organisasi Data *,3/4/5,J1316A,IWAN,07 Jul 2025
+1ka25,1KA25,Rabu,Algoritma & Pemrograman 2C *,7/8,J157,RINI ARIANTY,07 Jul 2025
+1ka25,1KA25,Rabu,Teori Organisasi Umum,9/10,J157,EVA KHADIJAH,07 Jul 2025
+1ka25,1KA25,Kamis,Algoritma & Pemrograman 2B *,1/2,J1212,KARTIKA NOR RAMADHA,07 Jul 2025
+1ka25,1KA25,Kamis,Matematika Dasar 2B,3/4,J1212,MOCHAMMAD KARJADI,07 Jul 2025
+1ka25,1KA25,Kamis,Algoritma & Pemrograman 2A *,5/6,J1212,NIA YUNINGSIH,07 Jul 2025
+1ka25,1KA25,Kamis,Pendidikan Kewarganegaraan,9/10,J1115B,JUNAEDI ABDILLAH,07 Jul 2025
+1ka25,1KA25,Sabtu,Praktikum Teknologi Kecerdasan Artifisial,3/4,,TIM DOSEN,07 Jul 2025
+1ka26,1KA26,Senin,Praktikum Teknologi Kecerdasan Artifisial,1/2,,TIM DOSEN,07 Jul 2025
+1ka26,1KA26,Selasa,Teknologi Kecerdasan Artifisial,,UGTV,TEAM TEACHING,07 Jul 2025
+1ka26,1KA26,Rabu,Algoritma & Pemrograman 2B *,1/2,J1424,BAGUS SETIADI GURMILANG,07 Jul 2025
+1ka26,1KA26,Rabu,Algoritma & Pemrograman 2A *,5/6,J1311,NIA YUNINGSIH,07 Jul 2025
+1ka26,1KA26,Rabu,Teori Organisasi Umum,7/8,J1311,EVA KHADIJAH,07 Jul 2025
+1ka26,1KA26,Rabu,Bahasa Indonesia,9/10,J1311,SEPITRI DARUYANI,07 Jul 2025
+1ka26,1KA26,Kamis,Pendidikan Agama Islam,1/2,J1220,MUHAMMAD ABDULLAH S,07 Jul 2025
+1ka26,1KA26,Kamis,Algoritma & Pemrograman 2C *,3/4,J1220,MITA LAILASARI,07 Jul 2025
+1ka26,1KA26,Kamis,Struktur & Organisasi Data *,5/6/7,J1220,WALIYA RAHMAWANTI,07 Jul 2025
+1ka26,1KA26,Kamis,Matematika Dasar 2A,9/10,J119,ERFIANA WAHYUNINGSIH,07 Jul 2025
+1ka26,1KA26,Sabtu,Matematika Dasar 2B,3/4,J1220,INDAH RIZKY RATNALITA,07 Jul 2025
+1ka26,1KA26,Sabtu,Pendidikan Kewarganegaraan,7/8,J1511,NINA MEINA RAHMAWATI,07 Jul 2025
+1ka27,1KA27,Senin,Pendidikan Agama Islam,1/2,J1211,MUHAMMAD ABDULLAH S,07 Jul 2025
+1ka27,1KA27,Senin,Algoritma & Pemrograman 2C *,3/4,J1211,RINI ARIANTY,07 Jul 2025
+1ka27,1KA27,Senin,Pendidikan Kewarganegaraan,5/6,J1211,DYAN TANJUNG GUNOTOMO,07 Jul 2025
+1ka27,1KA27,Senin,Bahasa Indonesia,9/10,J1114,INDAH MUSTIKA SHANTI,07 Jul 2025
+1ka27,1KA27,Selasa,Teknologi Kecerdasan Artifisial,,UGTV,TEAM TEACHING,07 Jul 2025
+1ka27,1KA27,Rabu,Teori Organisasi Umum,1/2,J1110,TEDY ARDIANSYAH,07 Jul 2025
+1ka27,1KA27,Rabu,Algoritma & Pemrograman 2B *,3/4,J1110,BAGUS SETIADI GURMILANG,07 Jul 2025
+1ka27,1KA27,Kamis,Algoritma & Pemrograman 2A *,1/2,J1216A,BUDI UTAMI FAHNUN,07 Jul 2025
+1ka27,1KA27,Kamis,Matematika Dasar 2A,3/4,J1216A,HENNY LESTARI,07 Jul 2025
+1ka27,1KA27,Kamis,Matematika Dasar 2B,5/6,J1216A,GANJAR FEBRIYANI PRATIWI,07 Jul 2025
+1ka27,1KA27,Kamis,Struktur & Organisasi Data *,8/9/10,J1220,WALIYA RAHMAWANTI,07 Jul 2025
+1ka27,1KA27,Sabtu,Praktikum Teknologi Kecerdasan Artifisial,8/9,,TIM DOSEN,07 Jul 2025
+1ka28,1KA28,Senin,Pendidikan Agama Islam,3/4,J1212,MUHAMMAD ALI,07 Jul 2025
+1ka28,1KA28,Senin,Struktur & Organisasi Data *,6/7/8,J1216B,BUDI UTAMI FAHNUN,07 Jul 2025
+1ka28,1KA28,Senin,Bahasa Indonesia,9/10,J1216B,SRI SULISTIYONINGSIH,07 Jul 2025
+1ka28,1KA28,Selasa,Teknologi Kecerdasan Artifisial,,UGTV,TEAM TEACHING,07 Jul 2025
+1ka28,1KA28,Rabu,Teori Organisasi Umum,3/4,J1420,TEDY ARDIANSYAH,07 Jul 2025
+1ka28,1KA28,Rabu,Algoritma & Pemrograman 2A *,7/8,J1518,NIA YUNINGSIH,07 Jul 2025
+1ka28,1KA28,Rabu,Algoritma & Pemrograman 2B *,9/10,J1518,NURUL HIDAYATI NUSYIRWAN,07 Jul 2025
+1ka28,1KA28,Kamis,Algoritma & Pemrograman 2C *,1/2,J1115B,MITA LAILASARI,07 Jul 2025
+1ka28,1KA28,Kamis,Pendidikan Kewarganegaraan,3/4,J1115B,MUHAMMAD BURHAN AMIN,07 Jul 2025
+1ka28,1KA28,Kamis,Matematika Dasar 2A,6/7,J118,HENNY LESTARI,07 Jul 2025
+1ka28,1KA28,Kamis,Matematika Dasar 2B,8/9,J118,GANJAR FEBRIYANI PRATIWI,07 Jul 2025
+1ka28,1KA28,Sabtu,Praktikum Teknologi Kecerdasan Artifisial,8/9,,TIM DOSEN,07 Jul 2025
+1ka29,1KA29,Senin,Algoritma & Pemrograman 2C *,1/2,K163,LELI SAFITRI,07 Jul 2025
+1ka29,1KA29,Senin,Struktur & Organisasi Data *,4/5/6,K131,ANNA FITRIA,07 Jul 2025
+1ka29,1KA29,Selasa,Teknologi Kecerdasan Artifisial,,UGTV,TEAM TEACHING,07 Jul 2025
+1ka29,1KA29,Selasa,Praktikum Teknologi Kecerdasan Artifisial,6/7,,TIM DOSEN,07 Jul 2025
+1ka29,1KA29,Kamis,Algoritma & Pemrograman 2A *,1/2,K163,DINA ANGGRAINI,07 Jul 2025
+1ka29,1KA29,Kamis,Pendidikan Kewarganegaraan,3/4,K253,VERONICA FARRY,07 Jul 2025
+1ka29,1KA29,Kamis,Bahasa Indonesia,5/6,K267,TRI WAHYU RETNO NINGSIH,07 Jul 2025
+1ka29,1KA29,Jum'at,Matematika Dasar 2A,1/2,K248,ELLYSA,07 Jul 2025
+1ka29,1KA29,Jum'at,Pendidikan Agama Islam,3/4,K243,APIPUDIN,07 Jul 2025
+1ka29,1KA29,Sabtu,Teori Organisasi Umum,1/2,K243,KARTIKA SARI,07 Jul 2025
+1ka29,1KA29,Sabtu,Algoritma & Pemrograman 2B *,3/4,K251,PURWANTI,07 Jul 2025
+1ka29,1KA29,Sabtu,Matematika Dasar 2B,5/6,K153,ANDI ASNUR PRANATA MUHIBAH HADMAR,07 Jul 2025
+1ka30,1KA30,Senin,Pendidikan Agama Islam,1/2,K271,MASWANIH,07 Jul 2025
+1ka30,1KA30,Selasa,Teknologi Kecerdasan Artifisial,,UGTV,TEAM TEACHING,07 Jul 2025
+1ka30,1KA30,Selasa,Praktikum Teknologi Kecerdasan Artifisial,6/7,,TIM DOSEN,07 Jul 2025
+1ka30,1KA30,Kamis,Bahasa Indonesia,1/2,K267,TRI WAHYU RETNO NINGSIH,07 Jul 2025
+1ka30,1KA30,Kamis,Algoritma & Pemrograman 2B *,3/4,K131,AGUSTINE HANA MASITOH,07 Jul 2025
+1ka30,1KA30,Kamis,Algoritma & Pemrograman 2A *,5/6,K163,DINA ANGGRAINI,07 Jul 2025
+1ka30,1KA30,Kamis,Pendidikan Kewarganegaraan,7/8,K155,DJAMUS KALIMAH SN,07 Jul 2025
+1ka30,1KA30,Jum'at,Algoritma & Pemrograman 2C *,1/2,K255,MITA LAILASARI,07 Jul 2025
+1ka30,1KA30,Jum'at,Matematika Dasar 2A,3/4,K248,ELLYSA,07 Jul 2025
+1ka30,1KA30,Sabtu,Matematika Dasar 2B,1/2,K153,ANDI ASNUR PRANATA MUHIBAH HADMAR,07 Jul 2025
+1ka30,1KA30,Sabtu,Teori Organisasi Umum,3/4,K243,KARTIKA SARI,07 Jul 2025
+1ka30,1KA30,Sabtu,Struktur & Organisasi Data *,5/6,K261,OKTAVIANI,07 Jul 2025
+1ka31,1KA31,Senin,Pendidikan Kewarganegaraan,1/2,K243,RETNO EKAWATY,07 Jul 2025
+1ka31,1KA31,Senin,Algoritma & Pemrograman 2C *,3/4,K163,LELI SAFITRI,07 Jul 2025
+1ka31,1KA31,Senin,Algoritma & Pemrograman 2B *,5/6,K266,WITARI ARYUNANI,07 Jul 2025
+1ka31,1KA31,Selasa,Teknologi Kecerdasan Artifisial,,UGTV,TEAM TEACHING,07 Jul 2025
+1ka31,1KA31,Selasa,Praktikum Teknologi Kecerdasan Artifisial,8/9,,TIM DOSEN,07 Jul 2025
+1ka31,1KA31,Rabu,Bahasa Indonesia,1/2,K154,ASWARINI SENTANA,07 Jul 2025
+1ka31,1KA31,Rabu,Matematika Dasar 2B,3/4,K166,MIFTAH ANDRIANSYAH,07 Jul 2025
+1ka31,1KA31,Kamis,Struktur & Organisasi Data *,6/7/8,K292,SYARIFAH AZHARINA SYAFRUDIN,07 Jul 2025
+1ka31,1KA31,Jum'at,Teori Organisasi Umum,3/4,K272,SURYANDARI SEDYO UTAMI,07 Jul 2025
+1ka31,1KA31,Jum'at,Pendidikan Agama Islam,7/8,K243,APIPUDIN,07 Jul 2025
+1ka31,1KA31,Sabtu,Algoritma & Pemrograman 2A *,1/2,K271,TRI SULISTYORINI,07 Jul 2025
+1ka31,1KA31,Sabtu,Matematika Dasar 2A,3/4,K175,VERONICA ERNITA KRISTIANTI,07 Jul 2025
+1ka32,1KA32,Senin,Pendidikan Kewarganegaraan,1/2,K243,RETNO EKAWATY,07 Jul 2025
+1ka32,1KA32,Senin,Algoritma & Pemrograman 2B *,3/4,K266,WITARI ARYUNANI,07 Jul 2025
+1ka32,1KA32,Senin,Pendidikan Agama Islam,5/6,K272,MEGA OKTAVIANY,07 Jul 2025
+1ka32,1KA32,Selasa,Teknologi Kecerdasan Artifisial,,UGTV,TEAM TEACHING,07 Jul 2025
+1ka32,1KA32,Selasa,Praktikum Teknologi Kecerdasan Artifisial,8/9,,TIM DOSEN,07 Jul 2025
+1ka32,1KA32,Rabu,Bahasa Indonesia,3/4,K154,ASWARINI SENTANA,07 Jul 2025
+1ka32,1KA32,Jum'at,Teori Organisasi Umum,1/2,K272,SURYANDARI SEDYO UTAMI,07 Jul 2025
+1ka32,1KA32,Jum'at,Algoritma & Pemrograman 2C *,3/4,K255,MITA LAILASARI,07 Jul 2025
+1ka32,1KA32,Jum'at,Matematika Dasar 2A,7/8,K245,BAYU KUMORO YAKTI,07 Jul 2025
+1ka32,1KA32,Sabtu,Matematika Dasar 2B,1/2,K175,VERONICA ERNITA KRISTIANTI,07 Jul 2025
+1ka32,1KA32,Sabtu,Struktur & Organisasi Data *,3/4/5,K254,RATIH NURDIYANI SARI,07 Jul 2025
+1ka32,1KA32,Sabtu,Algoritma & Pemrograman 2A *,6/7,K271,TRI SULISTYORINI,07 Jul 2025
+1ka33,1KA33,Senin,Teori Organisasi Umum,1/2,L235,CAHYAWATI DIAH KUSUMARINI,07 Jul 2025
+1ka33,1KA33,Senin,Matematika Dasar 2B,3/4,L225,DIYANTI,07 Jul 2025
+1ka33,1KA33,Senin,Struktur & Organisasi Data *,5/6/7,L222,YENI SETIANI,07 Jul 2025
+1ka33,1KA33,Selasa,Teknologi Kecerdasan Artifisial,,UGTV,TEAM TEACHING,07 Jul 2025
+1ka33,1KA33,Selasa,Praktikum Teknologi Kecerdasan Artifisial,6/7,,TIM DOSEN,07 Jul 2025
+1ka33,1KA33,Rabu,Pendidikan Agama Islam,2/3,L233,MULYADI,07 Jul 2025
+1ka33,1KA33,Rabu,Algoritma & Pemrograman 2A *,4/5,L222,ONNY MARLEEN,07 Jul 2025
+1ka33,1KA33,Kamis,Bahasa Indonesia,2/3,L226,KEZIA YANSEN PASANG,07 Jul 2025
+1ka33,1KA33,Jum'at,Algoritma & Pemrograman 2C *,2/3,L242,OCTARINA BUDI LESTARI,07 Jul 2025
+1ka33,1KA33,Sabtu,Pendidikan Kewarganegaraan,2/3,L233,SHINTA TEVININGRUM,07 Jul 2025
+1ka33,1KA33,Sabtu,Algoritma & Pemrograman 2B *,4/5,L233,EKA FITRI RAHAYU,07 Jul 2025
+1ka33,1KA33,Sabtu,Matematika Dasar 2A,6/7,L222,BAMBANG DWINANTO,07 Jul 2025
+1ka34,1KA34,Senin,Algoritma & Pemrograman 2 *,2/3/4,I805,AHMAD HIDAYAT,07 Jul 2025
+1ka34,1KA34,Selasa,Teknologi Kecerdasan Artifisial,,UGTV,TEAM TEACHING,07 Jul 2025
+1ka34,1KA34,Selasa,Pendidikan Kewarganegaraan,6/7,I805,PRASETYO BONIFASIUS S,07 Jul 2025
+1ka34,1KA34,Selasa,Praktikum Teknologi Kecerdasan Artifisial,6/7,,TIM DOSEN,07 Jul 2025
+1ka34,1KA34,Rabu,Praktikum Algoritma & Pemrograman 2,2/3,I805,DIANA IKASARI,07 Jul 2025
+1ka34,1KA34,Rabu,Bahasa Indonesia,4/5,I805,TRI BUDIARTA,07 Jul 2025
+1ka34,1KA34,Kamis,Matematika Dasar 2,2/3,I805,HARYONO PUTRO,07 Jul 2025
+1ka34,1KA34,Jumat,Struktur & Organisasi Data *,2/3/4,I805,ANA KURNIAWATI,07 Jul 2025
+1ka34,1KA34,Jumat,Teori Organisasi Umum,7/8,I805,EDY NURSANTA,07 Jul 2025
+2ka01,2KA01,Rabu,Sistem Basis Data 2 */**,1/2/3,E238,SURYADI HARMANTO/BUNAWAN,07 Jul 2025
+2ka01,2KA01,Rabu,Matematika Sistem Informasi 2,6/7,E514,NURWENDO HARICAHYADI,07 Jul 2025
+2ka01,2KA01,Rabu,Matematika Lanjut 2 **,8/9,E514,BONANG WASPADADI LIGAR,07 Jul 2025
+2ka01,2KA01,Jum'at,Sistem Operasi **,2/3/4,E213,YUDI ADHA,07 Jul 2025
+2ka01,2KA01,Jum'at,Statistika **,7/8/9,E348,EDI MINAJI PRIBADI,07 Jul 2025
+2ka01,2KA01,Sabtu,Pengantar Akuntansi Keuangan,1/2/3,E121,AMANDA DWILUTHFIA JOANNA,07 Jul 2025
+2ka01,2KA01,Sabtu,Manajemen & SIM 2 *,5/6,E121,MOHAMAD FUAD,07 Jul 2025
+2ka01,2KA01,Sabtu,Pemrograman Berorientasi Objek,8/9/10,E322,DIOKTA REDHO LASTIN,07 Jul 2025
+2ka02,2KA02,Selasa,Matematika Sistem Informasi 2,2/3,E334,MUHAMMAD IMRON HADISANTOSA,07 Jul 2025
+2ka02,2KA02,Selasa,Sistem Basis Data 2 */**,4/5/6,E334,SAHNI DAMERIANTA P,07 Jul 2025
+2ka02,2KA02,Selasa,Statistika **,8/9/10,E334,PARANITA ASNUR,07 Jul 2025
+2ka02,2KA02,Kamis,Pengantar Akuntansi Keuangan,4/5/6,D657,NOVA ANGGRAINIE,07 Jul 2025
+2ka02,2KA02,Kamis,Matematika Lanjut 2 **,8/9,D612,ADI KRESNO,07 Jul 2025
+2ka02,2KA02,Jum'at,Manajemen & SIM 2 *,3/4,E312,CUT ASIANA GEMAWATY,07 Jul 2025
+2ka02,2KA02,Jum'at,Sistem Operasi **,7/8/9,E311,YUDI ADHA,07 Jul 2025
+2ka02,2KA02,Sabtu,Pemrograman Berorientasi Objek,1/2/3,E227,DIOKTA REDHO LASTIN,07 Jul 2025
+2ka03,2KA03,Senin,Pemrograman Berorientasi Objek,4/5/6,E424,AGUNG SLAMET RIYADI,07 Jul 2025
+2ka03,2KA03,Rabu,Matematika Lanjut 2 **,1/2,D647,IAS SRI WAHYUNI,07 Jul 2025
+2ka03,2KA03,Rabu,Matematika Sistem Informasi 2,5/6,D634,RICKY AGUS TJIPTANATA,07 Jul 2025
+2ka03,2KA03,Rabu,Sistem Basis Data 2 */**,7/8/9,D634,YULIA CHALRI,07 Jul 2025
+2ka03,2KA03,Jum'at,Statistika **,2/3/4,G249,IMAN MURTONO SOENHADJI,07 Jul 2025
+2ka03,2KA03,Jum'at,Pengantar Akuntansi Keuangan,7/8/9,G147,RIYANTI,07 Jul 2025
+2ka03,2KA03,Sabtu,Manajemen & SIM 2 *,3/4,E335,MOHAMAD FUAD,07 Jul 2025
+2ka03,2KA03,Sabtu,Sistem Operasi **,5/6/7,E335,MUHAMMAD JUERGEN DONGGALA PUTRA THALIB,07 Jul 2025
+2ka04,2KA04,Senin,Pengantar Akuntansi Keuangan,1/2/3,G135,RINO RINALDO,07 Jul 2025
+2ka04,2KA04,Senin,Sistem Operasi **,4/5/6,G135,ABDUS SYAKUR,07 Jul 2025
+2ka04,2KA04,Senin,Pemrograman Berorientasi Objek,8/9/10,G135,IDA ASTUTI,07 Jul 2025
+2ka04,2KA04,Rabu,Sistem Basis Data 2 */**,4/5/6,E422,SUHARNI,07 Jul 2025
+2ka04,2KA04,Rabu,Matematika Sistem Informasi 2,8/9,E216,NURWENDO HARICAHYADI,07 Jul 2025
+2ka04,2KA04,Jum'at,Manajemen & SIM 2 *,1/2,E426,CAHYAWATI DIAH KUSUMARINI,07 Jul 2025
+2ka04,2KA04,Jum'at,Matematika Lanjut 2 **,3/4,E426,ENDAH BUDIYATI,07 Jul 2025
+2ka04,2KA04,Jum'at,Statistika **,7/8/9,E426,MB MIKE SUSMIKANTI,07 Jul 2025
+2ka05,2KA05,Selasa,Statistika **,1/2/3,G226,ADI KUSWANTO,07 Jul 2025
+2ka05,2KA05,Selasa,Sistem Basis Data 2 */**,4/5/6,G218,HURNANINGSIH/GHIFARI PRAMESWARI(LURING),07 Jul 2025
+2ka05,2KA05,Selasa,Sistem Operasi **,8/9/10,G132,NURASIAH,07 Jul 2025
+2ka05,2KA05,Rabu,Matematika Sistem Informasi 2,1/2,G348,SELI SITI SHOLIHAT,07 Jul 2025
+2ka05,2KA05,Rabu,Matematika Lanjut 2 **,3/4,G348,SITA DEWI,07 Jul 2025
+2ka05,2KA05,Rabu,Pengantar Akuntansi Keuangan,6/7/8,G342,NOVA ANGGRAINIE,07 Jul 2025
+2ka05,2KA05,Jum'at,Pemrograman Berorientasi Objek,2/3/4,D611,DEWI ANGGRAINI PUSPA HAPSARI,07 Jul 2025
+2ka05,2KA05,Jum'at,Manajemen & SIM 2 *,7/8,D634,CAHYAWATI DIAH KUSUMARINI,07 Jul 2025
+2ka06,2KA06,Selasa,Manajemen & SIM 2 *,1/2,E133,MOHAMAD FUAD,07 Jul 2025
+2ka06,2KA06,Selasa,Statistika **,5/6/7,E133,ADI KUSWANTO,07 Jul 2025
+2ka06,2KA06,Selasa,Sistem Basis Data 2 */**,8/9/10,E133,MURNIYATI,07 Jul 2025
+2ka06,2KA06,Rabu,Matematika Lanjut 2 **,1/2,G242,SITA DEWI,07 Jul 2025
+2ka06,2KA06,Rabu,Matematika Sistem Informasi 2,3/4,G242,SELI SITI SHOLIHAT,07 Jul 2025
+2ka06,2KA06,Kamis,Pemrograman Berorientasi Objek,1/2/3,D631,AGUNG SLAMET RIYADI,07 Jul 2025
+2ka06,2KA06,Kamis,Sistem Operasi **,4/5/6,D631,DARMASTUTI,07 Jul 2025
+2ka06,2KA06,Kamis,Pengantar Akuntansi Keuangan,8/9/10,D631,DESI PUJIATI,07 Jul 2025
+2ka07,2KA07,Rabu,Pengantar Akuntansi Keuangan,1/2/3,D612,NOVA ANGGRAINIE,07 Jul 2025
+2ka07,2KA07,Rabu,Manajemen & SIM 2 *,5/6,D636,TRINI SAPTARIANI/RATRI PURWANINGTYAS,07 Jul 2025
+2ka07,2KA07,Rabu,Statistika **,8/9/10,D641,RETNANINGTYAS WIDYASTUTI,07 Jul 2025
+2ka07,2KA07,Kamis,Matematika Lanjut 2 **,1/2,E213,SUSI INDRATI,07 Jul 2025
+2ka07,2KA07,Kamis,Matematika Sistem Informasi 2,4/5,E218,ERNI RIHYANTI,07 Jul 2025
+2ka07,2KA07,Kamis,Sistem Operasi **,8/9/10,E312,NOVRINA,07 Jul 2025
+2ka07,2KA07,Jum'at,Sistem Basis Data 2 */**,2/3/4,G316,SAHNI DAMERIANTA P,07 Jul 2025
+2ka07,2KA07,Jum'at,Pemrograman Berorientasi Objek,7/8/9,G316,DEWI ANGGRAINI PUSPA HAPSARI,07 Jul 2025
+2ka08,2KA08,Selasa,Matematika Lanjut 2 **,1/2,E226,ICHSANI MURSIDAH,07 Jul 2025
+2ka08,2KA08,Selasa,Sistem Basis Data 2 */**,4/5/6,E222,YULI KARYANTI,07 Jul 2025
+2ka08,2KA08,Selasa,Matematika Sistem Informasi 2,8/9,E313,NURWENDO HARICAHYADI,07 Jul 2025
+2ka08,2KA08,Kamis,Pemrograman Berorientasi Objek,2/3/4,E527,EMY HARYATMI,07 Jul 2025
+2ka08,2KA08,Kamis,Manajemen & SIM 2 *,6/7,E224,TRINI SAPTARIANI/EKA FITRI RAHAYU,07 Jul 2025
+2ka08,2KA08,Kamis,Pengantar Akuntansi Keuangan,8/9/10,E224,BUDI SANTOSO2,07 Jul 2025
+2ka08,2KA08,Jum'at,Sistem Operasi **,2/3/4,G434,ABDUS SYAKUR,07 Jul 2025
+2ka08,2KA08,Jum'at,Statistika **,7/8/9,G434,IMAN MURTONO SOENHADJI,07 Jul 2025
+2ka09,2KA09,Selasa,Sistem Basis Data 2 */**,1/2/3,G217,HURNANINGSIH/GHIFARI PRAMESWARI(LURING),07 Jul 2025
+2ka09,2KA09,Selasa,Matematika Lanjut 2 **,5/6,G217,JULLYSAVA C AZIZ,07 Jul 2025
+2ka09,2KA09,Rabu,Pemrograman Berorientasi Objek,2/3/4,G445,FAUZIAH SUPARDI,07 Jul 2025
+2ka09,2KA09,Rabu,Matematika Sistem Informasi 2,5/6,G445,SELI SITI SHOLIHAT,07 Jul 2025
+2ka09,2KA09,Kamis,Manajemen & SIM 2 *,3/4,E323,TRINI SAPTARIANI/ANISA LORA,07 Jul 2025
+2ka09,2KA09,Kamis,Pengantar Akuntansi Keuangan,5/6/7,E323,BUDI SANTOSO2,07 Jul 2025
+2ka09,2KA09,Jum'at,Statistika **,2/3/4,F8443,MAGHFIROH YENNY,07 Jul 2025
+2ka09,2KA09,Jum'at,Sistem Operasi **,7/8/9,F8453,IHSAN JATNIKA,07 Jul 2025
+2ka10,2KA10,Rabu,Statistika **,1/2/3,D665,ARIS BUDI SETYAWAN,07 Jul 2025
+2ka10,2KA10,Rabu,Sistem Basis Data 2 */**,4/5/6,D665,YULIA CHALRI,07 Jul 2025
+2ka10,2KA10,Kamis,Matematika Sistem Informasi 2,1/2,D644,ERNI RIHYANTI,07 Jul 2025
+2ka10,2KA10,Kamis,Pemrograman Berorientasi Objek,3/4/5,D644,META MEYSAWATI,07 Jul 2025
+2ka10,2KA10,Kamis,Sistem Operasi **,8/9/10,D626,DARMASTUTI,07 Jul 2025
+2ka10,2KA10,Jum'at,Pengantar Akuntansi Keuangan,2/3/4,D647,RIYANTI,07 Jul 2025
+2ka10,2KA10,Jum'at,Matematika Lanjut 2 **,7/8,D647,SITA DEWI,07 Jul 2025
+2ka10,2KA10,Jum'at,Manajemen & SIM 2 *,9/10,D647,CAHYAWATI DIAH KUSUMARINI,07 Jul 2025
+2ka11,2KA11,Selasa,Sistem Basis Data 2 */**,1/2/3,G123,YULIA CHALRI,07 Jul 2025
+2ka11,2KA11,Selasa,Statistika **,4/5/6,G123,MURNI,07 Jul 2025
+2ka11,2KA11,Selasa,Matematika Lanjut 2 **,8/9,G123,JULLYSAVA C AZIZ,07 Jul 2025
+2ka11,2KA11,Kamis,Sistem Operasi **,5/6/7,E238,TOPAN SUKMA SAPUTRA,07 Jul 2025
+2ka11,2KA11,Kamis,Pemrograman Berorientasi Objek,8/9/10,E238,ABDUL HAFIDH SIDIQ,07 Jul 2025
+2ka11,2KA11,Jum'at,Manajemen & SIM 2 *,1/2,E413,CUT ASIANA GEMAWATY,07 Jul 2025
+2ka11,2KA11,Jum'at,Matematika Sistem Informasi 2,3/4,E413,YULI FITRIYANI,07 Jul 2025
+2ka11,2KA11,Jum'at,Pengantar Akuntansi Keuangan,7/8/9,E422,WINDY ATMAWARDANI RACHMAN,07 Jul 2025
+2ka12,2KA12,Selasa,Sistem Basis Data 2 */**,1/2/3,E134,MURNIYATI,07 Jul 2025
+2ka12,2KA12,Selasa,Sistem Operasi **,5/6/7,E134,NURASIAH,07 Jul 2025
+2ka12,2KA12,Selasa,Statistika **,8/9/10,E134,MURNI,07 Jul 2025
+2ka12,2KA12,Rabu,Matematika Sistem Informasi 2,3/4,D633,RICKY AGUS TJIPTANATA,07 Jul 2025
+2ka12,2KA12,Rabu,Pemrograman Berorientasi Objek,5/6/7,D633,ALFIE SYAHRI,07 Jul 2025
+2ka12,2KA12,Jum'at,Pengantar Akuntansi Keuangan,2/3/4,F8463,WINDY ATMAWARDANI RACHMAN,07 Jul 2025
+2ka12,2KA12,Jum'at,Manajemen & SIM 2 *,7/8,F8463,CUT ASIANA GEMAWATY,07 Jul 2025
+2ka12,2KA12,Jum'at,Matematika Lanjut 2 **,9/10,F8463,NOLA MARINA,07 Jul 2025
+2ka13,2KA13,Senin,Sistem Operasi **,1/2/3,G244,ABDUS SYAKUR,07 Jul 2025
+2ka13,2KA13,Senin,Pemrograman Berorientasi Objek,4/5/6,G244,IDA ASTUTI,07 Jul 2025
+2ka13,2KA13,Rabu,Sistem Basis Data 2 */**,1/2/3,D624,YULIA CHALRI,07 Jul 2025
+2ka13,2KA13,Rabu,Matematika Lanjut 2 **,5/6,D647,NOLA MARINA,07 Jul 2025
+2ka13,2KA13,Rabu,Matematika Sistem Informasi 2,8/9,D642,RICKY AGUS TJIPTANATA,07 Jul 2025
+2ka13,2KA13,Sabtu,Manajemen & SIM 2 *,2/3,E318,RESTU SAPUTRO,07 Jul 2025
+2ka13,2KA13,Sabtu,Statistika **,5/6/7,E131,RATU NURMALIKA,07 Jul 2025
+2ka13,2KA13,Sabtu,Pengantar Akuntansi Keuangan,8/9/10,E131,DEBONER HILLERY HASIHOLAN,07 Jul 2025
+2ka14,2KA14,Selasa,Sistem Basis Data 2 */**,1/2/3,E222,YULI KARYANTI,07 Jul 2025
+2ka14,2KA14,Selasa,Pemrograman Berorientasi Objek,5/6/7,E347,WITTA LISTIYA NINGRUM,07 Jul 2025
+2ka14,2KA14,Selasa,Sistem Operasi **,8/9/10,E347,TOPAN SUKMA SAPUTRA,07 Jul 2025
+2ka14,2KA14,Rabu,Matematika Sistem Informasi 2,1/2,D611,RICKY AGUS TJIPTANATA,07 Jul 2025
+2ka14,2KA14,Rabu,Manajemen & SIM 2 *,3/4,D611,TRINI SAPTARIANI/RATRI PURWANINGTYAS,07 Jul 2025
+2ka14,2KA14,Rabu,Statistika **,6/7/8,D611,SRI INDAH SETIYANINGSIH,07 Jul 2025
+2ka14,2KA14,Rabu,Matematika Lanjut 2 **,9/10,D611,SITA DEWI,07 Jul 2025
+2ka14,2KA14,Kamis,Pengantar Akuntansi Keuangan,5/6/7,E327,ERNA KUSTYARINI,07 Jul 2025
+2ka15,2KA15,Selasa,Sistem Basis Data 2 */**,1/2/3,E338,SAHNI DAMERIANTA P,07 Jul 2025
+2ka15,2KA15,Selasa,Sistem Operasi **,4/5/6,E338,TOPAN SUKMA SAPUTRA,07 Jul 2025
+2ka15,2KA15,Selasa,Matematika Sistem Informasi 2,8/9,E534,MUHAMMAD IMRON HADISANTOSA,07 Jul 2025
+2ka15,2KA15,Rabu,Statistika **,1/2/3,E514,PENI SAWITRI,07 Jul 2025
+2ka15,2KA15,Rabu,Matematika Lanjut 2 **,5/6,E227,SUSI INDRATI,07 Jul 2025
+2ka15,2KA15,Rabu,Pemrograman Berorientasi Objek,7/8/9,E449,FAUZIAH SUPARDI,07 Jul 2025
+2ka15,2KA15,Kamis,Manajemen & SIM 2 *,1/2,D652,CAHYAWATI DIAH KUSUMARINI,07 Jul 2025
+2ka15,2KA15,Kamis,Pengantar Akuntansi Keuangan,3/4/5,D652,DESI PUJIATI,07 Jul 2025
+2ka16,2KA16,Selasa,Matematika Lanjut 2 **,4/5,E447,DESTI RIMINARSIH,07 Jul 2025
+2ka16,2KA16,Selasa,Matematika Sistem Informasi 2,6/7,E447,NURWENDO HARICAHYADI,07 Jul 2025
+2ka16,2KA16,Selasa,Sistem Basis Data 2 */**,8/9/10,E447,SAHNI DAMERIANTA P,07 Jul 2025
+2ka16,2KA16,Kamis,Pengantar Akuntansi Keuangan,1/2/3,D655,NOVA ANGGRAINIE,07 Jul 2025
+2ka16,2KA16,Kamis,Manajemen & SIM 2 *,4/5,D655,CAHYAWATI DIAH KUSUMARINI,07 Jul 2025
+2ka16,2KA16,Kamis,Pemrograman Berorientasi Objek,8/9/10,D654,META MEYSAWATI,07 Jul 2025
+2ka16,2KA16,Jum'at,Statistika **,2/3/4,E122,EDI MINAJI PRIBADI,07 Jul 2025
+2ka16,2KA16,Jum'at,Sistem Operasi **,7/8/9,E122,LINTANG YUNIAR BANOWOSARI,07 Jul 2025
+2ka17,2KA17,Rabu,Sistem Basis Data 2 */**,1/2/3,E221,SUHARNI,07 Jul 2025
+2ka17,2KA17,Rabu,Statistika **,5/6/7,E527,PENI SAWITRI,07 Jul 2025
+2ka17,2KA17,Rabu,Matematika Lanjut 2 **,8/9,E324,SUSI INDRATI,07 Jul 2025
+2ka17,2KA17,Kamis,Pengantar Akuntansi Keuangan,1/2/3,E326,ERNA KUSTYARINI,07 Jul 2025
+2ka17,2KA17,Kamis,Pemrograman Berorientasi Objek,4/5/6,E326,ABDUL HAFIDH SIDIQ,07 Jul 2025
+2ka17,2KA17,Kamis,Matematika Sistem Informasi 2,8/9,E227,ERNI RIHYANTI,07 Jul 2025
+2ka17,2KA17,Jum'at,Manajemen & SIM 2 *,3/4,E217,CAHYAWATI DIAH KUSUMARINI,07 Jul 2025
+2ka17,2KA17,Jum'at,Sistem Operasi **,7/8/9,E218,NOVRINA,07 Jul 2025
+2ka18,2KA18,Senin,Pemrograman Berorientasi Objek,1/2/3,E413,AGUNG SLAMET RIYADI,07 Jul 2025
+2ka18,2KA18,Senin,Sistem Operasi **,5/6/7,E332,IHSAN JATNIKA,07 Jul 2025
+2ka18,2KA18,Selasa,Sistem Basis Data 2 */**,1/2/3,E446,BABY LOLITA BASYAH,07 Jul 2025
+2ka18,2KA18,Selasa,Matematika Sistem Informasi 2,5/6,E224,MUHAMMAD IMRON HADISANTOSA,07 Jul 2025
+2ka18,2KA18,Selasa,Pengantar Akuntansi Keuangan,7/8/9,E123,ERNA KUSTYARINI,07 Jul 2025
+2ka18,2KA18,Kamis,Manajemen & SIM 2 *,1/2,E322,TRINI SAPTARIANI/ANISA LORA,07 Jul 2025
+2ka18,2KA18,Kamis,Matematika Lanjut 2 **,3/4,E322,SUSI INDRATI,07 Jul 2025
+2ka18,2KA18,Kamis,Statistika **,5/6/7,E322,RISKAYANTO,07 Jul 2025
+2ka19,2KA19,Selasa,Matematika Sistem Informasi 2,3/4,E224,IRA DIANA SOLIHATI,07 Jul 2025
+2ka19,2KA19,Selasa,Matematika Lanjut 2 **,6/7,E435,DESTI RIMINARSIH,07 Jul 2025
+2ka19,2KA19,Selasa,Statistika **,8/9/10,E435,EVAN PURNAMA RAMDAN,07 Jul 2025
+2ka19,2KA19,Rabu,Pengantar Akuntansi Keuangan,2/3/4,E139,NOOR MUHAMMAD ADIPATI,07 Jul 2025
+2ka19,2KA19,Rabu,Sistem Basis Data 2 */**,5/6/7,E139,BABY LOLITA B,07 Jul 2025
+2ka19,2KA19,Kamis,Sistem Operasi **,1/2/3,E517,NOVRINA,07 Jul 2025
+2ka19,2KA19,Kamis,Pemrograman Berorientasi Objek,5/6/7,E221,EMY HARYATMI,07 Jul 2025
+2ka19,2KA19,Kamis,Manajemen & SIM 2 *,8/9,E221,TRINI SAPTARIANI/EKA FITRI RAHAYU,07 Jul 2025
+2ka20,2KA20,Senin,Pemrograman Berorientasi Objek,7/8/9,E333,AGUNG SLAMET RIYADI,07 Jul 2025
+2ka20,2KA20,Selasa,Matematika Sistem Informasi 2,1/2,E218,IRA DIANA SOLIHATI,07 Jul 2025
+2ka20,2KA20,Selasa,Manajemen & SIM 2 *,3/4,E218,MOHAMAD FUAD,07 Jul 2025
+2ka20,2KA20,Selasa,Sistem Basis Data 2 */**,5/6/7,E534,BABY LOLITA BASYAH,07 Jul 2025
+2ka20,2KA20,Selasa,Matematika Lanjut 2 **,9/10,E218,DESTI RIMINARSIH,07 Jul 2025
+2ka20,2KA20,Kamis,Statistika **,1/2/3,E513,RATU NURMALIKA,07 Jul 2025
+2ka20,2KA20,Kamis,Sistem Operasi **,4/5/6,E513,NOVRINA,07 Jul 2025
+2ka20,2KA20,Kamis,Pengantar Akuntansi Keuangan,8/9/10,E323,ERNA KUSTYARINI,07 Jul 2025
+2ka21,2KA21,Selasa,Matematika Lanjut 2 **,1/2,A701,AHMAD SABRI,07 Jul 2025
+2ka21,2KA21,Selasa,Sistem Basis Data 2 */**,4/5/6,A701,LELY PRANANINGRUM,07 Jul 2025
+2ka21,2KA21,Selasa,Manajemen & SIM 2 *,9/10,A701,IMAM PURWANTO,07 Jul 2025
+2ka21,2KA21,Kamis,Statistika **,1/2/3,A802,SUZANNA LAMRIA SIREGAR,07 Jul 2025
+2ka21,2KA21,Kamis,Matematika Sistem Informasi 2,5/6,A202,NUR SETIAWATI,07 Jul 2025
+2ka21,2KA21,Kamis,Sistem Operasi **,7/8/9,A202,YOGI PERMADI,07 Jul 2025
+2ka21,2KA21,Jum'at,Pengantar Akuntansi Keuangan,2/3/4,A802,BUDI SANTOSO2,07 Jul 2025
+2ka21,2KA21,Jum'at,Pemrograman Berorientasi Objek,7/8/9,A802,FAHMI FATHULAH,07 Jul 2025
+2ka22,2KA22,Selasa,Sistem Basis Data 2 */**,1/2/3,A602,LELY PRANANINGRUM,07 Jul 2025
+2ka22,2KA22,Selasa,Matematika Lanjut 2 **,4/5,A602,AHMAD SABRI,07 Jul 2025
+2ka22,2KA22,Selasa,Manajemen & SIM 2 *,7/8,A602,IMAM PURWANTO,07 Jul 2025
+2ka22,2KA22,Kamis,Matematika Sistem Informasi 2,1/2,A801,NUR SETIAWATI,07 Jul 2025
+2ka22,2KA22,Kamis,Sistem Operasi **,4/5/6,A802,YOGI PERMADI,07 Jul 2025
+2ka22,2KA22,Kamis,Statistika **,8/9/10,A103,SUZANNA LAMRIA SIREGAR,07 Jul 2025
+2ka22,2KA22,Jum'at,Pemrograman Berorientasi Objek,2/3/4,A602,SYALIS IBNIH MELATI ISTINI,07 Jul 2025
+2ka22,2KA22,Jum'at,Pengantar Akuntansi Keuangan,7/8/9,A202,NOOR MUHAMMAD ADIPATI,07 Jul 2025
+2ka23,2KA23,Selasa,Manajemen & SIM 2 *,3/4,A101,IMAM PURWANTO,07 Jul 2025
+2ka23,2KA23,Selasa,Matematika Lanjut 2 **,6/7,A101,AHMAD SABRI,07 Jul 2025
+2ka23,2KA23,Selasa,Sistem Basis Data 2 */**,8/9/10,A101,LELY PRANANINGRUM,07 Jul 2025
+2ka23,2KA23,Kamis,Sistem Operasi **,1/2/3,A602,AMRIN FAKHRUDDIN JAUHARI,07 Jul 2025
+2ka23,2KA23,Kamis,Statistika **,4/5/6,A602,SUZANNA LAMRIA SIREGAR,07 Jul 2025
+2ka23,2KA23,Kamis,Matematika Sistem Informasi 2,8/9,A802,NUR SETIAWATI,07 Jul 2025
+2ka23,2KA23,Jum'at,Pemrograman Berorientasi Objek,2/3/4,A701,FAHMI FATHULAH,07 Jul 2025
+2ka23,2KA23,Jum'at,Pengantar Akuntansi Keuangan,7/8/9,A701,BUDI SANTOSO2,07 Jul 2025
+2ka24,2KA24,Senin,Sistem Basis Data 2 */**,11/12/13,D637,MOH. YUNUS,07 Jul 2025
+2ka24,2KA24,Selasa,Sistem Operasi **,12/13/14,D634,EVANS WINANDA WIRGA,07 Jul 2025
+2ka24,2KA24,Rabu,Matematika Sistem Informasi 2,11/12,D633,ARIS GUNARYATI,07 Jul 2025
+2ka24,2KA24,Rabu,Matematika Lanjut 2 **,13/14,D633,ARIS GUNARYATI,07 Jul 2025
+2ka24,2KA24,Kamis,Pengantar Akuntansi Keuangan,11/12/13,D634,ARI KHARISMA,07 Jul 2025
+2ka24,2KA24,Sabtu,Manajemen & SIM 2 *,1/2,E338,MOHAMAD FUAD,07 Jul 2025
+2ka24,2KA24,Sabtu,Pemrograman Berorientasi Objek,4/5/6,E327,DIOKTA REDHO LASTIN,07 Jul 2025
+2ka24,2KA24,Sabtu,Statistika **,7/8/9,E327,UPPIT YULIANI,07 Jul 2025
+2ka25,2KA25,Selasa,Matematika Sistem Informasi 2,1/2,J1512,HERIK SUGERU,07 Jul 2025
+2ka25,2KA25,Selasa,Manajemen & SIM 2 *,3/4,J1512,YUTI DEWITA ARIMBI,07 Jul 2025
+2ka25,2KA25,Selasa,Matematika Lanjut 2 **,6/7,J1512,DEWI PUTRIE LESTARI,07 Jul 2025
+2ka25,2KA25,Selasa,Statistika **,8/9/10,J1512,PRISKA RESTU UTAMI,07 Jul 2025
+2ka25,2KA25,Kamis,Sistem Basis Data 2 */**,5/6/7,J61002,METTY MUSTIKASARI,07 Jul 2025
+2ka25,2KA25,Sabtu,Pemrograman Berorientasi Objek,1/2/3,J1316B,WISNU SUKMA MAULANA,07 Jul 2025
+2ka25,2KA25,Sabtu,Pengantar Akuntansi Keuangan,5/6/7,J1316B,NURUL KHOTIMAH,07 Jul 2025
+2ka25,2KA25,Sabtu,Sistem Operasi **,8/9/10,J1316B,WAHAB SUKORAHARJO,07 Jul 2025
+2ka26,2KA26,Rabu,Statistika **,2/3/4,J1510,RISNAWATI,07 Jul 2025
+2ka26,2KA26,Rabu,Matematika Sistem Informasi 2,6/7,J1510,INTI MULYO ARTI,07 Jul 2025
+2ka26,2KA26,Rabu,Matematika Lanjut 2 **,8/9,J1510,RIFKI KOSASIH,07 Jul 2025
+2ka26,2KA26,Kamis,Sistem Basis Data 2 */**,1/2/3,J61003,LELY PRANANINGRUM,07 Jul 2025
+2ka26,2KA26,Kamis,Sistem Operasi **,4/5/6,J61003,SUTRESNA WATI,07 Jul 2025
+2ka26,2KA26,Kamis,Pemrograman Berorientasi Objek,8/9/10,J61002,DESSY TRI ANGGRAENI,07 Jul 2025
+2ka26,2KA26,Sabtu,Pengantar Akuntansi Keuangan,1/2/3,J139,NURUL KHOTIMAH,07 Jul 2025
+2ka26,2KA26,Sabtu,Manajemen & SIM 2 *,6/7,J139,EMELLIKA RAHMAYANA,07 Jul 2025
+2ka27,2KA27,Selasa,Matematika Lanjut 2 **,3/4,J1212,DEWI PUTRIE LESTARI,07 Jul 2025
+2ka27,2KA27,Selasa,Sistem Basis Data 2 */**,5/6/7,J1212,RINA NOVIANA,07 Jul 2025
+2ka27,2KA27,Selasa,Matematika Sistem Informasi 2,8/9,J1212,HERIK SUGERU,07 Jul 2025
+2ka27,2KA27,Jum'at,Pemrograman Berorientasi Objek,2/3/4,J118,DEWI ANDRYANI,07 Jul 2025
+2ka27,2KA27,Jum'at,Statistika **,7/8/9,J118,ACHMAD YOZAR PERKASA,07 Jul 2025
+2ka27,2KA27,Sabtu,Sistem Operasi **,1/2/3,J1315B,ANNEKE ANNASSIA PUTRI SISWADI,07 Jul 2025
+2ka27,2KA27,Sabtu,Pengantar Akuntansi Keuangan,4/5/6,J1315B,HIRAS FERDY MAROLOP SINAGA,07 Jul 2025
+2ka27,2KA27,Sabtu,Manajemen & SIM 2 *,8/9,J1315B,EMELLIKA RAHMAYANA,07 Jul 2025
+2ka28,2KA28,Senin,Statistika **,1/2/3,J155,ANITA WASUTININGSIH,07 Jul 2025
+2ka28,2KA28,Senin,Pengantar Akuntansi Keuangan,4/5/6,J155,BUDI SUBEKHI,07 Jul 2025
+2ka28,2KA28,Selasa,Matematika Lanjut 2 **,1/2,J1317,DEWI PUTRIE LESTARI,07 Jul 2025
+2ka28,2KA28,Selasa,Matematika Sistem Informasi 2,3/4,J1317,HERIK SUGERU,07 Jul 2025
+2ka28,2KA28,Selasa,Manajemen & SIM 2 *,6/7,J1211,YUTI DEWITA ARIMBI,07 Jul 2025
+2ka28,2KA28,Kamis,Sistem Operasi **,1/2/3,J61004,SUTRESNA WATI,07 Jul 2025
+2ka28,2KA28,Kamis,Pemrograman Berorientasi Objek,4/5/6,J61004,FAHMI FATHULAH,07 Jul 2025
+2ka28,2KA28,Kamis,Sistem Basis Data 2 */**,8/9/10,J61004,METTY MUSTIKASARI,07 Jul 2025
+2ka29,2KA29,Senin,Pengantar Akuntansi Keuangan,1/2/3,J1115B,BUDI SUBEKHI,07 Jul 2025
+2ka29,2KA29,Senin,Sistem Operasi **,4/5/6,J1115B,SUTRESNA WATI,07 Jul 2025
+2ka29,2KA29,Selasa,Statistika **,5/6/7,J158,PRISKA RESTU UTAMI,07 Jul 2025
+2ka29,2KA29,Selasa,Manajemen & SIM 2 *,8/9,J158,YUTI DEWITA ARIMBI,07 Jul 2025
+2ka29,2KA29,Rabu,Matematika Sistem Informasi 2,4/5,J1515A,SIGIT MUHAMAD YAKUB,07 Jul 2025
+2ka29,2KA29,Rabu,Matematika Lanjut 2 **,6/7,J1515A,RIFKI KOSASIH,07 Jul 2025
+2ka29,2KA29,Rabu,Sistem Basis Data 2 */**,8/9/10,J1515A,METTY MUSTIKASARI,07 Jul 2025
+2ka29,2KA29,Sabtu,Pemrograman Berorientasi Objek,4/5/6,J1115A,CONDRO WIBAWA,07 Jul 2025
+2ka30,2KA30,Rabu,Manajemen & SIM 2 *,1/2,J1419,YUTI DEWITA ARIMBI,07 Jul 2025
+2ka30,2KA30,Rabu,Matematika Lanjut 2 **,3/4,J1419,RIFKI KOSASIH,07 Jul 2025
+2ka30,2KA30,Rabu,Matematika Sistem Informasi 2,6/7,J1116,SIGIT MUHAMAD YAKUB,07 Jul 2025
+2ka30,2KA30,Rabu,Sistem Basis Data 2 */**,8/9/10,J1116,RINA NOVIANA,07 Jul 2025
+2ka30,2KA30,Kamis,Pengantar Akuntansi Keuangan,5/6/7,J1114,NURUL KHOTIMAH,07 Jul 2025
+2ka30,2KA30,Kamis,Statistika **,8/9/10,J1114,KOMSI KORANTI,07 Jul 2025
+2ka30,2KA30,Sabtu,Pemrograman Berorientasi Objek,1/2/3,J1311,ADHITIO SATYO BAYANGKARI KARNO,07 Jul 2025
+2ka30,2KA30,Sabtu,Sistem Operasi **,4/5/6,J1311,ANNEKE ANNASSIA PUTRI SISWADI,07 Jul 2025
+2ka31,2KA31,Senin,Matematika Lanjut 2 **,3/4,K291,NURMA NUGRAHA,07 Jul 2025
+2ka31,2KA31,Senin,Sistem Operasi **,5/6/7,K262,MAULANA MUJAHIDIN,07 Jul 2025
+2ka31,2KA31,Selasa,Manajemen & SIM 2 *,2/3,K156,DIANA IKASARI,07 Jul 2025
+2ka31,2KA31,Selasa,Sistem Basis Data 2 */**,4/5/6,K163,META MEYSAWATI,07 Jul 2025
+2ka31,2KA31,Rabu,Pengantar Akuntansi Keuangan,6/7/8,K163,NIAYAH ERWIN,07 Jul 2025
+2ka31,2KA31,Jum'at,Matematika Sistem Informasi 2,3/4,K247,DEWI PUTRIE LESTARI,07 Jul 2025
+2ka31,2KA31,Sabtu,Pemrograman Berorientasi Objek,1/2/3,K163,FITRIANINGSIH,07 Jul 2025
+2ka31,2KA31,Sabtu,Statistika **,5/6/7,K255,RISKAYANTO,07 Jul 2025
+2ka32,2KA32,Senin,Sistem Operasi **,1/2/3,K261,DEA ADLINA,07 Jul 2025
+2ka32,2KA32,Senin,Pengantar Akuntansi Keuangan,4/5/6,K242,DANIEL DAMARIS NOVARIANTO SURYAJAYA,07 Jul 2025
+2ka32,2KA32,Selasa,Sistem Basis Data 2 */**,1/2/3,K163,META MEYSAWATI,07 Jul 2025
+2ka32,2KA32,Selasa,Manajemen & SIM 2 *,4/5,K156,DIANA IKASARI,07 Jul 2025
+2ka32,2KA32,Rabu,Matematika Lanjut 2 **,1/2,K252,MARIA T A DEWI,07 Jul 2025
+2ka32,2KA32,Rabu,Pemrograman Berorientasi Objek,3/4/5,K245,ROSDIANA,07 Jul 2025
+2ka32,2KA32,Jum'at,Statistika **,1/2/3,K267,PENI SAWITRI,07 Jul 2025
+2ka32,2KA32,Jum'at,Matematika Sistem Informasi 2,7/8,K268,RICKY AGUS TJIPTANATA,07 Jul 2025
+2ka33,2KA33,Senin,Pengantar Akuntansi Keuangan,1/2/3,K242,DANIEL DAMARIS NOVARIANTO SURYAJAYA,07 Jul 2025
+2ka33,2KA33,Senin,Sistem Operasi **,5/6/7,K261,DEA ADLINA,07 Jul 2025
+2ka33,2KA33,Rabu,Pemrograman Berorientasi Objek,1/2/3,K244,AMRIN FAKHRUDDIN JAUHARI,07 Jul 2025
+2ka33,2KA33,Rabu,Matematika Lanjut 2 **,4/5,K252,MARIA T A DEWI,07 Jul 2025
+2ka33,2KA33,Kamis,Manajemen & SIM 2 *,3/4,K292,SYARIFAH AZHARINA SYAFRUDIN,07 Jul 2025
+2ka33,2KA33,Jum'at,Matematika Sistem Informasi 2,3/4,K268,RICKY AGUS TJIPTANATA,07 Jul 2025
+2ka33,2KA33,Jum'at,Statistika **,6/7/8,K267,PENI SAWITRI,07 Jul 2025
+2ka33,2KA33,Sabtu,Sistem Basis Data 2 */**,1/2/3,K253,MURNIYATI,07 Jul 2025
+2ka34,2KA34,Senin,Matematika Sistem Informasi 2,2/3,L236,M. ABDUL RIVAI,07 Jul 2025
+2ka34,2KA34,Senin,Manajemen & SIM 2 *,4/5,L235,CAHYAWATI DIAH KUSUMARINI,07 Jul 2025
+2ka34,2KA34,selasa,Sistem Operasi **,1/2/3,L222,NOVRINA,07 Jul 2025
+2ka34,2KA34,Selasa,Matematika Lanjut 2 **,5/6,L226,MUFID NILMADA,07 Jul 2025
+2ka34,2KA34,Rabu,Sistem Basis Data 2 */**,6/7/8,L222,ONNY MARLEEN,07 Jul 2025
+2ka34,2KA34,Kamis,Statistika **,6/7/8,L222,ICHSANI MURSIDAH,07 Jul 2025
+2ka34,2KA34,Sabtu,Pemrograman Berorientasi Objek,1/2/3,L224,EKA FITRI RAHAYU,07 Jul 2025
+2ka34,2KA34,Sabtu,Pengantar Akuntansi Keuangan,4/5/6,L235,ANI HIDAYATI,07 Jul 2025
+2ka35,2KA35,Senin,Pemrograman Berorientasi Objek **,2/3/4,F41123,SETIA WIRAWAN,07 Jul 2025
+2ka35,2KA35,Senin,Manajemen & Sistem Informasi Manajemen 2 *,6/7,F41123,SITI SAIDAH,07 Jul 2025
+2ka35,2KA35,Selasa,Pemrograman Berbasis WEB **,2/3,F41123,ABDUL HAFIDH SIDIQ,07 Jul 2025
+2ka35,2KA35,Selasa,Jejaring Sosial & Konten Kreatif #,4/5,F41123,RHEZA ANDIKA,07 Jul 2025
+2ka35,2KA35,Rabu,Sistem Operasi **,2/3/4,F41123,ABDUS SYAKUR,07 Jul 2025
+2ka35,2KA35,Rabu,Matematika Lanjut 2 **,6/7,F41123,EDI SUKIRMAN,07 Jul 2025
+2ka35,2KA35,Kamis,Sistem Basis Data 2 */**,2/3/4,F41123,YULIA CHALRI,07 Jul 2025
+2ka35,2KA35,Kamis,Matematika Sistem Informasi 2,6/7,F41123,RICKY AGUS TJIPTANATA,07 Jul 2025
+2ka35,2KA35,Jumat,Statistika **,2/3/4,F41123,SRI RAHAYU NINGSIH,07 Jul 2025
+2ka35,2KA35,Jumat,Pengantar Bisnis & Ekonomi Digital,7/8,F41123,HENNY MEDYAWATI,07 Jul 2025
+3ka01,3KA01A,Selasa,Tatap Muka Penulisan Ilmiah,1/2,E423,PURWANTI,07 Jul 2025
+3ka01,3KA01B,Selasa,Tatap Muka Penulisan Ilmiah,1/2,E423,RHEZA ANDIKA,07 Jul 2025
+3ka01,3KA01C,Selasa,Tatap Muka Penulisan Ilmiah,1/2,E423,SUCI BR KEMBAREN,07 Jul 2025
+3ka01,3KA01,Selasa,Pengantar Akuntansi Keuangan 2,3/4,E247,MASODAH,07 Jul 2025
+3ka01,3KA01,Selasa,Pengantar Sain Data,5/6,E247,NURYULIANI,07 Jul 2025
+3ka01,3KA01,Rabu,Grafik Komputer & Peng. Citra **,2/3,E534,RATIH NURDIYANI SARI,07 Jul 2025
+3ka01,3KA01,Rabu,Analisis&Peranc.Sistem Inf.*/**,4/5/6,E217,TAUFIK HIDAYAT,07 Jul 2025
+3ka01,3KA01,Rabu,Pemodelan & Visualisasi Data,8/9,E522,OKTAVIANI,07 Jul 2025
+3ka01,3KA01,Kamis,Disain&Manaj. Jaringan Komputer*,4/5/6,F8481,MOCHAMMAD AKBAR MARWAN,07 Jul 2025
+3ka01,3KA01,Kamis,Sistem Berbasis Pengetahuan **,7/8,F8481,TRISTYANTI YUSNITASARI,07 Jul 2025
+3ka01,3KA01,Jum'at,Terapan Teori Graf,,UGTV,TEAM TEACHING,07 Jul 2025
+3ka01,3KA01,Sabtu,Praktikum Terapan Teori Graf,1/2,,TIM DOSEN,07 Jul 2025
+3ka02,3KA02,Senin,Pengantar Akuntansi Keuangan 2,3/4,E523,RINA NOFIYANTI,07 Jul 2025
+3ka02,3KA02,Senin,Sistem Berbasis Pengetahuan **,6/7,E237,DINA ANGGRAINI,07 Jul 2025
+3ka02,3KA02,Senin,Analisis&Peranc.Sistem Inf.*/**,8/9/10,E237,JULIA FAJARYANTI,07 Jul 2025
+3ka02,3KA02,Selasa,Praktikum Terapan Teori Graf,3/4,,TIM DOSEN,07 Jul 2025
+3ka02,3KA02,Rabu,Disain&Manaj. Jaringan Komputer*,3/4/5,E522,ULFA HIDAYATI,07 Jul 2025
+3ka02,3KA02,Rabu,Pengantar Sain Data,7/8,E316,AHMAD APANDI,07 Jul 2025
+3ka02,3KA02C,Rabu,Tatap Muka Penulisan Ilmiah,9/10,E233,DINA SUCI DARWATI,07 Jul 2025
+3ka02,3KA02A,Rabu,Tatap Muka Penulisan Ilmiah,9/10,E233,ROSDIANA,07 Jul 2025
+3ka02,3KA02B,Rabu,Tatap Muka Penulisan Ilmiah,9/10,E233,VEGA VALENTINE,07 Jul 2025
+3ka02,3KA02,Jum'at,Terapan Teori Graf,,UGTV,TEAM TEACHING,07 Jul 2025
+3ka02,3KA02,Sabtu,Grafik Komputer & Peng. Citra **,4/5,E211,SIWI PRIHATININGSIH,07 Jul 2025
+3ka02,3KA02,Sabtu,Pemodelan & Visualisasi Data,6/7,E211,RANI PUSPITA/IVAN MAURITS,07 Jul 2025
+3ka03,3KA03,Selasa,Praktikum Terapan Teori Graf,3/4,,TIM DOSEN,07 Jul 2025
+3ka03,3KA03,Rabu,Sistem Berbasis Pengetahuan **,1/2,E447,DINA ANGGRAINI,07 Jul 2025
+3ka03,3KA03,Rabu,Grafik Komputer & Peng. Citra **,3/4,E447,INDAH WAHYUNI,07 Jul 2025
+3ka03,3KA03,Rabu,Pemodelan & Visualisasi Data,6/7,E234,OKTAVIANI,07 Jul 2025
+3ka03,3KA03,Rabu,Disain&Manaj. Jaringan Komputer*,8/9/10,E234,CUT MAISYARAH KARYATI,07 Jul 2025
+3ka03,3KA03,Kamis,Pengantar Sain Data,1/2,E523,ARIEF FADHLURRAHMAN RASYID,07 Jul 2025
+3ka03,3KA03,Kamis,Analisis&Peranc.Sistem Inf.*/**,4/5/6,E214,TAUFIK HIDAYAT,07 Jul 2025
+3ka03,3KA03,Kamis,Pengantar Akuntansi Keuangan 2,7/8,E214,NIAYAH ERWIN,07 Jul 2025
+3ka03,3KA03C,Kamis,Tatap Muka Penulisan Ilmiah,9/10,E121,DINA AGUSTEN,07 Jul 2025
+3ka03,3KA03A,Kamis,Tatap Muka Penulisan Ilmiah,9/10,E121,MURTIWIYATI,07 Jul 2025
+3ka03,3KA03B,Kamis,Tatap Muka Penulisan Ilmiah,9/10,E121,REMI SENJAYA,07 Jul 2025
+3ka03,3KA03,Jum'at,Terapan Teori Graf,,UGTV,TEAM TEACHING,07 Jul 2025
+3ka04,3KA04A,Senin,Tatap Muka Penulisan Ilmiah,7/8,E236,ANNA FITRIA,07 Jul 2025
+3ka04,3KA04C,Senin,Tatap Muka Penulisan Ilmiah,7/8,E236,IFFATUL MARDIYAH,07 Jul 2025
+3ka04,3KA04B,Senin,Tatap Muka Penulisan Ilmiah,7/8,E236,ITAR MINTARSIH,07 Jul 2025
+3ka04,3KA04,Selasa,Praktikum Terapan Teori Graf,3/4,,TIM DOSEN,07 Jul 2025
+3ka04,3KA04,Rabu,Sistem Berbasis Pengetahuan **,1/2,E242,AHYAD/SABILA NADHIRAH,07 Jul 2025
+3ka04,3KA04,Rabu,Pengantar Sain Data,3/4,E242,AHMAD APANDI,07 Jul 2025
+3ka04,3KA04,Rabu,Analisis&Peranc.Sistem Inf.*/**,7/8/9,E217,TAUFIK HIDAYAT,07 Jul 2025
+3ka04,3KA04,Kamis,Disain&Manaj. Jaringan Komputer*,1/2/3,E521,ARIES MUSLIM,07 Jul 2025
+3ka04,3KA04,Kamis,Grafik Komputer & Peng. Citra **,4/5,E521,ANNA FITRIA,07 Jul 2025
+3ka04,3KA04,Kamis,Pemodelan & Visualisasi Data,7/8,E344,IVAN MAURITS,07 Jul 2025
+3ka04,3KA04,Kamis,Pengantar Akuntansi Keuangan 2,9/10,E344,NIAYAH ERWIN,07 Jul 2025
+3ka04,3KA04,Jum'at,Terapan Teori Graf,,UGTV,TEAM TEACHING,07 Jul 2025
+3ka05,3KA05C,Senin,Tatap Muka Penulisan Ilmiah,1/2,E234,PUJI SULARSIH,07 Jul 2025
+3ka05,3KA05A,Senin,Tatap Muka Penulisan Ilmiah,3/4,E441,MASIMBANGAN SABARINA HARLINA,07 Jul 2025
+3ka05,3KA05B,Senin,Tatap Muka Penulisan Ilmiah,3/4,E441,SANDHI PRAJAKA,07 Jul 2025
+3ka05,3KA05,Selasa,Praktikum Terapan Teori Graf,1/2,,TIM DOSEN,07 Jul 2025
+3ka05,3KA05,Rabu,Pengantar Akuntansi Keuangan 2,1/2,E511,DYAH MIETA SETYAWATI,07 Jul 2025
+3ka05,3KA05,Rabu,Pengantar Sain Data,3/4,E511,HARIYANTO,07 Jul 2025
+3ka05,3KA05,Rabu,Sistem Berbasis Pengetahuan **,7/8,E347,DINA ANGGRAINI,07 Jul 2025
+3ka05,3KA05,Rabu,Grafik Komputer & Peng. Citra **,9/10,E347,SURYARINI WIDODO,07 Jul 2025
+3ka05,3KA05,Kamis,Analisis&Peranc.Sistem Inf.*/**,1/2/3,E214,TAUFIK HIDAYAT,07 Jul 2025
+3ka05,3KA05,Kamis,Disain&Manaj. Jaringan Komputer*,5/6/7,E512,ARIES MUSLIM,07 Jul 2025
+3ka05,3KA05,Kamis,Pemodelan & Visualisasi Data,9/10,E514,IVAN MAURITS,07 Jul 2025
+3ka05,3KA05,Jum'at,Terapan Teori Graf,,UGTV,TEAM TEACHING,07 Jul 2025
+3ka06,3KA06,Senin,Praktikum Terapan Teori Graf,3/4,,TIM DOSEN,07 Jul 2025
+3ka06,3KA06,Rabu,Analisis&Peranc.Sistem Inf.*/**,1/2/3,E216,TAUFIK HIDAYAT,07 Jul 2025
+3ka06,3KA06,Rabu,Pemodelan & Visualisasi Data,4/5,E216,OKTAVIANI,07 Jul 2025
+3ka06,3KA06,Rabu,Grafik Komputer & Peng. Citra **,7/8,E343,SURYARINI WIDODO,07 Jul 2025
+3ka06,3KA06,Rabu,Sistem Berbasis Pengetahuan **,9/10,E343,DINA ANGGRAINI,07 Jul 2025
+3ka06,3KA06B,Kamis,Tatap Muka Penulisan Ilmiah,1/2,F8455,ACHMAD FAHRUROZI,07 Jul 2025
+3ka06,3KA06C,Kamis,Tatap Muka Penulisan Ilmiah,1/2,F8455,IMAM AHMAD TRINUGROHO,07 Jul 2025
+3ka06,3KA06A,Kamis,Tatap Muka Penulisan Ilmiah,1/2,F8455,LELI SAFITRI,07 Jul 2025
+3ka06,3KA06,Kamis,Pengantar Akuntansi Keuangan 2,3/4,F8472,NIAYAH ERWIN,07 Jul 2025
+3ka06,3KA06,Kamis,Pengantar Sain Data,6/7,F8467,MIFTAHUL JANNAH,07 Jul 2025
+3ka06,3KA06,Kamis,Disain&Manaj. Jaringan Komputer*,8/9/10,F8467,MOCHAMMAD AKBAR MARWAN,07 Jul 2025
+3ka06,3KA06,Jum'at,Terapan Teori Graf,,UGTV,TEAM TEACHING,07 Jul 2025
+3ka07,3KA07,Senin,Disain&Manaj. Jaringan Komputer*,1/2/3,E426,FITRIANINGSIH,07 Jul 2025
+3ka07,3KA07,Senin,Sistem Berbasis Pengetahuan **,4/5,E426,DINA ANGGRAINI,07 Jul 2025
+3ka07,3KA07,Senin,Pengantar Akuntansi Keuangan 2,7/8,E234,LAINA ZAHRA,07 Jul 2025
+3ka07,3KA07A,Senin,Tatap Muka Penulisan Ilmiah,9/10,E336,BUDI SETIAWAN1,07 Jul 2025
+3ka07,3KA07B,Senin,Tatap Muka Penulisan Ilmiah,9/10,E336,MASIMBANGAN SUSANNA HERAWATI,07 Jul 2025
+3ka07,3KA07C,Senin,Tatap Muka Penulisan Ilmiah,9/10,E336,SITI CHODIDJAH,07 Jul 2025
+3ka07,3KA07,Selasa,Praktikum Terapan Teori Graf,1/2,,TIM DOSEN,07 Jul 2025
+3ka07,3KA07,Rabu,Analisis&Peranc.Sistem Inf.*/**,1/2/3,E313,FEBRIANI,07 Jul 2025
+3ka07,3KA07,Rabu,Pengantar Sain Data,5/6,E449,AHMAD APANDI,07 Jul 2025
+3ka07,3KA07,Rabu,Pemodelan & Visualisasi Data,7/8,E227,PIPIT DEWI ARNESIA,07 Jul 2025
+3ka07,3KA07,Rabu,Grafik Komputer & Peng. Citra **,9/10,E227,ACHMAD BENNY MUTIARA QN,07 Jul 2025
+3ka07,3KA07,Jum'at,Terapan Teori Graf,,UGTV,TEAM TEACHING,07 Jul 2025
+3ka08,3KA08,Senin,Praktikum Terapan Teori Graf,1/2,,TIM DOSEN,07 Jul 2025
+3ka08,3KA08,Rabu,Disain&Manaj. Jaringan Komputer*,1/2/3,E316,RODIAH,07 Jul 2025
+3ka08,3KA08,Rabu,Analisis&Peranc.Sistem Inf.*/**,4/5/6,E316,FENNI AGUSTINA,07 Jul 2025
+3ka08,3KA08D,Rabu,Tatap Muka Penulisan Ilmiah,7/8,E132,AGUSTINE HANA MASITOH,07 Jul 2025
+3ka08,3KA08C,Rabu,Tatap Muka Penulisan Ilmiah,7/8,E132,INTAN MEUTIA SARI,07 Jul 2025
+3ka08,3KA08B,Rabu,Tatap Muka Penulisan Ilmiah,7/8,E132,LIRA ARUM KUSUMANINGTHYAS HUTA,07 Jul 2025
+3ka08,3KA08A,Rabu,Tatap Muka Penulisan Ilmiah,7/8,E132,TIYA NOVIYANTI,07 Jul 2025
+3ka08,3KA08,Rabu,Pemodelan & Visualisasi Data,9/10,E515,SINGGIH JATMIKO,07 Jul 2025
+3ka08,3KA08,Kamis,Pengantar Akuntansi Keuangan 2,1/2,F8446,NIAYAH ERWIN,07 Jul 2025
+3ka08,3KA08,Kamis,Sistem Berbasis Pengetahuan **,4/5,F8467,TRISTYANTI YUSNITASARI,07 Jul 2025
+3ka08,3KA08,Kamis,Grafik Komputer & Peng. Citra **,7/8,F8443,ROSNY GONIDJAYA,07 Jul 2025
+3ka08,3KA08,Kamis,Pengantar Sain Data,9/10,F8443,MIFTAHUL JANNAH,07 Jul 2025
+3ka08,3KA08,Jum'at,Terapan Teori Graf,,UGTV,TEAM TEACHING,07 Jul 2025
+3ka09,3KA09,Senin,Praktikum Terapan Teori Graf,1/2,,TIM DOSEN,07 Jul 2025
+3ka09,3KA09,Senin,Analisis&Peranc.Sistem Inf.*/**,4/5/6,E211,JULIA FAJARYANTI,07 Jul 2025
+3ka09,3KA09,Senin,Pengantar Akuntansi Keuangan 2,8/9,E211,RINA NOFIYANTI,07 Jul 2025
+3ka09,3KA09,Rabu,Pengantar Sain Data,1/2,E246,HARIYANTO,07 Jul 2025
+3ka09,3KA09,Rabu,Pemodelan & Visualisasi Data,3/4,E246,NAELI UMNIATI,07 Jul 2025
+3ka09,3KA09,Rabu,Grafik Komputer & Peng. Citra **,6/7,E238,INDAH WAHYUNI,07 Jul 2025
+3ka09,3KA09,Rabu,Sistem Berbasis Pengetahuan **,8/9,E238,HANUM PUTRI PERMATASARI,07 Jul 2025
+3ka09,3KA09,Kamis,Disain&Manaj. Jaringan Komputer*,3/4/5,E311,RODIAH,07 Jul 2025
+3ka09,3KA09C,Kamis,Tatap Muka Penulisan Ilmiah,8/9,E433,DHIAN SWEETANIA,07 Jul 2025
+3ka09,3KA09A,Kamis,Tatap Muka Penulisan Ilmiah,8/9,E433,ESTI SETIYANINGSIH,07 Jul 2025
+3ka09,3KA09B,Kamis,Tatap Muka Penulisan Ilmiah,8/9,E433,NURASIAH,07 Jul 2025
+3ka09,3KA09,Jum'at,Terapan Teori Graf,,UGTV,TEAM TEACHING,07 Jul 2025
+3ka10,3KA10,Selasa,Praktikum Terapan Teori Graf,1/2,,TIM DOSEN,07 Jul 2025
+3ka10,3KA10,Selasa,Pengantar Sain Data,3/4,G243,NURYULIANI,07 Jul 2025
+3ka10,3KA10,Selasa,Grafik Komputer & Peng. Citra **,6/7,G243,INDAH WAHYUNI,07 Jul 2025
+3ka10,3KA10A,Rabu,Tatap Muka Penulisan Ilmiah,1/2,E425,HANUM PUTRI PERMATASARI,07 Jul 2025
+3ka10,3KA10C,Rabu,Tatap Muka Penulisan Ilmiah,1/2,E425,INDAH WAHYUNI,07 Jul 2025
+3ka10,3KA10B,Rabu,Tatap Muka Penulisan Ilmiah,1/2,E425,SAHNI DAMERIANTA P,07 Jul 2025
+3ka10,3KA10,Rabu,Analisis&Peranc.Sistem Inf.*/**,5/6/7,E237,IRFAN,07 Jul 2025
+3ka10,3KA10,Jum'at,Terapan Teori Graf,,UGTV,TEAM TEACHING,07 Jul 2025
+3ka10,3KA10,Sabtu,Disain&Manaj. Jaringan Komputer*,1/2/3,E314,GALIH RAKACITA RACHMAN,07 Jul 2025
+3ka10,3KA10,Sabtu,Pengantar Akuntansi Keuangan 2,4/5,E314,WIDADA,07 Jul 2025
+3ka10,3KA10,Sabtu,Pemodelan & Visualisasi Data,7/8,E233,ARY BIMA KURNIAWAN,07 Jul 2025
+3ka10,3KA10,Sabtu,Sistem Berbasis Pengetahuan **,9/10,E233,NOVIA FATIMAH,07 Jul 2025
+3ka11,3KA11,Senin,Praktikum Terapan Teori Graf,8/9,,TIM DOSEN,07 Jul 2025
+3ka11,3KA11,Selasa,Sistem Berbasis Pengetahuan **,1/2,E217,TRISTYANTI YUSNITASARI,07 Jul 2025
+3ka11,3KA11,Selasa,Analisis&Peranc.Sistem Inf.*/**,4/5/6,E212,FENNI AGUSTINA,07 Jul 2025
+3ka11,3KA11,Selasa,Pengantar Akuntansi Keuangan 2,7/8,E212,SYNTHA NOVIYANA,07 Jul 2025
+3ka11,3KA11B,Selasa,Tatap Muka Penulisan Ilmiah,9/10,E237,EKA FITRI RAHAYU,07 Jul 2025
+3ka11,3KA11D,Selasa,Tatap Muka Penulisan Ilmiah,9/10,E237,MUHAMMAD EDY SUPRIYADI,07 Jul 2025
+3ka11,3KA11A,Selasa,Tatap Muka Penulisan Ilmiah,9/10,E237,PARNO,07 Jul 2025
+3ka11,3KA11C,Selasa,Tatap Muka Penulisan Ilmiah,9/10,E237,WINARSIH,07 Jul 2025
+3ka11,3KA11,Rabu,Pemodelan & Visualisasi Data,1/2,E443,OKTAVIANI,07 Jul 2025
+3ka11,3KA11,Rabu,Pengantar Sain Data,3/4,E443,ANTONIUS ANGGA KURNIAWAN,07 Jul 2025
+3ka11,3KA11,Rabu,Grafik Komputer & Peng. Citra **,6/7,E214,RATIH NURDIYANI SARI,07 Jul 2025
+3ka11,3KA11,Rabu,Disain&Manaj. Jaringan Komputer*,8/9/10,E214,RODIAH,07 Jul 2025
+3ka11,3KA11,Jum'at,Terapan Teori Graf,,UGTV,TEAM TEACHING,07 Jul 2025
+3ka12,3KA12B,Senin,Tatap Muka Penulisan Ilmiah,1/2,D626,IRA WINDARTI,07 Jul 2025
+3ka12,3KA12C,Senin,Tatap Muka Penulisan Ilmiah,1/2,D626,RATRI PURWANINGTYAS,07 Jul 2025
+3ka12,3KA12A,Senin,Tatap Muka Penulisan Ilmiah,1/2,D626,WIDYA KHAFA NOFA,07 Jul 2025
+3ka12,3KA12,Senin,Praktikum Terapan Teori Graf,3/4,,TIM DOSEN,07 Jul 2025
+3ka12,3KA12,Senin,Analisis&Peranc.Sistem Inf.*/**,5/6/7,D637,MARLIZA GANEFI GUMAY,07 Jul 2025
+3ka12,3KA12,Selasa,Pengantar Akuntansi Keuangan 2,1/2,E245,MASODAH,07 Jul 2025
+3ka12,3KA12,Selasa,Grafik Komputer & Peng. Citra **,3/4,E245,INDAH WAHYUNI,07 Jul 2025
+3ka12,3KA12,Selasa,Pengantar Sain Data,5/6,E245,ARIEF FADHLURRAHMAN RASYID,07 Jul 2025
+3ka12,3KA12,Rabu,Sistem Berbasis Pengetahuan **,3/4,E425,KOKO BACHRUDIN,07 Jul 2025
+3ka12,3KA12,Rabu,Disain&Manaj. Jaringan Komputer*,5/6/7,E425,CUT MAISYARAH KARYATI,07 Jul 2025
+3ka12,3KA12,Rabu,Pemodelan & Visualisasi Data,9/10,E346,NAELI UMNIATI,07 Jul 2025
+3ka12,3KA12,Jum'at,Terapan Teori Graf,,UGTV,TEAM TEACHING,07 Jul 2025
+3ka13,3KA13,Senin,Analisis&Peranc.Sistem Inf.*/**,1/2/3,D611,MARLIZA GANEFI GUMAY,07 Jul 2025
+3ka13,3KA13,Senin,Pengantar Akuntansi Keuangan 2,4/5,D611,LAINA ZAHRA,07 Jul 2025
+3ka13,3KA13,Senin,Praktikum Terapan Teori Graf,6/7,,TIM DOSEN,07 Jul 2025
+3ka13,3KA13,Selasa,Pengantar Sain Data,1/2,E335,AHMAD APANDI,07 Jul 2025
+3ka13,3KA13,Selasa,Disain&Manaj. Jaringan Komputer*,4/5/6,E211,ARIES MUSLIM,07 Jul 2025
+3ka13,3KA13C,Selasa,Tatap Muka Penulisan Ilmiah,6/7,E246,AHMAD APANDI,07 Jul 2025
+3ka13,3KA13B,Selasa,Tatap Muka Penulisan Ilmiah,6/7,E246,ERMA SOVA,07 Jul 2025
+3ka13,3KA13A,Selasa,Tatap Muka Penulisan Ilmiah,6/7,E246,YULI MAHARETTA ARIANTI,07 Jul 2025
+3ka13,3KA13,Jum'at,Terapan Teori Graf,,UGTV,TEAM TEACHING,07 Jul 2025
+3ka13,3KA13,Sabtu,Pemodelan & Visualisasi Data,1/2,G133,ARY BIMA KURNIAWAN,07 Jul 2025
+3ka13,3KA13,Sabtu,Sistem Berbasis Pengetahuan **,3/4,G133,JALINAS/VIRA YOLANDA,07 Jul 2025
+3ka13,3KA13,Sabtu,Grafik Komputer & Peng. Citra **,5/6,G133,BUDI SETIAWAN2/SAYIDATI KARIMA,07 Jul 2025
+3ka14,3KA14,Senin,Pengantar Akuntansi Keuangan 2,1/2,E215,RINA NOFIYANTI,07 Jul 2025
+3ka14,3KA14,Senin,Disain&Manaj. Jaringan Komputer*,4/5/6,E244,FITRIANINGSIH,07 Jul 2025
+3ka14,3KA14,Senin,Pengantar Sain Data,7/8,E244,OCTAVIANI HUTAPEA,07 Jul 2025
+3ka14,3KA14,Senin,Grafik Komputer & Peng. Citra **,9/10,E244,SYALIS IBNIH MELATI ISTINI,07 Jul 2025
+3ka14,3KA14,Rabu,Sistem Berbasis Pengetahuan **,1/2,E231,NUR SULTAN SALAHUDDIN,07 Jul 2025
+3ka14,3KA14,Rabu,Analisis&Peranc.Sistem Inf.*/**,4/5/6,E313,FEBRIANI,07 Jul 2025
+3ka14,3KA14,Rabu,Pemodelan & Visualisasi Data,7/8,E313,NAELI UMNIATI,07 Jul 2025
+3ka14,3KA14C,Rabu,Tatap Muka Penulisan Ilmiah,9/10,E132,IRFAN,07 Jul 2025
+3ka14,3KA14A,Rabu,Tatap Muka Penulisan Ilmiah,9/10,E132,SANTI WIDIANTI,07 Jul 2025
+3ka14,3KA14B,Rabu,Tatap Muka Penulisan Ilmiah,9/10,E132,YULIA EKA PRAPTININGSIH,07 Jul 2025
+3ka14,3KA14,Jum'at,Terapan Teori Graf,,UGTV,TEAM TEACHING,07 Jul 2025
+3ka14,3KA14,Sabtu,Praktikum Terapan Teori Graf,6/7,,TIM DOSEN,07 Jul 2025
+3ka15,3KA15,Selasa,Analisis&Peranc.Sistem Inf.*/**,1/2/3,E314,FEBRIANI,07 Jul 2025
+3ka15,3KA15,Selasa,Sistem Berbasis Pengetahuan **,4/5,E227,TRISTYANTI YUSNITASARI,07 Jul 2025
+3ka15,3KA15,Selasa,Pengantar Sain Data,7/8,E314,NURYULIANI,07 Jul 2025
+3ka15,3KA15A,Selasa,Tatap Muka Penulisan Ilmiah,9/10,E236,AMELIA BELINDA SILVIANA,07 Jul 2025
+3ka15,3KA15B,Selasa,Tatap Muka Penulisan Ilmiah,9/10,E236,FARIDA AMALYA,07 Jul 2025
+3ka15,3KA15C,Selasa,Tatap Muka Penulisan Ilmiah,9/10,E236,YENI SETIANI,07 Jul 2025
+3ka15,3KA15,Rabu,Pemodelan & Visualisasi Data,1/2,E444,NAELI UMNIATI,07 Jul 2025
+3ka15,3KA15,Rabu,Disain&Manaj. Jaringan Komputer*,4/5/6,E221,RODIAH,07 Jul 2025
+3ka15,3KA15,Rabu,Grafik Komputer & Peng. Citra **,7/8,E221,ACHMAD BENNY MUTIARA QN,07 Jul 2025
+3ka15,3KA15,Rabu,Pengantar Akuntansi Keuangan 2,9/10,E221,DYAH MIETA SETYAWATI,07 Jul 2025
+3ka15,3KA15,Jum'at,Terapan Teori Graf,,UGTV,TEAM TEACHING,07 Jul 2025
+3ka15,3KA15,Sabtu,Praktikum Terapan Teori Graf,6/7,,TIM DOSEN,07 Jul 2025
+3ka16,3KA16,Senin,Praktikum Terapan Teori Graf,8/9,,TIM DOSEN,07 Jul 2025
+3ka16,3KA16,Rabu,Analisis&Peranc.Sistem Inf.*/**,1/2/3,E217,FENNI AGUSTINA,07 Jul 2025
+3ka16,3KA16,Rabu,Sistem Berbasis Pengetahuan **,5/6,E447,HANUM PUTRI PERMATASARI,07 Jul 2025
+3ka16,3KA16,Rabu,Grafik Komputer & Peng. Citra **,8/9,E246,INDAH WAHYUNI,07 Jul 2025
+3ka16,3KA16,Kamis,Disain&Manaj. Jaringan Komputer*,1/2/3,F8452,DHARMAYANTI,07 Jul 2025
+3ka16,3KA16,Kamis,Pengantar Sain Data,4/5,F8452,MIFTAHUL JANNAH,07 Jul 2025
+3ka16,3KA16,Jum'at,Terapan Teori Graf,,UGTV,TEAM TEACHING,07 Jul 2025
+3ka16,3KA16,Sabtu,Pengantar Akuntansi Keuangan 2,2/3,E216,WIDADA,07 Jul 2025
+3ka16,3KA16,Sabtu,Pemodelan & Visualisasi Data,4/5,E216,RANI PUSPITA/IVAN MAURITS,07 Jul 2025
+3ka16,3KA16B,Sabtu,Tatap Muka Penulisan Ilmiah,6/7,E128,AGRY ALFIAH,07 Jul 2025
+3ka16,3KA16C,Sabtu,Tatap Muka Penulisan Ilmiah,6/7,E128,SYARIFAH AZHARINA SYAFRUDIN,07 Jul 2025
+3ka16,3KA16A,Sabtu,Tatap Muka Penulisan Ilmiah,7/8,E313,MOHAMAD FUAD,07 Jul 2025
+3ka17,3KA17C,Senin,Tatap Muka Penulisan Ilmiah,3/4,E241,ENDAH BUDIYATI,07 Jul 2025
+3ka17,3KA17A,Senin,Tatap Muka Penulisan Ilmiah,3/4,E241,ENDAH KURNIASARI,07 Jul 2025
+3ka17,3KA17B,Senin,Tatap Muka Penulisan Ilmiah,3/4,E241,FIVI SYUKRIAH,07 Jul 2025
+3ka17,3KA17,Senin,Pengantar Akuntansi Keuangan 2,5/6,E441,RINA NOFIYANTI,07 Jul 2025
+3ka17,3KA17,Senin,Pengantar Sain Data,9/10,E441,OCTAVIANI HUTAPEA,07 Jul 2025
+3ka17,3KA17,Selasa,Praktikum Terapan Teori Graf,3/4,,TIM DOSEN,07 Jul 2025
+3ka17,3KA17,Rabu,Pemodelan & Visualisasi Data,3/4,E444,SINGGIH JATMIKO,07 Jul 2025
+3ka17,3KA17,Rabu,Analisis&Peranc.Sistem Inf.*/**,7/8/9,E215,FENNI AGUSTINA,07 Jul 2025
+3ka17,3KA17,Kamis,Sistem Berbasis Pengetahuan **,2/3,F8454,TRISTYANTI YUSNITASARI,07 Jul 2025
+3ka17,3KA17,Kamis,Disain&Manaj. Jaringan Komputer*,4/5/6,F8454,DHARMAYANTI,07 Jul 2025
+3ka17,3KA17,Kamis,Grafik Komputer & Peng. Citra **,9/10,F8464,ROSNY GONIDJAYA,07 Jul 2025
+3ka17,3KA17,Jum'at,Terapan Teori Graf,,UGTV,TEAM TEACHING,07 Jul 2025
+3ka18,3KA18,Senin,Praktikum Terapan Teori Graf,8/9,,TIM DOSEN,07 Jul 2025
+3ka18,3KA18,Selasa,Analisis&Peranc.Sistem Inf.*/**,1/2/3,E212,FENNI AGUSTINA,07 Jul 2025
+3ka18,3KA18,Selasa,Pengantar Akuntansi Keuangan 2,5/6,E215,SYNTHA NOVIYANA,07 Jul 2025
+3ka18,3KA18B,Selasa,Tatap Muka Penulisan Ilmiah,7/8,E236,ETY SUTANTY,07 Jul 2025
+3ka18,3KA18A,Selasa,Tatap Muka Penulisan Ilmiah,7/8,E236,ORITA DWI PURBIYANTI,07 Jul 2025
+3ka18,3KA18C,Selasa,Tatap Muka Penulisan Ilmiah,7/8,E236,SUSI WIDAYATI,07 Jul 2025
+3ka18,3KA18,Rabu,Sistem Berbasis Pengetahuan **,3/4,E336,DINA ANGGRAINI,07 Jul 2025
+3ka18,3KA18,Rabu,Disain&Manaj. Jaringan Komputer*,6/7/8,E342,ULFA HIDAYATI,07 Jul 2025
+3ka18,3KA18,Rabu,Pengantar Sain Data,9/10,E342,SHAFIRA ADRIZAYANI,07 Jul 2025
+3ka18,3KA18,Jum'at,Terapan Teori Graf,,UGTV,TEAM TEACHING,07 Jul 2025
+3ka18,3KA18,Sabtu,Grafik Komputer & Peng. Citra **,1/2,G316,BUDI SETIAWAN2/SAYIDATI KARIMA,07 Jul 2025
+3ka18,3KA18,Sabtu,Pemodelan & Visualisasi Data,3/4,G316,I WAYAN KRISHNA DARMA,07 Jul 2025
+3ka19,3KA19,Selasa,Praktikum Terapan Teori Graf,1/2,,TIM DOSEN,07 Jul 2025
+3ka19,3KA19,Rabu,Pengantar Sain Data,1/2,E449,ANTONIUS ANGGA KURNIAWAN,07 Jul 2025
+3ka19,3KA19,Rabu,Pemodelan & Visualisasi Data,3/4,E449,PIPIT DEWI ARNESIA,07 Jul 2025
+3ka19,3KA19,Rabu,Pengantar Akuntansi Keuangan 2,6/7,E512,DYAH MIETA SETYAWATI,07 Jul 2025
+3ka19,3KA19,Rabu,Sistem Berbasis Pengetahuan **,8/9,E512,KOKO BACHRUDIN,07 Jul 2025
+3ka19,3KA19,Kamis,Grafik Komputer & Peng. Citra **,1/2,E425,ANNA FITRIA,07 Jul 2025
+3ka19,3KA19,Kamis,Disain&Manaj. Jaringan Komputer*,4/5/6,E244,GANENDRA/ULFA HIDAYATI,07 Jul 2025
+3ka19,3KA19A,Kamis,Tatap Muka Penulisan Ilmiah,8/9,E442,NOOR VIKA HIZVIANI,07 Jul 2025
+3ka19,3KA19B,Kamis,Tatap Muka Penulisan Ilmiah,8/9,E442,REVIDA IRIANA NAPITUPULU,07 Jul 2025
+3ka19,3KA19C,Kamis,Tatap Muka Penulisan Ilmiah,8/9,E442,WITTA LISTIYA NINGRUM,07 Jul 2025
+3ka19,3KA19,Jum'at,Terapan Teori Graf,,UGTV,TEAM TEACHING,07 Jul 2025
+3ka19,3KA19,Sabtu,Analisis&Peranc.Sistem Inf.*/**,1/2/3,E235,OVAN SUNARTO PULU,07 Jul 2025
+3ka20,3KA20,Selasa,Disain&Manaj. Jaringan Komputer*,1/2/3,E213,ARIES MUSLIM,07 Jul 2025
+3ka20,3KA20,Selasa,Analisis&Peranc.Sistem Inf.*/**,4/5/6,E213,FEBRIANI,07 Jul 2025
+3ka20,3KA20,Selasa,Pengantar Akuntansi Keuangan 2,8/9,E213,WIDADA,07 Jul 2025
+3ka20,3KA20,Rabu,Pemodelan & Visualisasi Data,1/2,E228,PIPIT DEWI ARNESIA,07 Jul 2025
+3ka20,3KA20,Rabu,Grafik Komputer & Peng. Citra **,3/4,E228,ACHMAD BENNY MUTIARA QN,07 Jul 2025
+3ka20,3KA20,Rabu,Sistem Berbasis Pengetahuan **,6/7,E247,KOKO BACHRUDIN,07 Jul 2025
+3ka20,3KA20,Rabu,Pengantar Sain Data,8/9,E247,ANTONIUS ANGGA KURNIAWAN,07 Jul 2025
+3ka20,3KA20,Jum'at,Terapan Teori Graf,,UGTV,TEAM TEACHING,07 Jul 2025
+3ka20,3KA20A,Sabtu,Tatap Muka Penulisan Ilmiah,4/5,D622,ALBERTUS BAYU AJI PRIYONO,07 Jul 2025
+3ka20,3KA20B,Sabtu,Tatap Muka Penulisan Ilmiah,4/5,D622,MOH. YUNUS,07 Jul 2025
+3ka20,3KA20C,Sabtu,Tatap Muka Penulisan Ilmiah,4/5,D622,RIZKI ARIYANI,07 Jul 2025
+3ka20,3KA20,Sabtu,Praktikum Terapan Teori Graf,6/7,,TIM DOSEN,07 Jul 2025
+3ka21,3KA21,Senin,Pengantar Sain Data,1/2,B312,MUFNI ALIDA,07 Jul 2025
+3ka21,3KA21,Senin,Pengantar Akuntansi Keuangan 2,3/4,B312,WIGIYANTI,07 Jul 2025
+3ka21,3KA21,Senin,Praktikum Terapan Teori Graf,6/7,,TIM DOSEN,07 Jul 2025
+3ka21,3KA21,Kamis,Sistem Berbasis Pengetahuan **,1/2,B223,DINI TRIASANTI,07 Jul 2025
+3ka21,3KA21,Kamis,Analisis&Peranc.Sistem Inf.*/**,4/5/6,B223,ELYNA FAZRIYATI,07 Jul 2025
+3ka21,3KA21A,Kamis,Tatap Muka Penulisan Ilmiah,9/10,B223,BAMBANG YULIANTO,07 Jul 2025
+3ka21,3KA21B,Kamis,Tatap Muka Penulisan Ilmiah,9/10,B223,NATALLIOS PETER SIPASULTA,07 Jul 2025
+3ka21,3KA21,Jum'at,Terapan Teori Graf,,UGTV,TEAM TEACHING,07 Jul 2025
+3ka21,3KA21,Sabtu,Grafik Komputer & Peng. Citra **,1/2,B223,JUNAEDI,07 Jul 2025
+3ka21,3KA21,Sabtu,Disain&Manaj. Jaringan Komputer*,5/6/7,B312,SYIFA NURANI RAHMAYANTI,07 Jul 2025
+3ka21,3KA21,Sabtu,Pemodelan & Visualisasi Data,8/9,B312,MARIA SRI WULANDARI,07 Jul 2025
+3ka22,3KA22B,Senin,Tatap Muka Penulisan Ilmiah,3/4,B223,EMELLIKA RAHMAYANA,07 Jul 2025
+3ka22,3KA22A,Senin,Tatap Muka Penulisan Ilmiah,3/4,B223,LULU CHAERANI MUNGGARAN,07 Jul 2025
+3ka22,3KA22,Senin,Pengantar Sain Data,6/7,B223,MUFNI ALIDA,07 Jul 2025
+3ka22,3KA22,Senin,Pengantar Akuntansi Keuangan 2,8/9,B223,WIGIYANTI,07 Jul 2025
+3ka22,3KA22,Kamis,Analisis&Peranc.Sistem Inf.*/**,1/2/3,B313,ELYNA FAZRIYATI,07 Jul 2025
+3ka22,3KA22,Kamis,Grafik Komputer & Peng. Citra **,4/5,B313,SYALIS IBNIH MELATI ISTINI,07 Jul 2025
+3ka22,3KA22,Kamis,Sistem Berbasis Pengetahuan **,7/8,B313,DINI TRIASANTI,07 Jul 2025
+3ka22,3KA22,Jum'at,Terapan Teori Graf,,UGTV,TEAM TEACHING,07 Jul 2025
+3ka22,3KA22,Sabtu,Praktikum Terapan Teori Graf,3/4,,TIM DOSEN,07 Jul 2025
+3ka22,3KA22,Sabtu,Pemodelan & Visualisasi Data,6/7,B211,MARIA SRI WULANDARI,07 Jul 2025
+3ka22,3KA22,Sabtu,Disain&Manaj. Jaringan Komputer*,8/9/10,B211,SYIFA NURANI RAHMAYANTI,07 Jul 2025
+3ka23,3KA23,Senin,Pengantar Sain Data,3/4,B313,MUFNI ALIDA,07 Jul 2025
+3ka23,3KA23,Senin,Pengantar Akuntansi Keuangan 2,5/6,B313,WIGIYANTI,07 Jul 2025
+3ka23,3KA23,Senin,Praktikum Terapan Teori Graf,8/9,,TIM DOSEN,07 Jul 2025
+3ka23,3KA23,Kamis,Sistem Berbasis Pengetahuan **,4/5,B312,DINI TRIASANTI,07 Jul 2025
+3ka23,3KA23,Kamis,Grafik Komputer & Peng. Citra **,7/8,B312,SYALIS IBNIH MELATI ISTINI,07 Jul 2025
+3ka23,3KA23B,Kamis,Tatap Muka Penulisan Ilmiah,9/10,B312,ALI AKBAR,07 Jul 2025
+3ka23,3KA23A,Kamis,Tatap Muka Penulisan Ilmiah,9/10,B312,DIA RAGASARI,07 Jul 2025
+3ka23,3KA23,Jum'at,Terapan Teori Graf,,UGTV,TEAM TEACHING,07 Jul 2025
+3ka23,3KA23,Sabtu,Disain&Manaj. Jaringan Komputer*,1/2/3,B224,YAN RISA ASPI SURURI,07 Jul 2025
+3ka23,3KA23,Sabtu,Pemodelan & Visualisasi Data,4/5,B224,JUNAEDI,07 Jul 2025
+3ka23,3KA23,Sabtu,Analisis&Peranc.Sistem Inf.*/**,7/8/9,B224,KUWAT SETIYANTO,07 Jul 2025
+3ka24,3KA24,Senin,Analisis&Peranc.Sistem Inf.*/**,12/13/14,D631,TRI AGUS RIYADI,07 Jul 2025
+3ka24,3KA24,Selasa,Pengantar Sain Data,11/12,D635,ARIEF FADHLURRAHMAN RASYID,07 Jul 2025
+3ka24,3KA24B,Rabu,Tatap Muka Penulisan Ilmiah,11/12,D637,DODY PERNADI,07 Jul 2025
+3ka24,3KA24A,Rabu,Tatap Muka Penulisan Ilmiah,11/12,D637,IWAN SETIADI,07 Jul 2025
+3ka24,3KA24C,Rabu,Tatap Muka Penulisan Ilmiah,11/12,D637,MUJI SANTOSO,07 Jul 2025
+3ka24,3KA24,Kamis,Disain&Manaj. Jaringan Komputer*,12/13/14,D633,SETIA WIRAWAN,07 Jul 2025
+3ka24,3KA24,Jum'at,Terapan Teori Graf,,UGTV,TEAM TEACHING,07 Jul 2025
+3ka24,3KA24,Sabtu,Grafik Komputer & Peng. Citra **,1/2,E221,SIWI PRIHATININGSIH,07 Jul 2025
+3ka24,3KA24,Sabtu,Praktikum Terapan Teori Graf,11/12,,TIM DOSEN,07 Jul 2025
+3ka24,3KA24,Sabtu,Pemodelan & Visualisasi Data,4/5,E318,ARY BIMA KURNIAWAN,07 Jul 2025
+3ka24,3KA24,Sabtu,Sistem Berbasis Pengetahuan **,6/7,E318,JALINAS/VIRA YOLANDA,07 Jul 2025
+3ka24,3KA24,Sabtu,Pengantar Akuntansi Keuangan 2,8/9,E318,WIDADA,07 Jul 2025
+3ka25,3KA25,Selasa,Praktikum Terapan Teori Graf,3/4,,TIM DOSEN,07 Jul 2025
+3ka25,3KA25A,Selasa,Tatap Muka Penulisan Ilmiah,9/10,J1116,KHAIRUNNISA RAIHANI,07 Jul 2025
+3ka25,3KA25B,Selasa,Tatap Muka Penulisan Ilmiah,9/10,J1116,KUWAT SETIYANTO,07 Jul 2025
+3ka25,3KA25C,Selasa,Tatap Muka Penulisan Ilmiah,9/10,J1116,WINARTI,07 Jul 2025
+3ka25,3KA25,Rabu,Grafik Komputer & Peng. Citra **,1/2,J1410,WINARTI,07 Jul 2025
+3ka25,3KA25,Rabu,Pengantar Akuntansi Keuangan 2,3/4,J1410,JESSICA BARUS,07 Jul 2025
+3ka25,3KA25,Rabu,Analisis&Peranc.Sistem Inf.*/**,5/6/7,J1410,IRWAN BASTIAN,07 Jul 2025
+3ka25,3KA25,Rabu,Pengantar Sain Data,9/10,J128,JALINAS/MILDA SAFRILA OKTIANA,07 Jul 2025
+3ka25,3KA25,Jum'at,Terapan Teori Graf,,UGTV,TEAM TEACHING,07 Jul 2025
+3ka25,3KA25,Sabtu,Pemodelan & Visualisasi Data,1/2,J1410,MUHAMMAD SHAFARI RAHMAT,07 Jul 2025
+3ka25,3KA25,Sabtu,Sistem Berbasis Pengetahuan **,3/4,J1410,BUDI UTAMI FAHNUN,07 Jul 2025
+3ka25,3KA25,Sabtu,Disain&Manaj. Jaringan Komputer*,6/7/8,J1410,DIMAS NUGEROHO,07 Jul 2025
+3ka26,3KA26,Senin,Praktikum Terapan Teori Graf,3/4,,TIM DOSEN,07 Jul 2025
+3ka26,3KA26,Selasa,Sistem Berbasis Pengetahuan **,1/2,J118,DINI TRIASANTI,07 Jul 2025
+3ka26,3KA26,Selasa,Pengantar Akuntansi Keuangan 2,3/4,J118,NIDA NUSAIBATUL ADAWIYAH,07 Jul 2025
+3ka26,3KA26,Selasa,Analisis&Peranc.Sistem Inf.*/**,6/7/8,J129,MARLIZA GANEFI GUMAY,07 Jul 2025
+3ka26,3KA26A,Rabu,Tatap Muka Penulisan Ilmiah,1/2,J148,ADAM HUDA NUGRAHA,07 Jul 2025
+3ka26,3KA26C,Rabu,Tatap Muka Penulisan Ilmiah,1/2,J148,FARAMITA DWITAMA,07 Jul 2025
+3ka26,3KA26B,Rabu,Tatap Muka Penulisan Ilmiah,1/2,J148,INDAH TRI HANDAYANI,07 Jul 2025
+3ka26,3KA26,Rabu,Pemodelan & Visualisasi Data,3/4,J1519,NUR ALFIYANI,07 Jul 2025
+3ka26,3KA26,Rabu,Grafik Komputer & Peng. Citra **,5/6,J1519,ATIT PERTIWI,07 Jul 2025
+3ka26,3KA26,Rabu,Pengantar Sain Data,7/8,J1519,JALINAS/MILDA SAFRILA OKTIANA,07 Jul 2025
+3ka26,3KA26,Kamis,Disain&Manaj. Jaringan Komputer*,3/4/5,J158,ISRAM RASAL,07 Jul 2025
+3ka26,3KA26,Jum'at,Terapan Teori Graf,,UGTV,TEAM TEACHING,07 Jul 2025
+3ka27,3KA27A,Senin,Tatap Muka Penulisan Ilmiah,6/7,J138,MITA LAILASARI,07 Jul 2025
+3ka27,3KA27C,Senin,Tatap Muka Penulisan Ilmiah,6/7,J138,RR ARTIANA KRESTIANTI,07 Jul 2025
+3ka27,3KA27B,Senin,Tatap Muka Penulisan Ilmiah,6/7,J138,WALIYA RAHMAWANTI,07 Jul 2025
+3ka27,3KA27,Selasa,Praktikum Terapan Teori Graf,3/4,,TIM DOSEN,07 Jul 2025
+3ka27,3KA27,Rabu,Pemodelan & Visualisasi Data,1/2,J1115A,LILIS KUSNITAWATI,07 Jul 2025
+3ka27,3KA27,Rabu,Pengantar Sain Data,3/4,J1115A,OCTAVIANI HUTAPEA,07 Jul 2025
+3ka27,3KA27,Rabu,Grafik Komputer & Peng. Citra **,5/6,J1115A,WINARTI,07 Jul 2025
+3ka27,3KA27,Rabu,Analisis&Peranc.Sistem Inf.*/**,8/9/10,J1410,IRWAN BASTIAN,07 Jul 2025
+3ka27,3KA27,Kamis,Sistem Berbasis Pengetahuan **,1/2,J61005,HANUM PUTRI PERMATASARI,07 Jul 2025
+3ka27,3KA27,Kamis,Disain&Manaj. Jaringan Komputer*,3/4/5,J61005,FITRIANINGSIH,07 Jul 2025
+3ka27,3KA27,Kamis,Pengantar Akuntansi Keuangan 2,7/8,J61003,RIZKI MUTI AGUSTIANI,07 Jul 2025
+3ka27,3KA27,Jum'at,Terapan Teori Graf,,UGTV,TEAM TEACHING,07 Jul 2025
+3ka28,3KA28,Selasa,Praktikum Terapan Teori Graf,1/2,,TIM DOSEN,07 Jul 2025
+3ka28,3KA28,Rabu,Pengantar Akuntansi Keuangan 2,1/2,J153,JESSICA BARUS,07 Jul 2025
+3ka28,3KA28,Rabu,Pemodelan & Visualisasi Data,3/4,J153,LILIS KUSNITAWATI,07 Jul 2025
+3ka28,3KA28,Rabu,Pengantar Sain Data,5/6,J153,OCTAVIANI HUTAPEA,07 Jul 2025
+3ka28,3KA28,Rabu,Grafik Komputer & Peng. Citra **,8/9,J153,WINARTI,07 Jul 2025
+3ka28,3KA28,Kamis,Sistem Berbasis Pengetahuan **,1/2,J61007,NURUL HIDAYATI NUSYIRWAN,07 Jul 2025
+3ka28,3KA28,Kamis,Analisis&Peranc.Sistem Inf.*/**,5/6/7,J61007,IRWAN BASTIAN,07 Jul 2025
+3ka28,3KA28,Jum'at,Terapan Teori Graf,,UGTV,TEAM TEACHING,07 Jul 2025
+3ka28,3KA28,Sabtu,Disain&Manaj. Jaringan Komputer*,3/4/5,J1115B,ANDRE PRATAMA,07 Jul 2025
+3ka28,3KA28B,Sabtu,Tatap Muka Penulisan Ilmiah,6/7,J128,DEVI INDRIANI,07 Jul 2025
+3ka28,3KA28C,Sabtu,Tatap Muka Penulisan Ilmiah,6/7,J128,DEWI ANDRYANI,07 Jul 2025
+3ka28,3KA28A,Sabtu,Tatap Muka Penulisan Ilmiah,6/7,J128,MAKMUN,07 Jul 2025
+3ka29,3KA29,Senin,Praktikum Terapan Teori Graf,1/2,,TIM DOSEN,07 Jul 2025
+3ka29,3KA29,Selasa,Grafik Komputer & Peng. Citra **,3/4,J123,WINARTI,07 Jul 2025
+3ka29,3KA29,Selasa,Pengantar Akuntansi Keuangan 2,5/6,J123,NIDA NUSAIBATUL ADAWIYAH,07 Jul 2025
+3ka29,3KA29C,Selasa,Tatap Muka Penulisan Ilmiah,7/8,J1116,ARIMBI KURNIASARI,07 Jul 2025
+3ka29,3KA29B,Selasa,Tatap Muka Penulisan Ilmiah,7/8,J1116,RADEN ANDHIKA PRIHESTIRA HARTADI,07 Jul 2025
+3ka29,3KA29A,Selasa,Tatap Muka Penulisan Ilmiah,7/8,J1116,WIWIED WIDIYANINGSIH,07 Jul 2025
+3ka29,3KA29,Kamis,Sistem Berbasis Pengetahuan **,6/7,J61005,HANUM PUTRI PERMATASARI,07 Jul 2025
+3ka29,3KA29,Kamis,Analisis&Peranc.Sistem Inf.*/**,8/9/10,J61005,IRWAN BASTIAN,07 Jul 2025
+3ka29,3KA29,Jum'at,Terapan Teori Graf,,UGTV,TEAM TEACHING,07 Jul 2025
+3ka29,3KA29,Sabtu,Disain&Manaj. Jaringan Komputer*,3/4/5,J61007,NYOMAN PARWA DINAWAN,07 Jul 2025
+3ka29,3KA29,Sabtu,Pemodelan & Visualisasi Data,6/7,J61007,NUR ALFIYANI,07 Jul 2025
+3ka29,3KA29,Sabtu,Pengantar Sain Data,9/10,J61007,FIKRI FADLILLAH,07 Jul 2025
+3ka30,3KA30,Senin,Praktikum Terapan Teori Graf,8/9,,TIM DOSEN,07 Jul 2025
+3ka30,3KA30,Selasa,Grafik Komputer & Peng. Citra **,1/2,J129,WINARTI,07 Jul 2025
+3ka30,3KA30,Selasa,Analisis&Peranc.Sistem Inf.*/**,3/4/5,J129,MARLIZA GANEFI GUMAY,07 Jul 2025
+3ka30,3KA30,Selasa,Pengantar Akuntansi Keuangan 2,7/8,J1216B,NIDA NUSAIBATUL ADAWIYAH,07 Jul 2025
+3ka30,3KA30C,Selasa,Tatap Muka Penulisan Ilmiah,9/10,J1116,ERTIE NUR HARTIWATI,07 Jul 2025
+3ka30,3KA30B,Selasa,Tatap Muka Penulisan Ilmiah,9/10,J1116,WAHYU SUPRIYATIN,07 Jul 2025
+3ka30,3KA30A,Selasa,Tatap Muka Penulisan Ilmiah,9/10,J1116,WIDIASTUTI,07 Jul 2025
+3ka30,3KA30,Kamis,Sistem Berbasis Pengetahuan **,3/4,J61006,HANUM PUTRI PERMATASARI,07 Jul 2025
+3ka30,3KA30,Kamis,Disain&Manaj. Jaringan Komputer*,6/7/8,J61006,FITRIANINGSIH,07 Jul 2025
+3ka30,3KA30,Jum'at,Terapan Teori Graf,,UGTV,TEAM TEACHING,07 Jul 2025
+3ka30,3KA30,Sabtu,Pemodelan & Visualisasi Data,4/5,J61005,NUR ALFIYANI,07 Jul 2025
+3ka30,3KA30,Sabtu,Pengantar Sain Data,6/7,J61005,FIKRI FADLILLAH,07 Jul 2025
+3ka31,3KA31,Senin,Analisis&Peranc.Sistem Inf.*/**,2/3/4,K265,TAUFIK HIDAYAT,07 Jul 2025
+3ka31,3KA31,Senin,Pengantar Akuntansi Keuangan 2,5/6,K2102,WIDADA,07 Jul 2025
+3ka31,3KA31A,Senin,Tatap Muka Penulisan Ilmiah,7/8,K163,LELI SAFITRI,07 Jul 2025
+3ka31,3KA31B,Rabu,Tatap Muka Penulisan Ilmiah,1/2,K156,DWI SETYASIH,07 Jul 2025
+3ka31,3KA31,Rabu,Sistem Berbasis Pengetahuan **,2/3,K284,TRISTYANTI YUSNITASARI,07 Jul 2025
+3ka31,3KA31,Kamis,Pemodelan & Visualisasi Data,3/4,K274,SINGGIH JATMIKO,07 Jul 2025
+3ka31,3KA31,Kamis,Grafik Komputer & Peng. Citra **,5/6,K264,MUHAMMAD SUBALI,07 Jul 2025
+3ka31,3KA31,Jum'at,Terapan Teori Graf,,UGTV,TEAM TEACHING,07 Jul 2025
+3ka31,3KA31,Jum'at,Praktikum Terapan Teori Graf,6/7,,TIM DOSEN,07 Jul 2025
+3ka31,3KA31C,Jum'at,Tatap Muka Penulisan Ilmiah,8/9,K255,MITA LAILASARI,07 Jul 2025
+3ka31,3KA31,Sabtu,Pengantar Sain Data,2/3,K247,MUHAMAD TAUFAN,07 Jul 2025
+3ka31,3KA31,Sabtu,Disain&Manaj. Jaringan Komputer*,4/5/6,K163,FITRIANINGSIH,07 Jul 2025
+3ka32,3KA32A,Senin,Tatap Muka Penulisan Ilmiah,1/2,K266,WITARI ARYUNANI,07 Jul 2025
+3ka32,3KA32,Senin,Pengantar Akuntansi Keuangan 2,2/3,K2102,WIDADA,07 Jul 2025
+3ka32,3KA32,Senin,Analisis&Peranc.Sistem Inf.*/**,5/6/7,K265,TAUFIK HIDAYAT,07 Jul 2025
+3ka32,3KA32,Selasa,Grafik Komputer & Peng. Citra **,3/4,K252,YOGI PERMADI,07 Jul 2025
+3ka32,3KA32,Rabu,Disain&Manaj. Jaringan Komputer*,1/2/3,K165,HUSTINAWATY,07 Jul 2025
+3ka32,3KA32,Rabu,Pengantar Sain Data,4/5,K284,TRISTYANTI YUSNITASARI,07 Jul 2025
+3ka32,3KA32,Kamis,Sistem Berbasis Pengetahuan **,5/6,K242,LILIS KUSNITAWATI,07 Jul 2025
+3ka32,3KA32,Jum'at,Terapan Teori Graf,,UGTV,TEAM TEACHING,07 Jul 2025
+3ka32,3KA32,Jum'at,Praktikum Terapan Teori Graf,6/7,,TIM DOSEN,07 Jul 2025
+3ka32,3KA32C,Jum'at,Tatap Muka Penulisan Ilmiah,8/9,K246,MURTIWIYATI,07 Jul 2025
+3ka32,3KA32,Sabtu,Pemodelan & Visualisasi Data,3/4,K261,OKTAVIANI,07 Jul 2025
+3ka32,3KA32B,Sabtu,Tatap Muka Penulisan Ilmiah,7/8,K154,DEASY INDAYANTI,07 Jul 2025
+3ka33,3KA33,Selasa,Pengantar Sain Data,6/7,K153,ARY BIMA KURNIAWAN,07 Jul 2025
+3ka33,3KA33,Rabu,Sistem Berbasis Pengetahuan **,1/2,K272,RIZA ADRIANTI SUPONO,07 Jul 2025
+3ka33,3KA33,Rabu,Disain&Manaj. Jaringan Komputer*,3/4/5,K268,SETIA WIRAWAN,07 Jul 2025
+3ka33,3KA33A,Rabu,Tatap Muka Penulisan Ilmiah,6/7,K252,LIRA ARUM KUSUMANINGTHYAS HUTA,07 Jul 2025
+3ka33,3KA33,Kamis,Analisis&Peranc.Sistem Inf.*/**,2/3/4,K161,ANA KURNIAWATI,07 Jul 2025
+3ka33,3KA33,Kamis,Pemodelan & Visualisasi Data,5/6,K272,RISMA RAHMALIA FITRIANI,07 Jul 2025
+3ka33,3KA33C,Kamis,Tatap Muka Penulisan Ilmiah,8/9,K272,RISMA RAHMALIA FITRIANI,07 Jul 2025
+3ka33,3KA33,Jum'at,Terapan Teori Graf,,UGTV,TEAM TEACHING,07 Jul 2025
+3ka33,3KA33B,Jum'at,Tatap Muka Penulisan Ilmiah,6/7,K281,WIDIASTUTI,07 Jul 2025
+3ka33,3KA33,Jum'at,Praktikum Terapan Teori Graf,8/9,,TIM DOSEN,07 Jul 2025
+3ka33,3KA33,Sabtu,Grafik Komputer & Peng. Citra **,1/2,K254,RATIH NURDIYANI SARI,07 Jul 2025
+3ka33,3KA33,Sabtu,Pengantar Akuntansi Keuangan 2,3/4,K244,LAINA ZAHRA,07 Jul 2025
+3ka34,3KA34C,Senin,Tatap Muka Penulisan Ilmiah,1/2,K131,ANNA FITRIA,07 Jul 2025
+3ka34,3KA34,Senin,Grafik Komputer & Peng. Citra **,2/3,K131,ANNA FITRIA,07 Jul 2025
+3ka34,3KA34,Selasa,Pemodelan & Visualisasi Data,3/4,K153,ARY BIMA KURNIAWAN,07 Jul 2025
+3ka34,3KA34,Rabu,Pengantar Sain Data,1/2,K166,MIFTAH ANDRIANSYAH,07 Jul 2025
+3ka34,3KA34,Rabu,Sistem Berbasis Pengetahuan **,3/4,K272,RIZA ADRIANTI SUPONO,07 Jul 2025
+3ka34,3KA34B,Rabu,Tatap Muka Penulisan Ilmiah,5/6,K292,PUJI SULARSIH,07 Jul 2025
+3ka34,3KA34,Kamis,Disain&Manaj. Jaringan Komputer*,1/2/3,K242,LILIS KUSNITAWATI,07 Jul 2025
+3ka34,3KA34,Kamis,Analisis&Peranc.Sistem Inf.*/**,5/6/7,K161,ANA KURNIAWATI,07 Jul 2025
+3ka34,3KA34,Jum'at,Terapan Teori Graf,,UGTV,TEAM TEACHING,07 Jul 2025
+3ka34,3KA34A,Jum'at,Tatap Muka Penulisan Ilmiah,6/7,K133,META MEYSAWATI,07 Jul 2025
+3ka34,3KA34,Jum'at,Praktikum Terapan Teori Graf,8/9,,TIM DOSEN,07 Jul 2025
+3ka34,3KA34,Sabtu,Pengantar Akuntansi Keuangan 2,1/2,K244,LAINA ZAHRA,07 Jul 2025
+3ka35,3KA35A,Senin,Tatap Muka Penulisan Ilmiah,8/9,L222,YENI SETIANI,07 Jul 2025
+3ka35,3KA35,Selasa,Pemodelan & Visualisasi Data,4/5,L223,REMI SENJAYA,07 Jul 2025
+3ka35,3KA35,Rabu,Pengantar Sain Data,2/3,L236,DINY WAHYUNI,07 Jul 2025
+3ka35,3KA35,Rabu,Disain&Manaj. Jaringan Komputer*,4/5/6,L242,EMY HARYATMI,07 Jul 2025
+3ka35,3KA35,Kamis,Grafik Komputer & Peng. Citra **,1/2,L223,ICHSANI MURSIDAH,07 Jul 2025
+3ka35,3KA35,Kamis,Analisis&Peranc.Sistem Inf.*/**,3/4/5,L223,WIDYA SILFIANTI,07 Jul 2025
+3ka35,3KA35B,Kamis,Tatap Muka Penulisan Ilmiah,6/7,L225,RINI ARIANTY,07 Jul 2025
+3ka35,3KA35,Jum'at,Terapan Teori Graf,,UGTV,TEAM TEACHING,07 Jul 2025
+3ka35,3KA35,Jum'at,Praktikum Terapan Teori Graf,8/9,,TIM DOSEN,07 Jul 2025
+3ka35,3KA35,Sabtu,Pengantar Akuntansi Keuangan 2,2/3,L235,ANI HIDAYATI,07 Jul 2025
+3ka35,3KA35,Sabtu,Sistem Berbasis Pengetahuan **,4/5,L243,NANI MINTARSIH,07 Jul 2025
+3ka36,3KA36,Senin,Penulisan Ilmiah/Kerja Praktek,2/3,N1137,,07 Jul 2025
+3ka36,3KA36,Senin,Sistem Berbasis Pengetahuan,4/5,N1137,OKTAVIANI,07 Jul 2025
+3ka36,3KA36,Senin,Analisis & Perancangan Sistem Informasi*/**,7/8,N1137,RIFKI AMALIA,07 Jul 2025
+3ka36,3KA36,Kamis,Grafik Komputer dan Pengolahan Citra,4/5,N1137,SETIA WIRAWAN,07 Jul 2025
+3ka36,3KA36,Kamis,Pemodelan & Visualisasi Data**,7/8,N1137,RIZKI ARIYANI,07 Jul 2025
+3ka36,3KA36,Kamis,Disain & Manajemen Jaringan Komputer */**,9/10,N1137,ANA KURNIAWATI,07 Jul 2025
+3ka36,3KA36,Jumat,Pengantar Sain Data,2/3,N1137,LULU CHAERANI MUNGGARAN,07 Jul 2025
+3ka36,3KA36,Jumat,Pengantar Akuntansi Keuangan 2,7'8,N1137,ANIS AULIA MUSLIM,07 Jul 2025
+3ka36,3KA36,Jum'at,Praktikum Terapan Teori Graf,8/9,,TIM DOSEN,07 Jul 2025
+3ka36,3KA36,Sabtu,Terapan Teori Graf,2/3,N1137,AINI SURI TALITA,07 Jul 2025
+4ka01,4KA01,Senin,Peng. Bisnis Teknologi Informa,1/2,F8442,RIFIANA ARIEF,07 Jul 2025
+4ka01,4KA01,Senin,Sistem Informasi Geografis,3/4,F8442,SILVIA HARLENA,07 Jul 2025
+4ka01,4KA01,Senin,Etika & Profesionalisme TSI,6/7,F8442,KEMAL ADE SEKARWATI,07 Jul 2025
+4ka01,4KA01,Senin,Sistem Informasi Perbankan,8/9,F8442,KARTIKA SARI,07 Jul 2025
+4ka01,4KA01,Rabu,Bahasa Inggris Bisnis 2,3/4,G138,SEPTIAN DWI PUTRI,07 Jul 2025
+4ka01,4KA01,Rabu,Sistem Informasi SDM,6/7,G2410,YULIA EKA PRAPTININGSIH,07 Jul 2025
+4ka01,4KA01,Rabu,Audit Teknologi Infomasi,8/9,G2410,NURASIAH,07 Jul 2025
+4ka02,4KA02,Senin,Sistem Informasi Geografis,1/2,F8483,SILVIA HARLENA,07 Jul 2025
+4ka02,4KA02,Senin,Audit Teknologi Infomasi,3/4,F8483,EVANS WINANDA WIRGA,07 Jul 2025
+4ka02,4KA02,Senin,Sistem Informasi Perbankan,6/7,F8482,HASMA RASJID,07 Jul 2025
+4ka02,4KA02,Senin,Etika & Profesionalisme TSI,8/9,F8482,KEMAL ADE SEKARWATI,07 Jul 2025
+4ka02,4KA02,Rabu,Sistem Informasi SDM,1/2,G127,EGA HEGARINI,07 Jul 2025
+4ka02,4KA02,Rabu,Bahasa Inggris Bisnis 2,3/4,G127,ANINDIA AYU RAHMAWATI,07 Jul 2025
+4ka02,4KA02,Rabu,Peng. Bisnis Teknologi Informa,5/6,G127,MIFTAHUL JANNAH,07 Jul 2025
+4ka03,4KA03,Senin,Sistem Informasi Geografis,1/2,E337,NAELI UMNIATI,07 Jul 2025
+4ka03,4KA03,Senin,Audit Teknologi Infomasi,4/5,E317,ERNIANTI HASIBUAN,07 Jul 2025
+4ka03,4KA03,Senin,Etika & Profesionalisme TSI,6/7,E337,WIDYA KHAFA NOFA,07 Jul 2025
+4ka03,4KA03,Rabu,Peng. Bisnis Teknologi Informa,1/2,G218,MIFTAHUL JANNAH,07 Jul 2025
+4ka03,4KA03,Rabu,Sistem Informasi SDM,3/4,G218,EGA HEGARINI,07 Jul 2025
+4ka03,4KA03,Rabu,Bahasa Inggris Bisnis 2,6/7,G221,ADANI NUR SABRINA,07 Jul 2025
+4ka03,4KA03,Rabu,Sistem Informasi Perbankan,9/10,G115,HASMA RASJID,07 Jul 2025
+4ka04,4KA04,Senin,Sistem Informasi Perbankan,1/2,F8462,FARIDA,07 Jul 2025
+4ka04,4KA04,Senin,Etika & Profesionalisme TSI,3/4,F8462,KEMAL ADE SEKARWATI,07 Jul 2025
+4ka04,4KA04,Senin,Audit Teknologi Infomasi,6/7,F8462,EVANS WINANDA WIRGA,07 Jul 2025
+4ka04,4KA04,Senin,Sistem Informasi Geografis,9/10,F8462,I KOMANG SUGIARTHA,07 Jul 2025
+4ka04,4KA04,Selasa,Sistem Informasi SDM,1/2,E216,EGA HEGARINI,07 Jul 2025
+4ka04,4KA04,Selasa,Bahasa Inggris Bisnis 2,3/4,E139,DEFI JULIANTI,07 Jul 2025
+4ka04,4KA04,Selasa,Peng. Bisnis Teknologi Informa,6/7,E139,RIFIANA ARIEF,07 Jul 2025
+4ka05,4KA05,Senin,Etika & Profesionalisme TSI,1/2,F8451,NURUL ADHAYANTI,07 Jul 2025
+4ka05,4KA05,Senin,Sistem Informasi Geografis,3/4,F8451,PARNO,07 Jul 2025
+4ka05,4KA05,Senin,Sistem Informasi Perbankan,6/7,F8451,KARTIKA SARI,07 Jul 2025
+4ka05,4KA05,Selasa,Bahasa Inggris Bisnis 2,1/2,E322,DIAN NURUDIN,07 Jul 2025
+4ka05,4KA05,Selasa,Sistem Informasi SDM,3/4,E322,DINY WAHYUNI,07 Jul 2025
+4ka05,4KA05,Selasa,Audit Teknologi Infomasi,6/7,E321,MAULANA MUJAHIDIN,07 Jul 2025
+4ka05,4KA05,Selasa,Peng. Bisnis Teknologi Informa,8/9,E321,SUCI BR KEMBAREN,07 Jul 2025
+4ka06,4KA06,Senin,Etika & Profesionalisme TSI,3/4,F8454,NURUL ADHAYANTI,07 Jul 2025
+4ka06,4KA06,Senin,Sistem Informasi Perbankan,5/6,F8454,FARIDA,07 Jul 2025
+4ka06,4KA06,Senin,Sistem Informasi Geografis,7/8,F8454,I KOMANG SUGIARTHA,07 Jul 2025
+4ka06,4KA06,Selasa,Sistem Informasi SDM,1/2,E516,FETTIANA GIANADEVI,07 Jul 2025
+4ka06,4KA06,Selasa,Bahasa Inggris Bisnis 2,3/4,E516,DIAN NURUDIN,07 Jul 2025
+4ka06,4KA06,Selasa,Peng. Bisnis Teknologi Informa,7/8,E215,DESY WULANDARI ASFARY PUTRI,07 Jul 2025
+4ka06,4KA06,Selasa,Audit Teknologi Infomasi,9/10,E215,MAULANA MUJAHIDIN,07 Jul 2025
+4ka07,4KA07,Senin,Sistem Informasi Geografis,1/2,F8466,PARNO,07 Jul 2025
+4ka07,4KA07,Senin,Peng. Bisnis Teknologi Informa,3/4,F8466,RIFIANA ARIEF,07 Jul 2025
+4ka07,4KA07,Senin,Etika & Profesionalisme TSI,6/7,F8466,NURUL ADHAYANTI,07 Jul 2025
+4ka07,4KA07,Senin,Sistem Informasi Perbankan,8/9,F8466,HASMA RASJID,07 Jul 2025
+4ka07,4KA07,Rabu,Bahasa Inggris Bisnis 2,1/2,G421,ARSIWELA,07 Jul 2025
+4ka07,4KA07,Rabu,Sistem Informasi SDM,3/4,G421,YULIA EKA PRAPTININGSIH,07 Jul 2025
+4ka07,4KA07,Rabu,Audit Teknologi Infomasi,6/7,G444,NURASIAH,07 Jul 2025
+4ka08,4KA08,Rabu,Sistem Informasi SDM,1/2,G434,YULIA EKA PRAPTININGSIH,07 Jul 2025
+4ka08,4KA08,Rabu,Peng. Bisnis Teknologi Informa,3/4,G434,PUJI ZULAIKASARI,07 Jul 2025
+4ka08,4KA08,Rabu,Bahasa Inggris Bisnis 2,5/6,G434,ARSIWELA,07 Jul 2025
+4ka08,4KA08,Jum'at,Sistem Informasi Geografis,1/2,E223,KEMAL ADE SEKARWATI,07 Jul 2025
+4ka08,4KA08,Jum'at,Sistem Informasi Perbankan,3/4,E223,FARIDA,07 Jul 2025
+4ka08,4KA08,Jum'at,Etika & Profesionalisme TSI,7/8,E234,ANISA OKTAVIANI,07 Jul 2025
+4ka08,4KA08,Jum'at,Audit Teknologi Infomasi,9/10,E326,ERNIANTI HASIBUAN,07 Jul 2025
+4ka09,4KA09,Selasa,Audit Teknologi Infomasi,1/2,E215,NURASIAH,07 Jul 2025
+4ka09,4KA09,Selasa,Sistem Informasi SDM,3/4,E215,EGA HEGARINI,07 Jul 2025
+4ka09,4KA09,Selasa,Bahasa Inggris Bisnis 2,7/8,E122,DYAH AMBAR WURYANDARI,07 Jul 2025
+4ka09,4KA09,Selasa,Peng. Bisnis Teknologi Informa,9/10,E122,RIFIANA ARIEF,07 Jul 2025
+4ka09,4KA09,Jum'at,Sistem Informasi Geografis,3/4,E128,KEMAL ADE SEKARWATI,07 Jul 2025
+4ka09,4KA09,Jum'at,Sistem Informasi Perbankan,7/8,E128,FARIDA,07 Jul 2025
+4ka09,4KA09,Jum'at,Etika & Profesionalisme TSI,9/10,E128,ANISA OKTAVIANI,07 Jul 2025
+4ka10,4KA10,Selasa,Etika & Profesionalisme TSI,1/2,E435,WIDYA KHAFA NOFA,07 Jul 2025
+4ka10,4KA10,Selasa,Bahasa Inggris Bisnis 2,3/4,E435,SUYUDI,07 Jul 2025
+4ka10,4KA10,Selasa,Sistem Informasi SDM,7/8,E513,FETTIANA GIANADEVI,07 Jul 2025
+4ka10,4KA10,Selasa,Peng. Bisnis Teknologi Informa,9/10,E513,DESY WULANDARI ASFARY PUTRI,07 Jul 2025
+4ka10,4KA10,Jum'at,Sistem Informasi Perbankan,1/2,E124,FARIDA,07 Jul 2025
+4ka10,4KA10,Jum'at,Audit Teknologi Infomasi,3/4,E124,MAULANA MUJAHIDIN,07 Jul 2025
+4ka10,4KA10,Jum'at,Sistem Informasi Geografis,7/8,E124,KEMAL ADE SEKARWATI,07 Jul 2025
+4ka11,4KA11,Rabu,Peng. Bisnis Teknologi Informa,3/4,G441,NOOR VIKA HIZVIANI,07 Jul 2025
+4ka11,4KA11,Rabu,Sistem Informasi SDM,6/7,G122,EGA HEGARINI,07 Jul 2025
+4ka11,4KA11,Rabu,Bahasa Inggris Bisnis 2,9/10,G122,SUARDI,07 Jul 2025
+4ka11,4KA11,Jum'at,Sistem Informasi Perbankan,1/2,E511,KARTIKA SARI,07 Jul 2025
+4ka11,4KA11,Jum'at,Etika & Profesionalisme TSI,3/4,E511,WIDYA KHAFA NOFA,07 Jul 2025
+4ka11,4KA11,Jum'at,Audit Teknologi Infomasi,7/8,E511,MAULANA MUJAHIDIN,07 Jul 2025
+4ka11,4KA11,Jum'at,Sistem Informasi Geografis,9/10,E511,SILVIA HARLENA,07 Jul 2025
+4ka12,4KA12,Selasa,Sistem Informasi SDM,1/2,E328,DINY WAHYUNI,07 Jul 2025
+4ka12,4KA12,Selasa,Peng. Bisnis Teknologi Informa,3/4,E328,DESY WULANDARI ASFARY PUTRI,07 Jul 2025
+4ka12,4KA12,Selasa,Bahasa Inggris Bisnis 2,6/7,E449,HANA FAUZIAH,07 Jul 2025
+4ka12,4KA12,Jum'at,Sistem Informasi Geografis,1/2,E211,SILVIA HARLENA,07 Jul 2025
+4ka12,4KA12,Jum'at,Sistem Informasi Perbankan,3/4,E211,HASMA RASJID,07 Jul 2025
+4ka12,4KA12,Jum'at,Etika & Profesionalisme TSI,7/8,E512,RIZA ADRIANTI SUPONO,07 Jul 2025
+4ka12,4KA12,Jum'at,Audit Teknologi Infomasi,9/10,E512,MAULANA MUJAHIDIN,07 Jul 2025
+4ka13,4KA13,Selasa,Peng. Bisnis Teknologi Informa,5/6,E323,DEWI ANGGRAINI PUSPA HAPSARI,07 Jul 2025
+4ka13,4KA13,Selasa,Sistem Informasi SDM,7/8,E323,DINY WAHYUNI,07 Jul 2025
+4ka13,4KA13,Selasa,Sistem Informasi Geografis,9/10,E323,PRIHANDOKO,07 Jul 2025
+4ka13,4KA13,Jum'at,Audit Teknologi Infomasi,1/2,E513,MAULANA MUJAHIDIN,07 Jul 2025
+4ka13,4KA13,Jum'at,Etika & Profesionalisme TSI,3/4,E513,RIZA ADRIANTI SUPONO,07 Jul 2025
+4ka13,4KA13,Jum'at,Sistem Informasi Perbankan,7/8,E216,HASMA RASJID,07 Jul 2025
+4ka13,4KA13,Jum'at,Bahasa Inggris Bisnis 2,9/10,E216,ZAINAL RIADI,07 Jul 2025
+4ka14,4KA14,Rabu,Bahasa Inggris Bisnis 2,3/4,G124,AULIA HARIS FIRSTIYANTI,07 Jul 2025
+4ka14,4KA14,Rabu,Sistem Informasi SDM,5/6,G124,FETTIANA GIANADEVI,07 Jul 2025
+4ka14,4KA14,Rabu,Peng. Bisnis Teknologi Informa,7/8,G124,PUJI ZULAIKASARI,07 Jul 2025
+4ka14,4KA14,Jum'at,Sistem Informasi Geografis,1/2,E435,NURUL ADHAYANTI,07 Jul 2025
+4ka14,4KA14,Jum'at,Audit Teknologi Infomasi,3/4,E228,ERNIANTI HASIBUAN,07 Jul 2025
+4ka14,4KA14,Jum'at,Sistem Informasi Perbankan,7/8,E435,KARTIKA SARI,07 Jul 2025
+4ka14,4KA14,Jum'at,Etika & Profesionalisme TSI,9/10,E435,RIZA ADRIANTI SUPONO,07 Jul 2025
+4ka15,4KA15,Rabu,Bahasa Inggris Bisnis 2,1/2,G216,ANINDIA AYU RAHMAWATI,07 Jul 2025
+4ka15,4KA15,Rabu,Sistem Informasi SDM,3/4,G216,FETTIANA GIANADEVI,07 Jul 2025
+4ka15,4KA15,Rabu,Sistem Informasi Perbankan,7/8,G227,HASMA RASJID,07 Jul 2025
+4ka15,4KA15,Rabu,Peng. Bisnis Teknologi Informa,9/10,G227,PUJI ZULAIKASARI,07 Jul 2025
+4ka15,4KA15,Jum'at,Etika & Profesionalisme TSI,1/2,E347,WIDYA KHAFA NOFA,07 Jul 2025
+4ka15,4KA15,Jum'at,Sistem Informasi Geografis,3/4,E347,SILVIA HARLENA,07 Jul 2025
+4ka15,4KA15,Jum'at,Audit Teknologi Infomasi,7/8,E427,ERNIANTI HASIBUAN,07 Jul 2025
+4ka16,4KA16,Senin,Audit Teknologi Infomasi,1/2,D635,ERNIANTI HASIBUAN,07 Jul 2025
+4ka16,4KA16,Senin,Etika & Profesionalisme TSI,3/4,D635,WIDYA KHAFA NOFA,07 Jul 2025
+4ka16,4KA16,Senin,Sistem Informasi Perbankan,5/6,D635,HENNY MEDYAWATI,07 Jul 2025
+4ka16,4KA16,Selasa,Bahasa Inggris Bisnis 2,1/2,E513,SUYUDI,07 Jul 2025
+4ka16,4KA16,Selasa,Peng. Bisnis Teknologi Informa,3/4,E513,DEWI ANGGRAINI PUSPA HAPSARI,07 Jul 2025
+4ka16,4KA16,Selasa,Sistem Informasi SDM,5/6,E513,FETTIANA GIANADEVI,07 Jul 2025
+4ka16,4KA16,Selasa,Sistem Informasi Geografis,8/9,E516,WIDIASTUTI,07 Jul 2025
+4ka17,4KA17,Selasa,Sistem Informasi SDM,1/2,E311,YULI MAHARETTA ARIANTI,07 Jul 2025
+4ka17,4KA17,Selasa,Peng. Bisnis Teknologi Informa,3/4,E311,SUCI BR KEMBAREN,07 Jul 2025
+4ka17,4KA17,Selasa,Sistem Informasi Geografis,6/7,E432,PARNO,07 Jul 2025
+4ka17,4KA17,Selasa,Audit Teknologi Infomasi,9/10,E432,ARIEF FADHLURRAHMAN RASYID,07 Jul 2025
+4ka17,4KA17,Jum'at,Sistem Informasi Perbankan,1/2,E121,DELTA AGUS WARDIANTO,07 Jul 2025
+4ka17,4KA17,Jum'at,Bahasa Inggris Bisnis 2,3/4,E121,DEVI HELLYSTIA,07 Jul 2025
+4ka17,4KA17,Jum'at,Etika & Profesionalisme TSI,7/8,E521,EGY WISNU MOYO,07 Jul 2025
+4ka18,4KA18,Selasa,Sistem Informasi Geografis,1/2,E325,VERONIKA WIDI PRABAWASARI,07 Jul 2025
+4ka18,4KA18,Selasa,Sistem Informasi SDM,3/4,E325,YULI MAHARETTA ARIANTI,07 Jul 2025
+4ka18,4KA18,Selasa,Peng. Bisnis Teknologi Informa,5/6,E325,SUCI BR KEMBAREN,07 Jul 2025
+4ka18,4KA18,Jum'at,Audit Teknologi Infomasi,1/2,E317,ERNIANTI HASIBUAN,07 Jul 2025
+4ka18,4KA18,Jum'at,Sistem Informasi Perbankan,3/4,E434,DELTA AGUS WARDIANTO,07 Jul 2025
+4ka18,4KA18,Jum'at,Bahasa Inggris Bisnis 2,7/8,E434,ZAINAL RIADI,07 Jul 2025
+4ka18,4KA18,Jum'at,Etika & Profesionalisme TSI,9/10,E434,EGY WISNU MOYO,07 Jul 2025
+4ka19,4KA19,Senin,Audit Teknologi Infomasi,1/2,F8465,EVANS WINANDA WIRGA,07 Jul 2025
+4ka19,4KA19,Senin,Sistem Informasi Perbankan,3/4,F8465,FARIDA,07 Jul 2025
+4ka19,4KA19,Senin,Sistem Informasi Geografis,5/6,F8465,PARNO,07 Jul 2025
+4ka19,4KA19,Senin,Etika & Profesionalisme TSI,8/9,F8465,NURUL ADHAYANTI,07 Jul 2025
+4ka19,4KA19,Rabu,Peng. Bisnis Teknologi Informa,3/4,G315,MIFTAHUL JANNAH,07 Jul 2025
+4ka19,4KA19,Rabu,Bahasa Inggris Bisnis 2,5/6,G315,AULIA HARIS FIRSTIYANTI,07 Jul 2025
+4ka19,4KA19,Rabu,Sistem Informasi SDM,8/9,G313,EGA HEGARINI,07 Jul 2025
+4ka20,4KA20,Senin,Sistem Informasi SDM,3/4,C007,AGRY ALFIAH,07 Jul 2025
+4ka20,4KA20,Senin,Peng. Bisnis Teknologi Informa,6/7,C007,ALI AKBAR,07 Jul 2025
+4ka20,4KA20,Senin,Bahasa Inggris Bisnis 2,8/9,C007,NURI ADLINA,07 Jul 2025
+4ka20,4KA20,Rabu,Sistem Informasi Geografis,1/2,B221,LULU CHAERANI MUNGGARAN,07 Jul 2025
+4ka20,4KA20,Rabu,Etika & Profesionalisme TSI,3/4,B221,SYIFA NURANI RAHMAYANTI,07 Jul 2025
+4ka20,4KA20,Rabu,Sistem Informasi Perbankan,6/7,B221,ITA RUSMALA DEWI,07 Jul 2025
+4ka20,4KA20,Rabu,Audit Teknologi Infomasi,8/9,B221,MUFNI ALIDA,07 Jul 2025
+4ka21,4KA21,Senin,Sistem Informasi SDM,1/2,C008,AGRY ALFIAH,07 Jul 2025
+4ka21,4KA21,Senin,Peng. Bisnis Teknologi Informa,3/4,C008,ALI AKBAR,07 Jul 2025
+4ka21,4KA21,Senin,Bahasa Inggris Bisnis 2,5/6,C008,NURI ADLINA,07 Jul 2025
+4ka21,4KA21,Rabu,Etika & Profesionalisme TSI,1/2,B223,SYIFA NURANI RAHMAYANTI,07 Jul 2025
+4ka21,4KA21,Rabu,Sistem Informasi Geografis,3/4,B223,LULU CHAERANI MUNGGARAN,07 Jul 2025
+4ka21,4KA21,Rabu,Audit Teknologi Infomasi,6/7,B223,MUFNI ALIDA,07 Jul 2025
+4ka21,4KA21,Rabu,Sistem Informasi Perbankan,8/9,B223,ITA RUSMALA DEWI,07 Jul 2025
+4ka22,4KA22,Selasa,Peng. Bisnis Teknologi Informa,12/13/14,D637,ERVAN CATUR ANGKOSO,07 Jul 2025
+4ka22,4KA22,Jum'at,Sistem Informasi Geografis,11/12,D636,PRIHANDOKO,07 Jul 2025
+4ka22,4KA22,Jum'at,Sistem Informasi Perbankan,13/14,D636,TRIONO SETIAJI,07 Jul 2025
+4ka22,4KA22,Sabtu,Etika & Profesionalisme TSI,1/2,G137,LILIS KUSNITAWATI,07 Jul 2025
+4ka22,4KA22,Sabtu,Audit Teknologi Infomasi,4/5,G137,EVANS WINANDA WIRGA,07 Jul 2025
+4ka22,4KA22,Sabtu,Sistem Informasi SDM,7/8,G137,YULI MAHARETTA ARIANTI,07 Jul 2025
+4ka22,4KA22,Sabtu,Bahasa Inggris Bisnis 2,9/10,G137,ERNA PRANATA PUTRI,07 Jul 2025
+4ka23,4KA23,Senin,Sistem Informasi SDM,1/2,J1115A,SINDY NOVA,07 Jul 2025
+4ka23,4KA23,Senin,Audit Teknologi Infomasi,3/4,J1115A,ISRAM RASAL,07 Jul 2025
+4ka23,4KA23,Senin,Sistem Informasi Geografis,6/7,J1115A,WIDIASTUTI,07 Jul 2025
+4ka23,4KA23,Senin,Sistem Informasi Perbankan,8/9,J1115A,WAHYU SUPRIYATIN,07 Jul 2025
+4ka23,4KA23,Sabtu,Etika & Profesionalisme TSI,1/2,J60901,AMARAN SHIDIQ,07 Jul 2025
+4ka23,4KA23,Sabtu,Peng. Bisnis Teknologi Informa,5/6,J60901,NOVIYANTO,07 Jul 2025
+4ka23,4KA23,Sabtu,Bahasa Inggris Bisnis 2,7/8,J60901,STELLA AMANDA,07 Jul 2025
+4ka24,4KA24,Senin,Sistem Informasi Geografis,1/2,J157,MUHAMMAD ACHSAN ISA AL ANSHORI,07 Jul 2025
+4ka24,4KA24,Senin,Sistem Informasi Perbankan,3/4,J157,WAHYU SUPRIYATIN,07 Jul 2025
+4ka24,4KA24,Senin,Audit Teknologi Infomasi,7/8,J157,ISRAM RASAL,07 Jul 2025
+4ka24,4KA24,Sabtu,Peng. Bisnis Teknologi Informa,1/2,J60902,NOVIYANTO,07 Jul 2025
+4ka24,4KA24,Sabtu,Etika & Profesionalisme TSI,3/4,J60902,AMARAN SHIDIQ,07 Jul 2025
+4ka24,4KA24,Sabtu,Bahasa Inggris Bisnis 2,5/6,J60902,RADEN RORO SHINTA FELISIA,07 Jul 2025
+4ka24,4KA24,Sabtu,Sistem Informasi SDM,8/9,J60902,DIA RAGASARI,07 Jul 2025
+4ka25,4KA25,Senin,Etika & Profesionalisme TSI,3/4,J144,ANGGRAENI RIDWAN,07 Jul 2025
+4ka25,4KA25,Senin,Sistem Informasi Geografis,5/6,J144,MUHAMMAD ACHSAN ISA AL ANSHORI,07 Jul 2025
+4ka25,4KA25,Selasa,Sistem Informasi SDM,1/2,J1511,SINDY NOVA,07 Jul 2025
+4ka25,4KA25,Selasa,Peng. Bisnis Teknologi Informa,3/4,J1511,KHAIRUNNISA RAIHANI,07 Jul 2025
+4ka25,4KA25,Selasa,Bahasa Inggris Bisnis 2,6/7,J159,NOVI DWI GITAWATI,07 Jul 2025
+4ka25,4KA25,Sabtu,Audit Teknologi Infomasi,3/4,J60906,KURNIAWAN B. PRIANTO,07 Jul 2025
+4ka25,4KA25,Sabtu,Sistem Informasi Perbankan,6/7,J60906,DWI KARTINAH,07 Jul 2025
+4ka26,4KA26,Selasa,Sistem Informasi SDM,6/7,J1115A,SINDY NOVA,07 Jul 2025
+4ka26,4KA26,Selasa,Bahasa Inggris Bisnis 2,8/9,J1115A,NOVI DWI GITAWATI,07 Jul 2025
+4ka26,4KA26,Rabu,Etika & Profesionalisme TSI,6/7,J1316A,LILIS KUSNITAWATI,07 Jul 2025
+4ka26,4KA26,Rabu,Sistem Informasi Geografis,9/10,J1316A,INDAH TRI HANDAYANI,07 Jul 2025
+4ka26,4KA26,Sabtu,Peng. Bisnis Teknologi Informa,3/4,J60903,NOVIYANTO,07 Jul 2025
+4ka26,4KA26,Sabtu,Audit Teknologi Infomasi,6/7,J60903,KURNIAWAN B. PRIANTO,07 Jul 2025
+4ka26,4KA26,Sabtu,Sistem Informasi Perbankan,8/9,J60903,DWI KARTINAH,07 Jul 2025
+4ka27,4KA27,Senin,Sistem Informasi Perbankan,1/2,J1319,WAHYU SUPRIYATIN,07 Jul 2025
+4ka27,4KA27,Senin,Peng. Bisnis Teknologi Informa,3/4,J1319,KHAIRUNNISA RAIHANI,07 Jul 2025
+4ka27,4KA27,Senin,Sistem Informasi SDM,6/7,J1319,SINDY NOVA,07 Jul 2025
+4ka27,4KA27,Senin,Audit Teknologi Infomasi,9/10,J1319,ISRAM RASAL,07 Jul 2025
+4ka27,4KA27,Rabu,Etika & Profesionalisme TSI,1/2,J154,ANGGRAENI RIDWAN,07 Jul 2025
+4ka27,4KA27,Rabu,Sistem Informasi Geografis,3/4,J154,WIDIASTUTI,07 Jul 2025
+4ka27,4KA27,Rabu,Bahasa Inggris Bisnis 2,5/6,J154,SHOLIHANNISA DWI SAPTO RINI KAZEINDA,07 Jul 2025
+4ka28,4KA28,Senin,Audit Teknologi Infomasi,1/2,J1310,ISRAM RASAL,07 Jul 2025
+4ka28,4KA28,Senin,Sistem Informasi Geografis,3/4,J1310,WIDIASTUTI,07 Jul 2025
+4ka28,4KA28,Senin,Sistem Informasi Perbankan,6/7,J127,WAHYU SUPRIYATIN,07 Jul 2025
+4ka28,4KA28,Selasa,Etika & Profesionalisme TSI,1/2,J139,JUWITA UTAMI PUTRI,07 Jul 2025
+4ka28,4KA28,Selasa,Sistem Informasi SDM,3/4,J139,SINDY NOVA,07 Jul 2025
+4ka28,4KA28,Selasa,Peng. Bisnis Teknologi Informa,7/8,J139,KHAIRUNNISA RAIHANI,07 Jul 2025
+4ka28,4KA28,Selasa,Bahasa Inggris Bisnis 2,9/10,J139,RICKY PERDANA,07 Jul 2025
+4ka29,4KA29,Rabu,Peng. Bisnis Teknologi Informa,1/2,K268,SETIA WIRAWAN,07 Jul 2025
+4ka29,4KA29,Rabu,Audit Teknologi Infomasi,3/4,K265,EVANS WINANDA WIRGA,07 Jul 2025
+4ka29,4KA29,Rabu,Etika & Profesionalisme TSI,5/6,K161,ASTIE DARMAYANTIE,07 Jul 2025
+4ka29,4KA29,Kamis,Sistem Informasi Perbankan,1/2,K175,EGA HEGARINI,07 Jul 2025
+4ka29,4KA29,Kamis,Sistem Informasi SDM,3/4,K244,MOH. YUNUS,07 Jul 2025
+4ka29,4KA29,Jum'at,Bahasa Inggris Bisnis 2,1/2,K131,SEPTIAN DWI PUTRI,07 Jul 2025
+4ka29,4KA29,Jum'at,Sistem Informasi Geografis,3/4,K281,WIDIASTUTI,07 Jul 2025
+4ka30,4KA30,Selasa,Peng. Bisnis Teknologi Informa,1/2,K261,DETTY PURNAMASARI,07 Jul 2025
+4ka30,4KA30,Selasa,Bahasa Inggris Bisnis 2,6/7,K165,MARIA,07 Jul 2025
+4ka30,4KA30,Rabu,Audit Teknologi Infomasi,1/2,K265,EVANS WINANDA WIRGA,07 Jul 2025
+4ka30,4KA30,Rabu,Etika & Profesionalisme TSI,3/4,K161,ASTIE DARMAYANTIE,07 Jul 2025
+4ka30,4KA30,Kamis,Sistem Informasi Perbankan,1/2,K175,EGA HEGARINI,07 Jul 2025
+4ka30,4KA30,Kamis,Sistem Informasi SDM,3/4,K244,MOH. YUNUS,07 Jul 2025
+4ka30,4KA30,Jum'at,Sistem Informasi Geografis,1/2,K281,WIDIASTUTI,07 Jul 2025
+4ka31,4KA31,Selasa,Peng. Bisnis Teknologi Informa,3/4,K261,DETTY PURNAMASARI,07 Jul 2025
+4ka31,4KA31,Rabu,Etika & Profesionalisme TSI,4/5,K165,HUSTINAWATY,07 Jul 2025
+4ka31,4KA31,Kamis,Sistem Informasi Geografis,1/2,K272,RISMA RAHMALIA FITRIANI,07 Jul 2025
+4ka31,4KA31,Kamis,Sistem Informasi Perbankan,3/4,K175,EGA HEGARINI,07 Jul 2025
+4ka31,4KA31,Kamis,Sistem Informasi SDM,5/6,K244,MOH. YUNUS,07 Jul 2025
+4ka31,4KA31,Jum'at,Audit Teknologi Infomasi,3/4,K252,LINDA HANDAYANI,07 Jul 2025
+4ka31,4KA31,Jum'at,Bahasa Inggris Bisnis 2,7/8,K131,SEPTIAN DWI PUTRI,07 Jul 2025
+4ka32,4KA32,Senin,Peng. Bisnis Teknologi Informa,2/3,L224,HURNANINGSIH,07 Jul 2025
+4ka32,4KA32,Senin,Audit Teknologi Infomasi,4/5,L223,YULIA CHALRI,07 Jul 2025
+4ka32,4KA32,Rabu,Bahasa Inggris Bisnis 2,2/3,L241,DEVI HELLYSTIA,07 Jul 2025
+4ka32,4KA32,Kamis,Sistem Informasi Geografis,1/2,K272,RISMA RAHMALIA FITRIANI,07 Jul 2025
+4ka32,4KA32,Kamis,Sistem Informasi Perbankan,3/4,K175,EGA HEGARINI,07 Jul 2025
+4ka32,4KA32,Kamis,Sistem Informasi SDM,5/6,K244,MOH. YUNUS,07 Jul 2025
+4ka32,4KA32,Jum'at,Etika & Profesionalisme TSI,3/4,L243,REVIDA IRIANA NAPITUPULU,07 Jul 2025
+1kb01,1KB01,Senin,Praktikum Teknologi Kecerdasan Artifisial,1/2,,TIM DOSEN,07 Jul 2025
+1kb01,1KB01,Selasa,Teknologi Kecerdasan Artificia,,UGTV,TEAM TEACHING,07 Jul 2025
+1kb01,1KB01,Rabu,Algoritma & Pemrograman 2C,1/2,D654,FARIDA AMALYA,07 Jul 2025
+1kb01,1KB01,Rabu,Matematika Dasar 2A,3/4,D654,ALONA SITUMEANG,07 Jul 2025
+1kb01,1KB01,Rabu,Pengantar Teknologi Informasi **,5/6,D654,JAMILAH,07 Jul 2025
+1kb01,1KB01,Jum'at,Fisika Dasar 2,3/4,G441,ANDINI SINTAWATI,07 Jul 2025
+1kb01,1KB01,Jum'at,Algoritma & Pemrograman 2A,7/8,G441,ELVINA,07 Jul 2025
+1kb01,1KB01,Jum'at,Algoritma & Pemrograman 2B,9/10,G441,RAGIEL HADI PRAYITNO,07 Jul 2025
+1kb01,1KB01,Sabtu,Pendidikan Kewarganegaraan,1/2,E527,RANDY,07 Jul 2025
+1kb01,1KB01,Sabtu,Pendidikan Agama Islam,3/4,E527,APIPUDIN,07 Jul 2025
+1kb01,1KB01,Sabtu,Matematika Dasar 2B,7/8,E527,DARWIS ABDUL ROHMAN,07 Jul 2025
+1kb01,1KB01,Sabtu,Bahasa Inggris,9/10,E527,ROSE DIANA,07 Jul 2025
+1kb02,1KB02,Senin,Praktikum Teknologi Kecerdasan Artifisial,1/2,,TIM DOSEN,07 Jul 2025
+1kb02,1KB02,Selasa,Teknologi Kecerdasan Artificia,,UGTV,TEAM TEACHING,07 Jul 2025
+1kb02,1KB02,Rabu,Pengantar Teknologi Informasi **,1/2,D664,SYAMSI RUHAMA,07 Jul 2025
+1kb02,1KB02,Rabu,Fisika Dasar 2,3/4,D664,AGUS TURIYONO,07 Jul 2025
+1kb02,1KB02,Rabu,Matematika Dasar 2A,5/6,D664,ALONA SITUMEANG,07 Jul 2025
+1kb02,1KB02,Kamis,Pendidikan Kewarganegaraan,3/4,E523,MUHAMAD FARID MAHMUD,07 Jul 2025
+1kb02,1KB02,Kamis,Algoritma & Pemrograman 2C,5/6,E523,MUJI SANTOSO/FITHRI NURHAYATI,07 Jul 2025
+1kb02,1KB02,Kamis,Matematika Dasar 2B,8/9,E334,R.A.SEKAR CIPTANING ANINDYA,07 Jul 2025
+1kb02,1KB02,Jum'at,Algoritma & Pemrograman 2B,3/4,G234,AHMAD HIDAYAT,07 Jul 2025
+1kb02,1KB02,Jum'at,Algoritma & Pemrograman 2A,7/8,G231,RAGIEL HADI PRAYITNO,07 Jul 2025
+1kb02,1KB02,Sabtu,Bahasa Inggris,3/4,E524,ROSE DIANA,07 Jul 2025
+1kb02,1KB02,Sabtu,Pendidikan Agama Islam,5/6,E524,FATCHULLAH ZARKASI,07 Jul 2025
+1kb03,1KB03,Senin,Praktikum Teknologi Kecerdasan Artifisial,3/4,,TIM DOSEN,07 Jul 2025
+1kb03,1KB03,Selasa,Teknologi Kecerdasan Artificia,,UGTV,TEAM TEACHING,07 Jul 2025
+1kb03,1KB03,Rabu,Matematika Dasar 2A,1/2,D614,ALONA SITUMEANG,07 Jul 2025
+1kb03,1KB03,Rabu,Algoritma & Pemrograman 2C,3/4,D614,FARIDA AMALYA,07 Jul 2025
+1kb03,1KB03,Rabu,Matematika Dasar 2B,5/6,D614,DYNA PRASETYA,07 Jul 2025
+1kb03,1KB03,Rabu,Algoritma & Pemrograman 2B,9/10,D636,IHSAN JATNIKA,07 Jul 2025
+1kb03,1KB03,Jum'at,Fisika Dasar 2,1/2,G112,ANDINI SINTAWATI,07 Jul 2025
+1kb03,1KB03,Jum'at,Algoritma & Pemrograman 2A,3/4,G112,ELVINA,07 Jul 2025
+1kb03,1KB03,Jum'at,Pengantar Teknologi Informasi **,7/8,G112,MISSA LAMSANI,07 Jul 2025
+1kb03,1KB03,Sabtu,Bahasa Inggris,1/2,E233,ERNA PRANATA PUTRI,07 Jul 2025
+1kb03,1KB03,Sabtu,Pendidikan Agama Islam,3/4,E233,FATCHULLAH ZARKASI,07 Jul 2025
+1kb03,1KB03,Sabtu,Pendidikan Kewarganegaraan,6/7,E331,RANDY,07 Jul 2025
+1kb04,1KB04,Senin,Algoritma & Pemrograman 2C,1/2,J1518,MITA LAILASARI,07 Jul 2025
+1kb04,1KB04,Senin,Bahasa Inggris,5/6,J1518,NURLAILA,07 Jul 2025
+1kb04,1KB04,Senin,Pendidikan Kewarganegaraan,7/8,J1518,JUNAEDI ABDILLAH,07 Jul 2025
+1kb04,1KB04,Selasa,Teknologi Kecerdasan Artificia,,UGTV,TEAM TEACHING,07 Jul 2025
+1kb04,1KB04,Rabu,Pendidikan Agama Islam,1/2,J138,MUHAMMAD ALI,07 Jul 2025
+1kb04,1KB04,Rabu,Algoritma & Pemrograman 2A,3/4,J138,NIA YUNINGSIH,07 Jul 2025
+1kb04,1KB04,Rabu,Algoritma & Pemrograman 2B,6/7,J1515B,NURUL HIDAYATI NUSYIRWAN,07 Jul 2025
+1kb04,1KB04,Rabu,Matematika Dasar 2A,9/10,J148,ERFIANA WAHYUNINGSIH,07 Jul 2025
+1kb04,1KB04,Kamis,Matematika Dasar 2B,1/2,J1110,MOCHAMMAD KARJADI,07 Jul 2025
+1kb04,1KB04,Kamis,Fisika Dasar 2,3/4,J1110,ANDINI SINTAWATI,07 Jul 2025
+1kb04,1KB04,Kamis,Pengantar Teknologi Informasi **,5/6,J1110,JAMILAH,07 Jul 2025
+1kb04,1KB04,Jum'at,Praktikum Teknologi Kecerdasan Artifisial,8/9,,TIM DOSEN,07 Jul 2025
+1kb05,1KB05,Selasa,Teknologi Kecerdasan Artificia,,UGTV,TEAM TEACHING,07 Jul 2025
+1kb05,1KB05,Selasa,Praktikum Teknologi Kecerdasan Artifisial,8/9,,TIM DOSEN,07 Jul 2025
+1kb05,1KB05,Rabu,Matematika Dasar 2B,1/2,K156,ILMIYATI SARI,07 Jul 2025
+1kb05,1KB05,Rabu,Pendidikan Kewarganegaraan,3/4,K281,SUPYATI,07 Jul 2025
+1kb05,1KB05,Rabu,Pengantar Teknologi Informasi **,6/7,K262,MUHAMMAD MUDJIB,07 Jul 2025
+1kb05,1KB05,Kamis,Algoritma & Pemrograman 2B,1/2,K131,AGUSTINE HANA MASITOH,07 Jul 2025
+1kb05,1KB05,Kamis,Bahasa Inggris,4/5,K261,MARIA,07 Jul 2025
+1kb05,1KB05,Jum'at,Matematika Dasar 2A,1/2,K241,ALONA SITUMEANG,07 Jul 2025
+1kb05,1KB05,Jum'at,Pendidikan Agama Islam,3/4,K243,APIPUDIN,07 Jul 2025
+1kb05,1KB05,Sabtu,Algoritma & Pemrograman 2C,1/2,K251,PURWANTI,07 Jul 2025
+1kb05,1KB05,Sabtu,Fisika Dasar 2,3/4,K155,ANDINI SINTAWATI,07 Jul 2025
+1kb05,1KB05,Sabtu,Algoritma & Pemrograman 2A,5/6,K247,MUHAMAD TAUFAN,07 Jul 2025
+2kb01,2KB01,Selasa,Dasar - Dasar Telekomunikasi,1/2,G233,DYAH NUR'AININGSIH,07 Jul 2025
+2kb01,2KB01,Selasa,Matematika Diskrit 2,3/4,G233,BONANG WASPADADI LIGAR,07 Jul 2025
+2kb01,2KB01,Selasa,Organisasi & Ars. Komputer *,5/6,G233,SWELANDIAH ENDAH PRATIWI,07 Jul 2025
+2kb01,2KB01,Rabu,Matematika Lanjut 2 *,6/7/8,G216,ENDAH BUDIYATI,07 Jul 2025
+2kb01,2KB01,Jum'at,Bahasa Inggris Bisnis,1/2,G228,ZAINAL RIADI,07 Jul 2025
+2kb01,2KB01,Jum'at,Sistem Digital *,3/4,G228,MISSA LAMSANI,07 Jul 2025
+2kb01,2KB01,Jum'at,Pengolahan Sinyal Digital,7/8,G126,HARTONO SISWONO,07 Jul 2025
+2kb01,2KB01,Sabtu,Statistika&Probabilitas Terapa,3/4,G229,DIAN FEBRIYANTO PUTRA,07 Jul 2025
+2kb01,2KB01,Sabtu,Elektronika Lanjut,5/6,G229,SUHARTINI,07 Jul 2025
+2kb02,2KB02,Selasa,Dasar - Dasar Telekomunikasi,3/4,G434,DYAH NUR'AININGSIH,07 Jul 2025
+2kb02,2KB02,Selasa,Matematika Diskrit 2,5/6,G434,BONANG WASPADADI LIGAR,07 Jul 2025
+2kb02,2KB02,Selasa,Organisasi & Ars. Komputer *,7/8,G434,SWELANDIAH ENDAH PRATIWI,07 Jul 2025
+2kb02,2KB02,Rabu,Matematika Lanjut 2 *,5/6/7,G242,AINI SURI TALITA,07 Jul 2025
+2kb02,2KB02,Jum'at,Sistem Digital *,1/2,G125,MISSA LAMSANI,07 Jul 2025
+2kb02,2KB02,Jum'at,Pengolahan Sinyal Digital,3/4,G125,HARTONO SISWONO,07 Jul 2025
+2kb02,2KB02,Jum'at,Bahasa Inggris Bisnis,7/8,G124,TIARMA IKA YULIANA,07 Jul 2025
+2kb02,2KB02,Sabtu,Statistika&Probabilitas Terapa,5/6,G132,DIAN FEBRIYANTO PUTRA,07 Jul 2025
+2kb02,2KB02,Sabtu,Elektronika Lanjut,7/8,G132,SUHARTINI,07 Jul 2025
+2kb03,2KB03,Rabu,Matematika Lanjut 2 *,1/2/3,J1425,ICHSANI MURSIDAH,07 Jul 2025
+2kb03,2KB03,Rabu,Organisasi & Ars. Komputer *,4/5,J1425,SWELANDIAH ENDAH PRATIWI,07 Jul 2025
+2kb03,2KB03,Rabu,Matematika Diskrit 2,7/8,J118,RADEN ANDHIKA PRIHESTIRA HARTADI,07 Jul 2025
+2kb03,2KB03,Rabu,Statistika&Probabilitas Terapa,9/10,J118,SIGIT MUHAMAD YAKUB,07 Jul 2025
+2kb03,2KB03,Kamis,Pengolahan Sinyal Digital,3/4,J1317,JAMILAH,07 Jul 2025
+2kb03,2KB03,Kamis,Sistem Digital *,7/8,J119,DHATU PARAGYA,07 Jul 2025
+2kb03,2KB03,Sabtu,Dasar - Dasar Telekomunikasi,1/2,J60904,R.A.SEKAR CIPTANING ANINDYA,07 Jul 2025
+2kb03,2KB03,Sabtu,Elektronika Lanjut,3/4,J60904,TRI NUR ARIFIN,07 Jul 2025
+2kb03,2KB03,Sabtu,Bahasa Inggris Bisnis,5/6,J60904,STELLA AMANDA,07 Jul 2025
+2kb04,2KB04,Senin,Matematika Diskrit 2,1/2,K291,NURMA NUGRAHA,07 Jul 2025
+2kb04,2KB04,Senin,Pengolahan Sinyal Digital,3/4,K258,NUR SULTAN SALAHUDDIN,07 Jul 2025
+2kb04,2KB04,Selasa,Organisasi & Ars. Komputer *,1/2,K165,MUHAMMAD MUDJIB,07 Jul 2025
+2kb04,2KB04,Selasa,Bahasa Inggris Bisnis,3/4,K165,MARIA,07 Jul 2025
+2kb04,2KB04,Rabu,Matematika Lanjut 2 *,3/4/5,K156,ILMIYATI SARI,07 Jul 2025
+2kb04,2KB04,Jum'at,Elektronika Lanjut,1/2,K245,BAYU KUMORO YAKTI,07 Jul 2025
+2kb04,2KB04,Jum'at,Dasar - Dasar Telekomunikasi,3/4,K241,ALONA SITUMEANG,07 Jul 2025
+2kb04,2KB04,Sabtu,Sistem Digital *,1/2,K166,MISSA LAMSANI,07 Jul 2025
+2kb04,2KB04,Sabtu,Statistika&Probabilitas Terapa,3/4,K255,RISKAYANTO,07 Jul 2025
+2kb05,2KB05,Senin,Dasar-dasar Telekomunikasi,2/3,F4184,RIDHA ISKANDAR,07 Jul 2025
+2kb05,2KB05,Senin,Matematika Lanjut 2 *,4/5,F4184,DEWI PUTRIE LESTARI,07 Jul 2025
+2kb05,2KB05,Selasa,Organisasi & Arsitektur Komputer *,2/3,F4184,MAULANA MUJAHIDIN,07 Jul 2025
+2kb05,2KB05,Selasa,Matematika Diskrit 2,4/5,F4184,NURMA NUGRAHA,07 Jul 2025
+2kb05,2KB05,Selasa,Sistem Waktu Nyata,7/8,F4184,SINGGIH JATMIKO,07 Jul 2025
+2kb05,2KB05,Rabu,Praktikum Elektronika Dasar,2/3,Lab,IWAN,07 Jul 2025
+2kb05,2KB05,Rabu,Praktikum Sistem Digital,7/8,Lab,IWAN,07 Jul 2025
+2kb05,2KB05,Kamis,Elektronika Lanjut,1/2,F4184,NUR SULTAN SALAHUDDIN,07 Jul 2025
+2kb05,2KB05,Kamis,Sistem Digital *,3/4,F4184,MISSA LAMSANI,07 Jul 2025
+2kb05,2KB05,Jumat,Komputer Vision,1/2,F4184,AVINANTA TARIGAN,07 Jul 2025
+2kb05,2KB05,Jumat,Statistika dan Probabilitas Terapan,3/4,F4184,DESTI RIMINARSIH,07 Jul 2025
+2kb05,2KB05,Jumat,Pengolahan Sinyal Digital,7/8,F4184,MUDRIKA,07 Jul 2025
+3kb01,3KB01B,Senin,Tatap Muka Penulisan Ilmiah,1/2,E213,FITRI SJAFRINA,07 Jul 2025
+3kb01,3KB01C,Senin,Tatap Muka Penulisan Ilmiah,1/2,E213,MATIAS KRISTIAN KELVIANDY,07 Jul 2025
+3kb01,3KB01A,Senin,Tatap Muka Penulisan Ilmiah,1/2,E213,MISSA LAMSANI,07 Jul 2025
+3kb01,3KB01D,Senin,Tatap Muka Penulisan Ilmiah,1/2,E213,SUHARTINI,07 Jul 2025
+3kb01,3KB01E,Senin,Tatap Muka Penulisan Ilmiah,1/2,E213,YULI FITRIYANI,07 Jul 2025
+3kb01,3KB01,Senin,Jaringan Komputer Lanjut,3/4,E247,VIVIEN NOVA FITHRIANA,07 Jul 2025
+3kb01,3KB01,Senin,Internet of Things (IoT),5/6,E247,PURNAWARMAN MUSA,07 Jul 2025
+3kb01,3KB01,Senin,Robotika Dasar *,9/10,E217,LINGGA HERMANTO,07 Jul 2025
+3kb01,3KB01,Kamis,Sistem Tertanam (Embedded) *,1/2/3,D623,RIDHA ISKANDAR,07 Jul 2025
+3kb01,3KB01,Kamis,Pengantarmukaan Perif.Komputer *,6/7,D644,RAGIEL HADI PRAYITNO,07 Jul 2025
+3kb01,3KB01,Kamis,Sistem Cerdas Lanjut,8/9,D644,NUR SULTAN SALAHUDDIN,07 Jul 2025
+3kb01,3KB01,Jum'at,Terapan Teori Graf,,UGTV,TEAM TEACHING,07 Jul 2025
+3kb01,3KB01,Jum'at,Praktikum Terapan Teori Graf,6/7,,TIM DOSEN,07 Jul 2025
+3kb02,3KB02D,Senin,Tatap Muka Penulisan Ilmiah,1/2,E218,ELVINA,07 Jul 2025
+3kb02,3KB02B,Senin,Tatap Muka Penulisan Ilmiah,1/2,E218,FAUZIAH SUPARDI,07 Jul 2025
+3kb02,3KB02C,Senin,Tatap Muka Penulisan Ilmiah,1/2,E218,JALINAS,07 Jul 2025
+3kb02,3KB02A,Senin,Tatap Muka Penulisan Ilmiah,1/2,E218,YASMAN RIANTO,07 Jul 2025
+3kb02,3KB02,Senin,Internet of Things (IoT),3/4,E212,PURNAWARMAN MUSA,07 Jul 2025
+3kb02,3KB02,Senin,Robotika Dasar *,7/8,E212,LINGGA HERMANTO,07 Jul 2025
+3kb02,3KB02,Senin,Jaringan Komputer Lanjut,9/10,E212,CECEP SUPRAYOGI,07 Jul 2025
+3kb02,3KB02,Kamis,Pengantarmukaan Perif.Komputer *,1/2,D612,FARID THALIB,07 Jul 2025
+3kb02,3KB02,Kamis,Sistem Cerdas Lanjut,3/4,D612,NUR SULTAN SALAHUDDIN,07 Jul 2025
+3kb02,3KB02,Kamis,Sistem Tertanam (Embedded) *,5/6/7,D612,RIDHA ISKANDAR,07 Jul 2025
+3kb02,3KB02,Jum'at,Terapan Teori Graf,,UGTV,TEAM TEACHING,07 Jul 2025
+3kb02,3KB02,Jum'at,Praktikum Terapan Teori Graf,6/7,,TIM DOSEN,07 Jul 2025
+3kb03,3KB03,Senin,Internet of Things (IoT),1/2,E216,PURNAWARMAN MUSA,07 Jul 2025
+3kb03,3KB03,Senin,Robotika Dasar *,3/4,E216,LINGGA HERMANTO,07 Jul 2025
+3kb03,3KB03,Senin,Jaringan Komputer Lanjut,6/7,E524,VIVIEN NOVA FITHRIANA,07 Jul 2025
+3kb03,3KB03E,Senin,Tatap Muka Penulisan Ilmiah,8/9,F8483,YOGI PERMADI,07 Jul 2025
+3kb03,3KB03D,Kamis,Tatap Muka Penulisan Ilmiah,1/2,D647,ALFIE SYAHRI,07 Jul 2025
+3kb03,3KB03A,Kamis,Tatap Muka Penulisan Ilmiah,1/2,D647,BINTANG EKA PUTERA,07 Jul 2025
+3kb03,3KB03B,Kamis,Tatap Muka Penulisan Ilmiah,1/2,D647,HENDRI DWI PUTRA,07 Jul 2025
+3kb03,3KB03C,Kamis,Tatap Muka Penulisan Ilmiah,1/2,D647,MAULANA MUJAHIDIN,07 Jul 2025
+3kb03,3KB03,Kamis,Pengantarmukaan Perif.Komputer *,3/4,D653,FARID THALIB,07 Jul 2025
+3kb03,3KB03,Kamis,Sistem Cerdas Lanjut,6/7,D661,NUR SULTAN SALAHUDDIN,07 Jul 2025
+3kb03,3KB03,Kamis,Sistem Tertanam (Embedded) *,8/9/10,D661,RIDHA ISKANDAR,07 Jul 2025
+3kb03,3KB03,Jum'at,Terapan Teori Graf,,UGTV,TEAM TEACHING,07 Jul 2025
+3kb03,3KB03,Jum'at,Praktikum Terapan Teori Graf,8/9,,TIM DOSEN,07 Jul 2025
+3kb04,3KB04,Senin,Praktikum Terapan Teori Graf,6/7,,TIM DOSEN,07 Jul 2025
+3kb04,3KB04,Rabu,Sistem Tertanam (Embedded) *,1/2/3,J1417,RIDHA ISKANDAR,07 Jul 2025
+3kb04,3KB04,Rabu,Pengantarmukaan Perif.Komputer *,5/6,J1516A,RAGIEL HADI PRAYITNO,07 Jul 2025
+3kb04,3KB04,Rabu,Sistem Cerdas Lanjut,7/8,J1516A,MUDRIKA,07 Jul 2025
+3kb04,3KB04,Rabu,Jaringan Komputer Lanjut,9/10,J1516A,DWI WIDIASTUTI,07 Jul 2025
+3kb04,3KB04,Kamis,Robotika Dasar *,1/2,J137,ATIT PERTIWI,07 Jul 2025
+3kb04,3KB04,Kamis,Internet of Things (IoT),3/4,J137,PURNAWARMAN MUSA,07 Jul 2025
+3kb04,3KB04B,Kamis,Tatap Muka Penulisan Ilmiah,6/7,J1111,ITA RUSMALA DEWI,07 Jul 2025
+3kb04,3KB04A,Kamis,Tatap Muka Penulisan Ilmiah,6/7,J1111,MARIZA WIJAYANTI,07 Jul 2025
+3kb04,3KB04C,Kamis,Tatap Muka Penulisan Ilmiah,6/7,J1111,MUDRIKA,07 Jul 2025
+3kb04,3KB04E,Kamis,Tatap Muka Penulisan Ilmiah,8/9,J1524,BUDI UTAMI FAHNUN,07 Jul 2025
+3kb04,3KB04D,Kamis,Tatap Muka Penulisan Ilmiah,8/9,J1524,SUTRESNA WATI,07 Jul 2025
+3kb04,3KB04,Jum'at,Terapan Teori Graf,,UGTV,TEAM TEACHING,07 Jul 2025
+3kb05,3KB05,Senin,Jaringan Komputer Lanjut,1/2,K262,MAULANA MUJAHIDIN,07 Jul 2025
+3kb05,3KB05B,Senin,Tatap Muka Penulisan Ilmiah,3/4,K262,MAULANA MUJAHIDIN,07 Jul 2025
+3kb05,3KB05,Senin,Sistem Tertanam (Embedded) *,5/6/7,K258,NUR SULTAN SALAHUDDIN,07 Jul 2025
+3kb05,3KB05,Selasa,Internet of Things (IoT),1/2,K253,PURNAWARMAN MUSA,07 Jul 2025
+3kb05,3KB05C,Selasa,Tatap Muka Penulisan Ilmiah,8/9,K153,ARY BIMA KURNIAWAN,07 Jul 2025
+3kb05,3KB05,Kamis,Pengantarmukaan Perif.Komputer *,3/4,K264,MUHAMMAD SUBALI,07 Jul 2025
+3kb05,3KB05,Jum'at,Terapan Teori Graf,,UGTV,TEAM TEACHING,07 Jul 2025
+3kb05,3KB05,Jum'at,Praktikum Terapan Teori Graf,6/7,,TIM DOSEN,07 Jul 2025
+3kb05,3KB05,Sabtu,Robotika Dasar *,1/2,K246,MARA NUGRAHA,07 Jul 2025
+3kb05,3KB05,Sabtu,Sistem Cerdas Lanjut,3/4,K156,ATIT PERTIWI,07 Jul 2025
+3kb05,3KB05A,Sabtu,Tatap Muka Penulisan Ilmiah,5/6,K166,MISSA LAMSANI,07 Jul 2025
+4kb01,4KB01,Senin,Sistem Waktu Nyata,3/4,G139,FARID THALIB,07 Jul 2025
+4kb01,4KB01,Senin,Analisis Kinerja Sistem,5/6,G139,DYAH ANGGRAINI,07 Jul 2025
+4kb01,4KB01,Senin,Komputer Vision,7/8,G139,MOHAMMAD IQBAL,07 Jul 2025
+4kb01,4KB01,Selasa,Pengantar Ubiquitus Computing,1/2,G113,SINGGIH JATMIKO,07 Jul 2025
+4kb01,4KB01,Selasa,Simulasi & Pemodelan,3/4,G113,AVINANTA TARIGAN,07 Jul 2025
+4kb01,4KB01,Selasa,Kewirausahaan Teknologi Inf.,6/7,G133,NOOR VIKA HIZVIANI,07 Jul 2025
+4kb01,4KB01,Selasa,Sistem Multimedia,8/9,G133,MISSA LAMSANI,07 Jul 2025
+4kb02,4KB02,Senin,Pengantar Ubiquitus Computing,1/2,G249,SINGGIH JATMIKO,07 Jul 2025
+4kb02,4KB02,Senin,Komputer Vision,3/4,G249,MOHAMMAD IQBAL,07 Jul 2025
+4kb02,4KB02,Senin,Sistem Waktu Nyata,6/7,G232,FARID THALIB,07 Jul 2025
+4kb02,4KB02,Senin,Analisis Kinerja Sistem,9/10,G232,MUJI LESTARI,07 Jul 2025
+4kb02,4KB02,Selasa,Kewirausahaan Teknologi Inf.,1/2,G238,NOOR VIKA HIZVIANI,07 Jul 2025
+4kb02,4KB02,Selasa,Sistem Multimedia,3/4,G238,MISSA LAMSANI,07 Jul 2025
+4kb02,4KB02,Selasa,Simulasi & Pemodelan,7/8,G137,AVINANTA TARIGAN,07 Jul 2025
+4kb03,4KB03,Senin,Komputer Vision,1/2,G343,MOHAMMAD IQBAL,07 Jul 2025
+4kb03,4KB03,Senin,Pengantar Ubiquitus Computing,3/4,G343,SINGGIH JATMIKO,07 Jul 2025
+4kb03,4KB03,Senin,Analisis Kinerja Sistem,7/8,G115,MUJI LESTARI,07 Jul 2025
+4kb03,4KB03,Senin,Sistem Waktu Nyata,9/10,G115,FARID THALIB,07 Jul 2025
+4kb03,4KB03,Selasa,Simulasi & Pemodelan,1/2,G115,AVINANTA TARIGAN,07 Jul 2025
+4kb03,4KB03,Selasa,Kewirausahaan Teknologi Inf.,3/4,G115,NOOR VIKA HIZVIANI,07 Jul 2025
+4kb03,4KB03,Selasa,Sistem Multimedia,6/7,G115,MISSA LAMSANI,07 Jul 2025
+4kb04,4KB04,Rabu,Komputer Vision,1/2,J1613,MUHAMMAD ACHSAN ISA AL ANSHORI,07 Jul 2025
+4kb04,4KB04,Rabu,Sistem Multimedia,3/4,J1613,ARIMBI KURNIASARI,07 Jul 2025
+4kb04,4KB04,Rabu,Simulasi & Pemodelan,7/8,J129,RAGIEL HADI PRAYITNO,07 Jul 2025
+4kb04,4KB04,Rabu,Analisis Kinerja Sistem,9/10,J129,MUDRIKA,07 Jul 2025
+4kb04,4KB04,Kamis,Sistem Waktu Nyata,1/2,J1115A,ANDINI SINTAWATI,07 Jul 2025
+4kb04,4KB04,Kamis,Kewirausahaan Teknologi Inf.,3/4,J1115A,KARTIKA NOR RAMADHA,07 Jul 2025
+4kb04,4KB04,Kamis,Pengantar Ubiquitus Computing,6/7,J1115A,PURNAWARMAN MUSA,07 Jul 2025
+4kb05,4KB05,Selasa,Komputer Vision,1/2,K252,YOGI PERMADI,07 Jul 2025
+4kb05,4KB05,Selasa,Analisis Kinerja Sistem,3/4,K253,PURNAWARMAN MUSA,07 Jul 2025
+4kb05,4KB05,Kamis,Pengantar Ubiquitus Computing,1/2,K274,SINGGIH JATMIKO,07 Jul 2025
+4kb05,4KB05,Sabtu,Kewirausahaan Teknologi Inf.,1/2,K156,ATIT PERTIWI,07 Jul 2025
+4kb05,4KB05,Sabtu,Sistem Multimedia,3/4,K166,MISSA LAMSANI,07 Jul 2025
+4kb05,4KB05,Sabtu,Sistem Waktu Nyata,5/6,K155,ANDINI SINTAWATI,07 Jul 2025
+4kb05,4KB05,Sabtu,Simulasi & Pemodelan,7/8,K246,MARA NUGRAHA,07 Jul 2025
+4kb06,4KB06,Senin,Matematika Diskrit 2,1/2,F144,MARIZA WIJAYANTI,07 Jul 2025
+4kb06,4KB06,Senin,Pengolahan Sinyal Digital,3/4,F144,JAMILAH,07 Jul 2025
+4kb06,4KB06,Senin,Algoritma & Pemrograman 2,6/7,F144,FARIDA AMALYA,07 Jul 2025
+4kb06,4KB06,Senin,Sistem Cerdas Lanjut,8/9,F144,YOGI PERMADI,07 Jul 2025
+4kb06,4KB06,Selasa,Dasar-dasar Telekomunikasi,1/2,F144,ANDINI SINTAWATI,07 Jul 2025
+4kb06,4KB06,Selasa,Internet of Things (IoT),3/4,F144,FARID THALIB,07 Jul 2025
+4kb06,4KB06,Selasa,Computer Vision,6/7,F144,TUBAGUS MAULANA KUSUMA,07 Jul 2025
