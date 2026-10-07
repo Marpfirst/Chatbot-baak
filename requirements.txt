@@ -1,0 +1,21 @@
+# --- Core API ---
+fastapi==0.112.2
+uvicorn[standard]==0.30.6
+jinja2==3.1.4
+python-dotenv==1.0.1
+
+# --- Pydantic v2 ---
+pydantic==2.11.3
+pydantic-settings==2.4.0
+typing-extensions==4.12.2
+
+# --- Supabase stack ---
+supabase==2.5.1
+websockets==12.0           # diperlukan oleh realtime (supabase) agar import websockets.asyncio tersedia
+
+# --- OpenAI & HTTP client ---
+openai==1.40.6
+httpx==0.27.2              # fix kompat OpenAI; jangan naik ke 0.28.x
+
+# --- Pinecone v5 (PC2/serverless) ---
+pinecone==5.0.0
