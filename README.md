@@ -2,6 +2,8 @@
 
 A hybrid chatbot for the academic administration office (BAAK) of Gunadarma University. Questions about schedules, exams, the academic calendar, class advisors and counter hours are matched with regex rules and answered from a Supabase database. Other questions are answered with retrieval-augmented generation over a small Markdown knowledge base, using Pinecone and an OpenAI model.
 
+![Chat page of the BAAK chatbot](docs/screenshot.jpg)
+
 This repository holds the application code, the database schema and sample data.
 
 ## What it does
@@ -49,7 +51,7 @@ To set up the data: run `data/sql/create_tables.sql` in the Supabase SQL editor,
 
 ## Deployment
 
-The thesis deployment ran on Google Cloud Run. The original Dockerfile was not kept, so the one in this repository is a reconstruction: it installs `requirements.txt` and starts Uvicorn on the port Cloud Run passes in `$PORT`.
+The thesis deployment ran on Google Cloud Run. The original Dockerfile was not kept, so the one in this repository is a reconstruction: it installs `requirements.txt` and starts Uvicorn on the port Cloud Run passes in `$PORT`. It builds and the container serves the chat page and `/api/health`.
 
 ```
 gcloud run deploy chatbot-baak --source . --region <region> --set-env-vars SUPABASE_URL=...,SUPABASE_KEY=...,OPENAI_API_KEY=...,PINECONE_API_KEY=...
