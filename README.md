@@ -4,7 +4,7 @@ A hybrid chatbot for the academic administration office (BAAK) of Gunadarma Univ
 
 ![Chat page of the BAAK chatbot](docs/screenshot.jpg)
 
-This repository holds the application code, the database schema and sample data.
+This repository holds the application code, the database schema and sample data. It is the thesis code as it stood in 2025: dependency versions and model names are the ones used then.
 
 ## What it does
 
